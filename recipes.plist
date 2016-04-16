@@ -163,7 +163,8 @@ Mix and serve with cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -302,7 +303,8 @@ Mix and serve with cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 27</string>
 		<key>SERVINGS</key>
@@ -497,7 +499,8 @@ Mix and serve with cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -595,7 +598,8 @@ Mix and serve with cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -855,7 +859,8 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 111</string>
 		<key>SERVINGS</key>
@@ -883,10 +888,13 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 		<key>DIFFICULTY</key>
 		<integer>0</integer>
 		<key>DIRECTIONS</key>
-		<string>1. Prick skin of potatoes in several places and place on kitchen paper around edge of microwave turntable. Cook potatoes uncovered , on high for about 12 minutes or until potatoes are tender. Or bake in hot oven, 200°C, for about 1 hour or until tender.   
+		<string>1. Prick skin of potatoes in several places and place on kitchen paper around edge of microwave turntable. Cook potatoes uncovered , on high for about 12 minutes or until potatoes are tender. Or bake in hot oven, 200°C, for about 1 hour or until tender.
+   
 2. Saute onion and garlic in oil until onion softens. Add vegetables and mushrooms and cook until tender. Stir in chopped tomatoes and bring to boil. Simmer until mixture thickens slightly.
 
-3. Cut a cross in the top of the cooked potato and gently push to open. Spoon topping into and over potato and top with grated cheese. </string>
+3. Cut a cross in the top of the cooked potato and gently push to open. Spoon topping into and over potato and top with grated cheese. 
+
+</string>
 		<key>EXPORT_TYPE</key>
 		<string>TEXT</string>
 		<key>IMAGE</key>
@@ -1284,7 +1292,8 @@ Chop ingredients finely and mix well</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -1393,7 +1402,8 @@ Brush with a little olive oil, wrap in foil and place on the grill over medium h
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -1634,7 +1644,8 @@ Mix to serve</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -1809,7 +1820,8 @@ Mix to serve</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 28</string>
 		<key>SERVINGS</key>
@@ -2032,7 +2044,8 @@ Mix to serve</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 21</string>
 		<key>SERVINGS</key>
@@ -2205,7 +2218,8 @@ place veg mix, beans, feta, tomato on half of tortilla, fold and cook in pan tur
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -2442,7 +2456,8 @@ Stir through the feta and nuts.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg48</string>
 		<key>SERVINGS</key>
@@ -2674,7 +2689,8 @@ Bake for 20-25 minutes until the biscuit crust is golden.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -2986,7 +3002,8 @@ Serve over chilli.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 8</string>
 		<key>SERVINGS</key>
@@ -3141,7 +3158,8 @@ Serve over chilli.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 160</string>
 		<key>SERVINGS</key>
@@ -3317,7 +3335,8 @@ Serve over chilli.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 42</string>
 		<key>SERVINGS</key>
@@ -3571,7 +3590,8 @@ Serve over chilli.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 48</string>
 		<key>SERVINGS</key>
@@ -3790,7 +3810,8 @@ Serve over chilli.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -4371,7 +4392,8 @@ Serve with rice.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 58</string>
 		<key>SERVINGS</key>
@@ -4928,7 +4950,8 @@ not try it this week?</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 52</string>
 		<key>SERVINGS</key>
@@ -5167,7 +5190,8 @@ Mix and serve</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -5438,7 +5462,8 @@ Mix and serve</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -5694,7 +5719,8 @@ Mix and serve</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -5901,7 +5927,8 @@ pour onto a tray and put in the fridge to set
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -6036,7 +6063,8 @@ Chill for 4+ hours before serving (48hrs max).</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -6247,7 +6275,8 @@ Blend flour, soy sauce and add. Heat through.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 29</string>
 		<key>SERVINGS</key>
@@ -6473,7 +6502,8 @@ Blend flour, soy sauce and add. Heat through.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -6650,7 +6680,8 @@ Blend flour, soy sauce and add. Heat through.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -7227,7 +7258,8 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 12</string>
 		<key>SERVINGS</key>
@@ -7478,7 +7510,8 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -7741,7 +7774,8 @@ Serve with noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -7823,7 +7857,8 @@ Serve with noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -7930,7 +7965,8 @@ Serve with noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 99</string>
 		<key>SERVINGS</key>
@@ -8137,7 +8173,8 @@ Serve with noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -8372,7 +8409,8 @@ Serve with noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -8661,7 +8699,8 @@ Serve with cooked rice</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -8982,7 +9021,8 @@ Add pasta and lentils and oregano</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 9</string>
 		<key>SERVINGS</key>
@@ -9221,7 +9261,8 @@ Add pasta and lentils and oregano</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -9412,7 +9453,8 @@ For dressing whisk together oil, vinegar and oregano.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -9697,7 +9739,8 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 		<string>Per Serve Kilojoules 741kJ Calories 179Cal Protein 9.7g Fat 4.9g Carbohydrate 
 23.8g Sodium 976mg Potassium 387mg Calcium 40mg Iron 2.4mg Fibre 4.5g.</string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -9872,7 +9915,8 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 6</string>
 		<key>SERVINGS</key>
@@ -10011,7 +10055,8 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -10218,7 +10263,8 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -10789,7 +10835,8 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 21</string>
 		<key>SERVINGS</key>
@@ -11098,7 +11145,8 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 98</string>
 		<key>SERVINGS</key>
@@ -11378,7 +11426,8 @@ Bake in a moderate oven 180°C for 30 minutes or until crumble is crisp.
 		<key>NUTRITION</key>
 		<string>Per Serve Kilojoules980kJ Calories 235Cal Protein 9g Fat 13g Carbohydrate18g Sodium 630mg Potassium 750mg Calcium 110mg Iron 2.4mg Fibre 7g.</string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -11569,7 +11618,8 @@ Roll
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -11780,7 +11830,8 @@ Sprinkle with seeds</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 20</string>
 		<key>SERVINGS</key>
@@ -12059,7 +12110,8 @@ Sprinkle with seeds</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg20</string>
 		<key>SERVINGS</key>
@@ -12298,7 +12350,8 @@ Sprinkle with seeds</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 51</string>
 		<key>SERVINGS</key>
@@ -12490,7 +12543,8 @@ Carbohydrate 23.4g Total Sugars 8.4g Fibre 1.4g Sodium 349 mg Potassium 155mg Ca
 81 mg. 
 </string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -12675,7 +12729,8 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -12897,7 +12952,8 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -13072,7 +13128,8 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -13269,7 +13326,8 @@ Can eat immediately, or refrigerate for 1-2 hours and serve cold.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -13548,7 +13606,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 96</string>
 		<key>SERVINGS</key>
@@ -13703,7 +13762,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -14018,7 +14078,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -14278,7 +14339,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -14425,7 +14487,8 @@ Mix.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 44</string>
 		<key>SERVINGS</key>
@@ -14937,7 +15000,8 @@ Mix.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -15142,7 +15206,8 @@ Bake at 240C for 10 minutes </string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -15304,7 +15369,8 @@ Serve with salad.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 62</string>
 		<key>SERVINGS</key>
@@ -15427,7 +15493,8 @@ Serve with salad.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -15582,7 +15649,8 @@ Serve with salad.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -15729,7 +15797,8 @@ Serve with berries
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -15892,7 +15961,8 @@ Toss ¼-⅓ cup Eta Lite &amp; Free French Dressing through the roasted vegetabl
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -16308,7 +16378,8 @@ This recipe is great served either hot or cold, and makes a tasty picnic dish.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -16473,7 +16544,8 @@ Stir through beans and saute for 1 minute.
 		<string>Per Serve: Kilojoules 313kJ Calories 76Cal Protein 2.6g Fat 1.6g Carbohydrate 
 12.5g Sodium 22mg Potassium 190mg Calcium 67mg Iron 0.4mg Fibre 0.9g. </string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -16634,7 +16706,8 @@ Stir through beans and saute for 1 minute.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 12</string>
 		<key>SERVINGS</key>
@@ -16843,7 +16916,8 @@ Add sauce</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 33</string>
 		<key>SERVINGS</key>
@@ -17126,7 +17200,8 @@ NOTE: If the top browns too fast, cover the dish with foil.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -17283,7 +17358,8 @@ Bake 200˚C for 25-30 minutes.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -17542,7 +17618,8 @@ Add pasta and cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 19</string>
 		<key>SERVINGS</key>
@@ -17727,7 +17804,8 @@ Add pasta and cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -17902,7 +17980,8 @@ Add pasta and cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 68</string>
 		<key>SERVINGS</key>
@@ -18059,7 +18138,8 @@ Onion goes in at the same time as the tofu.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 44</string>
 		<key>SERVINGS</key>
@@ -18188,7 +18268,8 @@ Onion goes in at the same time as the tofu.
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -18385,7 +18466,8 @@ Season with salt and pepper, serve with cheese</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 59</string>
 		<key>SERVINGS</key>
@@ -18678,7 +18760,8 @@ Serve with rice.</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 39</string>
 		<key>SERVINGS</key>
@@ -18852,7 +18935,8 @@ Grill, turning until browned</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -19087,7 +19171,8 @@ Grill, turning until browned</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg117</string>
 		<key>SERVINGS</key>
@@ -19567,7 +19652,8 @@ Add sauces, sprinkle with seeds</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 72</string>
 		<key>SERVINGS</key>
@@ -19828,7 +19914,8 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -20115,7 +20202,8 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -20346,7 +20434,8 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -20621,7 +20710,8 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
@@ -20780,7 +20870,8 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 		<key>NUTRITION</key>
 		<string></string>
 		<key>PREP_TIMES</key>
-		<array/>
+		<array>
+		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
 		<key>SERVINGS</key>
