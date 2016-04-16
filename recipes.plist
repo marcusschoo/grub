@@ -297,7 +297,7 @@ Mix and serve with cheese</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Apple and Blueberry Tarts</string>
+		<string>Apple And Blueberry Tarts</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -1067,7 +1067,7 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Baked Potatoes with Mushroom &amp; Vegetable Filling</string>
+		<string>Baked Potatoes With Mushroom &amp; Vegetable Filling</string>
 		<key>NOTE</key>
 		<string>Use mature potatoes for baking and boiling.</string>
 		<key>NUTRITION</key>
@@ -1286,7 +1286,7 @@ Chop ingredients finely and mix well</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Baked Potatoes with Salsa</string>
+		<string>Baked Potatoes With Salsa</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -1396,7 +1396,7 @@ Brush with a little olive oil, wrap in foil and place on the grill over medium h
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Baked Vegetables with Halloumi Cheese</string>
+		<string>Baked Vegetables With Halloumi Cheese</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -1638,7 +1638,7 @@ Mix to serve</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>BBQ Tofu Salad</string>
+		<string>Bbq Tofu Salad</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -2450,7 +2450,7 @@ Stir through the feta and nuts.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Beans with tomatoes, feta and olives</string>
+		<string>Beans With Tomatoes, Feta And Olives</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -4386,7 +4386,7 @@ Serve with rice.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Cauliflower, Pea and Fried Tofu Curry</string>
+		<string>Cauliflower, Pea And Fried Tofu Curry</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -5456,7 +5456,7 @@ Mix and serve</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Chickpea, Potato and Spinach Curry</string>
+		<string>Chickpea, Potato And Spinach Curry</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -5921,7 +5921,7 @@ pour onto a tray and put in the fridge to set
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>chocolate</string>
+		<string>Chocolate</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -6674,7 +6674,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Crispy mexican bean and veg tortillas</string>
+		<string>Crispy Mexican Bean And Veg Tortillas</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -7768,7 +7768,7 @@ Serve with noodles</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Fried Tofu and Vegetable Toss</string>
+		<string>Fried Tofu And Vegetable Toss</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -7851,7 +7851,7 @@ Serve with noodles</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Frozen yoghurt</string>
+		<string>Frozen Yoghurt</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -8403,7 +8403,7 @@ Serve with noodles</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>German Apple cake</string>
+		<string>German Apple Cake</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -9015,7 +9015,7 @@ Add pasta and lentils and oregano</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Grated Vegetable with Pasta</string>
+		<string>Grated Vegetable With Pasta</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -9255,7 +9255,7 @@ Add pasta and lentils and oregano</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Greek Cucumber and Arugula Salad</string>
+		<string>Greek Cucumber And Arugula Salad</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -12344,7 +12344,7 @@ Sprinkle with seeds</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Nutmeat con-carne</string>
+		<string>Nutmeat Con-Carne</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -13320,7 +13320,7 @@ Can eat immediately, or refrigerate for 1-2 hours and serve cold.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Orzo Salad with Spinach, Tomato, Feta</string>
+		<string>Orzo Salad With Spinach, Tomato, Feta</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -14333,7 +14333,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Pasta Salad with Haloumi &amp; Lentils</string>
+		<string>Pasta Salad With Haloumi &amp; Lentils</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -14481,7 +14481,7 @@ Mix.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Pasta with Chick Pea Sauce</string>
+		<string>Pasta With Chick Pea Sauce</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -14994,7 +14994,7 @@ Mix.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Penne with Spinach, Feta and Olives</string>
+		<string>Penne With Spinach, Feta And Olives</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -15363,7 +15363,7 @@ Serve with salad.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Pumpkin, spinach and fetta frittata</string>
+		<string>Pumpkin, Spinach And Fetta Frittata</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -15643,7 +15643,7 @@ Serve with salad.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Rice paper rolls</string>
+		<string>Rice Paper Rolls</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -17194,7 +17194,7 @@ NOTE: If the top browns too fast, cover the dish with foil.
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Spinach &amp; ricotta cannelloni</string>
+		<string>Spinach &amp; Ricotta Cannelloni</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -17352,7 +17352,7 @@ Bake 200˚C for 25-30 minutes.</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Spinach and Feta Puff</string>
+		<string>Spinach And Feta Puff</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -17612,7 +17612,7 @@ Add pasta and cheese</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Spinach and Mushroom Fettuccine</string>
+		<string>Spinach And Mushroom Fettuccine</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -17798,7 +17798,7 @@ Add pasta and cheese</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>SPINACH AND RICOTTA STRUDEL WITH CHICKPEAS</string>
+		<string>Spinach And Ricotta Strudel With Chickpeas</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -18262,7 +18262,7 @@ Onion goes in at the same time as the tofu.
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Tomato Penne w/Cannellini Beans &amp; Spinach</string>
+		<string>Tomato Penne W/Cannellini Beans &amp; Spinach</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -19908,7 +19908,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Vegetarian Bean and Rice Burritos</string>
+		<string>Vegetarian Bean And Rice Burritos</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
