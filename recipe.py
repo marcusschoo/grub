@@ -56,5 +56,4 @@ if args.print_all_recipes:
 elif args.selected_recipes:
     printMenu(args.selected_recipes,db)
 elif args.custom:
-    assign_recipe_ids(db)
-    save()
+    plistlib.writePlist({'RECIPES': db}, FILE_PATH)
