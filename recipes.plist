@@ -167,6 +167,8 @@ Mix and serve with cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>acb9bf0d-b7ef-4419-8564-5d1bad69a077</string>
 		<key>SERVINGS</key>
 		<integer>2</integer>
 		<key>SOURCE</key>
@@ -307,6 +309,8 @@ Mix and serve with cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 27</string>
+		<key>RECIPE_ID</key>
+		<string>5aae01d8-cd4d-4c32-856e-1d3ff8562ee0</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -503,6 +507,8 @@ Mix and serve with cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>7b11f628-d948-48c1-bbf5-a1ad03f6b1c6</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -602,6 +608,8 @@ Mix and serve with cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>81dbff16-2979-466e-90ab-9f58d75e9229</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -863,6 +871,8 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 111</string>
+		<key>RECIPE_ID</key>
+		<string>9f4c3691-89bb-481f-8dc7-700948d3a6b7</string>
 		<key>SERVINGS</key>
 		<integer>8</integer>
 		<key>SOURCE</key>
@@ -1102,6 +1112,8 @@ Sodium 175mg Potassium 1406mg Calcium 167mg Iron 2.2mg Fibre 5.7g.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>26b74849-fef1-4da0-98ab-05ba5a742f20</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -1296,6 +1308,8 @@ Chop ingredients finely and mix well</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>d7f8bff8-40db-4ba3-9acc-e0efaafbc133</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -1406,6 +1420,8 @@ Brush with a little olive oil, wrap in foil and place on the grill over medium h
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>e063f0d0-7c1b-484b-8a92-ac6f8a8a26ea</string>
 		<key>SERVINGS</key>
 		<integer>6</integer>
 		<key>SOURCE</key>
@@ -1648,6 +1664,8 @@ Mix to serve</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>969d8160-7e4b-4da0-b77d-476a9f276dc9</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -1824,6 +1842,8 @@ Mix to serve</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 28</string>
+		<key>RECIPE_ID</key>
+		<string>4a07e6fa-f0e1-4da9-8ee7-c3992db3531c</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -2048,6 +2068,8 @@ Mix to serve</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 21</string>
+		<key>RECIPE_ID</key>
+		<string>8fca20dd-99ac-4420-8428-0d77d0f88692</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -2222,6 +2244,8 @@ place veg mix, beans, feta, tomato on half of tortilla, fold and cook in pan tur
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>a88a7b7f-c52e-469f-848e-ba1f045c6207</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -2460,6 +2484,8 @@ Stir through the feta and nuts.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg48</string>
+		<key>RECIPE_ID</key>
+		<string>634168fc-82fd-4a18-8da4-1bc0303423cb</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -2693,6 +2719,8 @@ Bake for 20-25 minutes until the biscuit crust is golden.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>db765386-6482-4efe-92bc-782dea9c8adf</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -3006,6 +3034,8 @@ Serve over chilli.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 8</string>
+		<key>RECIPE_ID</key>
+		<string>eb9ad3c4-09e2-4a96-9820-dbc91015cbd8</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -3162,6 +3192,8 @@ Serve over chilli.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 160</string>
+		<key>RECIPE_ID</key>
+		<string>ca4193a2-26f7-4af5-9b17-7e178229f03b</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -3339,6 +3371,8 @@ Serve over chilli.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 42</string>
+		<key>RECIPE_ID</key>
+		<string>1b0f3b90-6249-42f6-bef8-1c47213fc416</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -3594,6 +3628,8 @@ Serve over chilli.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 48</string>
+		<key>RECIPE_ID</key>
+		<string>a80b2c53-6358-4fdf-aa58-0f62b88d0946</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -3814,6 +3850,8 @@ Serve over chilli.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>9a0ceaf1-3819-4daf-a58e-0a2ef473e162</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -4119,6 +4157,8 @@ Serve with noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>09cb64ac-a555-4996-ad13-63f4019959e4</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -4396,6 +4436,8 @@ Serve with rice.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 58</string>
+		<key>RECIPE_ID</key>
+		<string>aa00890f-a470-447d-a1a7-2d2c247da157</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -4675,6 +4717,8 @@ Potassium 500mg Calcium 60mg Iron 1.7mg Fibre 5g</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>1dc96ade-7b76-448a-9e40-84071bc45c46</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -4954,6 +4998,8 @@ not try it this week?</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 52</string>
+		<key>RECIPE_ID</key>
+		<string>a6eed71e-1db8-47bb-8d48-bbf0d1b1df22</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -5194,6 +5240,8 @@ Mix and serve</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>f0b52f65-25d9-4ff1-a3c6-fc4a0c82fd08</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -5466,6 +5514,8 @@ Mix and serve</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>86e178ff-de05-468a-ae51-3643eaf45941</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -5723,6 +5773,8 @@ Mix and serve</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>c31bf14b-8bd4-449d-8926-fc6326935342</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -5931,6 +5983,8 @@ pour onto a tray and put in the fridge to set
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>63a293f3-5fec-444c-b834-357acc05a59d</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -6067,6 +6121,8 @@ Chill for 4+ hours before serving (48hrs max).</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>bd66f193-2a9a-4a70-8eb4-c2caf40d0460</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -6279,6 +6335,8 @@ Blend flour, soy sauce and add. Heat through.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 29</string>
+		<key>RECIPE_ID</key>
+		<string>9f6818ac-ce50-4950-a49f-545b1c4a0c4c</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -6506,6 +6564,8 @@ Blend flour, soy sauce and add. Heat through.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>44a84251-c596-4139-8e86-d9e45b6f3caa</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -6684,6 +6744,8 @@ Blend flour, soy sauce and add. Heat through.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>827399a8-d0ca-4d81-a2b8-5a46b3e6b713</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -7004,6 +7066,8 @@ Sodium 810mg Potassium 705mg Calcium 130mg Iron 4.4mg Fibre 1.1g. </string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>20c4dcce-a8f9-441d-ae19-bde60e2df28d</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -7262,6 +7326,8 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 12</string>
+		<key>RECIPE_ID</key>
+		<string>d676a7c5-4954-4ae4-8a33-f3e788d8a8fe</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -7514,6 +7580,8 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>43d7d7ea-a637-407a-8e5b-48d5a85fb3ab</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -7778,6 +7846,8 @@ Serve with noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>4f4e2cc7-211a-425e-9b42-b8292d20d4aa</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -7861,6 +7931,8 @@ Serve with noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>464e8d73-4f12-4561-85ce-96b319d053fe</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -7969,6 +8041,8 @@ Serve with noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 99</string>
+		<key>RECIPE_ID</key>
+		<string>bb106601-0481-4f38-b480-9a9562c52507</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -8177,6 +8251,8 @@ Serve with noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>d064758f-2e3b-4002-beb5-5fb82bf51d6d</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -8413,6 +8489,8 @@ Serve with noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>953a77d5-350e-4995-b3c7-88e6183d57cc</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -8703,6 +8781,8 @@ Serve with cooked rice</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>974d1c29-c8a5-4a95-a742-eb9feca89719</string>
 		<key>SERVINGS</key>
 		<integer>5</integer>
 		<key>SOURCE</key>
@@ -9025,6 +9105,8 @@ Add pasta and lentils and oregano</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 9</string>
+		<key>RECIPE_ID</key>
+		<string>6e8fc0e5-eaf3-48ad-a174-15e8b5861a74</string>
 		<key>SERVINGS</key>
 		<integer>6</integer>
 		<key>SOURCE</key>
@@ -9265,6 +9347,8 @@ Add pasta and lentils and oregano</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>f1f02240-e6ce-4b27-aacc-974cb76ee651</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -9457,6 +9541,8 @@ For dressing whisk together oil, vinegar and oregano.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>1e5693eb-b503-4061-a24b-d0e7e5acf2ef</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -9743,6 +9829,8 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>6d6788ed-80d0-41a3-a194-f490fe058ae1</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -9919,6 +10007,8 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 6</string>
+		<key>RECIPE_ID</key>
+		<string>219136d4-c9f1-40d8-b0a7-af58a1144aa2</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -10059,6 +10149,8 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>1eecbb02-23e6-4774-b1d5-9aa53f7000dd</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -10267,6 +10359,8 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>6ca0f645-c930-44b0-9100-4b83f8f1f0d9</string>
 		<key>SERVINGS</key>
 		<integer>6</integer>
 		<key>SOURCE</key>
@@ -10563,6 +10657,8 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 51</string>
+		<key>RECIPE_ID</key>
+		<string>d43238ee-7b5d-414c-bac5-b397b99f5651</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -10839,6 +10935,8 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 21</string>
+		<key>RECIPE_ID</key>
+		<string>12c1ce2f-53b5-41fd-84fc-de89020ebb13</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -11149,6 +11247,8 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 98</string>
+		<key>RECIPE_ID</key>
+		<string>71762e3b-1258-410b-ac66-d8e8bfbbcc61</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -11430,6 +11530,8 @@ Bake in a moderate oven 180°C for 30 minutes or until crumble is crisp.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>f6b0edeb-17d5-4fa9-83b5-044363cddbf5</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -11622,6 +11724,8 @@ Roll
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>e31d9cc0-d2a2-4cbe-9be8-2be12a231a6c</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -11834,6 +11938,8 @@ Sprinkle with seeds</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 20</string>
+		<key>RECIPE_ID</key>
+		<string>462adcd6-e947-4019-955c-b0c99b928ba1</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -12114,6 +12220,8 @@ Sprinkle with seeds</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg20</string>
+		<key>RECIPE_ID</key>
+		<string>be6d74bf-8cc2-4a26-8234-ca989e9a2260</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -12354,6 +12462,8 @@ Sprinkle with seeds</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 51</string>
+		<key>RECIPE_ID</key>
+		<string>ae3e79de-c698-484a-ab83-a2273ba58fe6</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -12547,6 +12657,8 @@ Carbohydrate 23.4g Total Sugars 8.4g Fibre 1.4g Sodium 349 mg Potassium 155mg Ca
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>d73e493c-9515-4991-a87f-deadda2d59c8</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -12733,6 +12845,8 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>3e604dfe-c7de-4373-9fed-1c7b57957adf</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -12956,6 +13070,8 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>9f956269-c3bf-474b-bd7a-082f6848756d</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -13132,6 +13248,8 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>fcdc5a5d-1837-4986-8fc1-b31baa29e57a</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -13330,6 +13448,8 @@ Can eat immediately, or refrigerate for 1-2 hours and serve cold.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>bfeea4ef-d8cb-4c55-9283-3d0c97303288</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -13610,6 +13730,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 96</string>
+		<key>RECIPE_ID</key>
+		<string>1165bf6c-d7e8-4d0b-8e76-745f295b0af5</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -13766,6 +13888,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>3dd4f88c-465d-4051-beb5-5a4b1c3a0d4c</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -14082,6 +14206,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>9458082d-62d3-456f-b7b5-c8c8285dc069</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -14343,6 +14469,8 @@ Add sprouts, coriander, peanuts and noodles</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>a1e15eb2-ab4e-4125-8240-762af3af25ed</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -14491,6 +14619,8 @@ Mix.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 44</string>
+		<key>RECIPE_ID</key>
+		<string>cd09730c-c9dc-41bc-8090-d3b82debfedf</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -14812,6 +14942,8 @@ Mix.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>0eb78d06-510e-41a9-8bba-8193f8563488</string>
 		<key>SERVINGS</key>
 		<integer>8</integer>
 		<key>SOURCE</key>
@@ -15004,6 +15136,8 @@ Mix.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>80d5ab4c-ca19-4c3e-8588-babcf1110e77</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -15210,6 +15344,8 @@ Bake at 240C for 10 minutes </string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>85b1cf31-e416-4045-ac86-e816ab98b112</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -15373,6 +15509,8 @@ Serve with salad.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 62</string>
+		<key>RECIPE_ID</key>
+		<string>947c1c68-ecab-4d84-b3c4-fc22b9af590b</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -15497,6 +15635,8 @@ Serve with salad.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>2ebaa09b-c2c5-4d6b-be2b-a9e65081b9e9</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -15653,6 +15793,8 @@ Serve with salad.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>2c0e288c-d8d6-44ca-a2aa-9a223208aaba</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -15801,6 +15943,8 @@ Serve with berries
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>5609387d-80e7-47bb-b4a6-7f5fac72b76b</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -15965,6 +16109,8 @@ Toss ¼-⅓ cup Eta Lite &amp; Free French Dressing through the roasted vegetabl
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>b8af0133-0576-4034-bf37-99ec5a321ff0</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -16190,6 +16336,8 @@ This recipe is great served either hot or cold, and makes a tasty picnic dish.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>dd8ee22e-a1f7-4e36-b601-83ce13527e04</string>
 		<key>SERVINGS</key>
 		<integer>6</integer>
 		<key>SOURCE</key>
@@ -16382,6 +16530,8 @@ This recipe is great served either hot or cold, and makes a tasty picnic dish.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>df7b8671-7bf3-4604-957b-a734fb196c1b</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -16548,6 +16698,8 @@ Stir through beans and saute for 1 minute.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>47dc91cc-09fd-44eb-9fda-a4dc584f3c10</string>
 		<key>SERVINGS</key>
 		<integer>2</integer>
 		<key>SOURCE</key>
@@ -16710,6 +16862,8 @@ Stir through beans and saute for 1 minute.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 12</string>
+		<key>RECIPE_ID</key>
+		<string>eff00071-d592-44d5-82cb-20ce7b4a6042</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -16920,6 +17074,8 @@ Add sauce</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 33</string>
+		<key>RECIPE_ID</key>
+		<string>7caf65e7-2985-4ba1-af9c-41f482964994</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -17204,6 +17360,8 @@ NOTE: If the top browns too fast, cover the dish with foil.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>a872ca75-867e-42cf-8890-83a48745c4a1</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -17362,6 +17520,8 @@ Bake 200˚C for 25-30 minutes.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>00d7dd98-19a1-405b-aae0-be1759b4acf5</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -17622,6 +17782,8 @@ Add pasta and cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 19</string>
+		<key>RECIPE_ID</key>
+		<string>b456aa5b-792e-4ca7-9ffd-6101bc94cd40</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -17808,6 +17970,8 @@ Add pasta and cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>a3fbc218-2b10-441a-8d80-930cc10a7738</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -17984,6 +18148,8 @@ Add pasta and cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 68</string>
+		<key>RECIPE_ID</key>
+		<string>86a699a0-fa10-4071-80ca-bdb30a4c3356</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -18142,6 +18308,8 @@ Onion goes in at the same time as the tofu.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 44</string>
+		<key>RECIPE_ID</key>
+		<string>b854d47a-60d3-4403-9be3-c2cca1211cbe</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -18272,6 +18440,8 @@ Onion goes in at the same time as the tofu.
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>116a0791-b74d-4edb-8749-72a8801a607f</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -18470,6 +18640,8 @@ Season with salt and pepper, serve with cheese</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 59</string>
+		<key>RECIPE_ID</key>
+		<string>a3f864f7-e073-4cdb-8f5d-6c178f10c393</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -18764,6 +18936,8 @@ Serve with rice.</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>pg 39</string>
+		<key>RECIPE_ID</key>
+		<string>30b7d579-085d-4a96-a2ee-285e962fb8b9</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -18939,6 +19113,8 @@ Grill, turning until browned</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>9cd3d869-82c7-420e-8873-db924df0aff9</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -19175,6 +19351,8 @@ Grill, turning until browned</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg117</string>
+		<key>RECIPE_ID</key>
+		<string>87ce4d84-5c9c-4dd9-8390-741e67fb520d</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -19400,6 +19578,8 @@ add a little more oil to help the mixture stick together if you use feta. </stri
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>520c2552-d52e-4895-af5f-5413efd23086</string>
 		<key>SERVINGS</key>
 		<integer>4</integer>
 		<key>SOURCE</key>
@@ -19656,6 +19836,8 @@ Add sauces, sprinkle with seeds</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string>Pg 72</string>
+		<key>RECIPE_ID</key>
+		<string>917822ef-7a8d-4f29-a902-de8587e11ce0</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -19918,6 +20100,8 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>3b69f28a-0b28-4dd0-8d25-51813a95901b</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -20206,6 +20390,8 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>0c929c9d-dead-4aa6-92ec-cb4df0858e6b</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -20438,6 +20624,8 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>0bc980ad-8199-4311-a188-f45adc619d36</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -20714,6 +20902,8 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>3b830a83-e606-4330-beb0-4e400de4f182</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>
@@ -20874,6 +21064,8 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 		</array>
 		<key>PUBLICATION_PAGE</key>
 		<string></string>
+		<key>RECIPE_ID</key>
+		<string>1ae1e1a1-59f8-4dbd-8740-90df5d8c0536</string>
 		<key>SERVINGS</key>
 		<integer>0</integer>
 		<key>SOURCE</key>

@@ -1,5 +1,11 @@
 import argparse
 import plistlib
+import uuid
+
+FILE_PATH = './recipes.plist'
+
+def save():
+    plistlib.writePlist(db, FILE_PATH)
 
 def printNames(db):
     for r in db:
@@ -26,11 +32,20 @@ def printMenu(path_to_menu,db):
         print db[index]['DIRECTIONS']
     print '==============================='
 
-db=plistlib.readPlist('./recipes.plist')
+def assign_recipe_ids(db):
+    for r in db:
+        id = r.get('RECIPE_ID', None)
+        if not id:
+            r['RECIPE_ID'] = str(uuid.uuid4())
+
+
+db=plistlib.readPlist(FILE_PATH)
 
 argparser = argparse.ArgumentParser(description="Command line recipe tool.")
 argparser.add_argument('-r','--recipes', dest='print_all_recipes', action='store_true',
                        help='print a list of all recipes')
+argparser.add_argument('-c','--custom', dest='custom', action='store_true',
+                       help='custom operation, changes frequently')
 argparser.add_argument('-s','--shoppinglist', dest='selected_recipes', action='store',
                        type=argparse.FileType('r'),
                        help='read in a file with selected recipes marked with "y " at the start of line and generate shopping list')
@@ -40,3 +55,6 @@ if args.print_all_recipes:
     printNames(db)
 elif args.selected_recipes:
     printMenu(args.selected_recipes,db)
+elif args.custom:
+    assign_recipe_ids(db)
+    save()
