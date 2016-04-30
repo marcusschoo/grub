@@ -2,6 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>COLLECTIONS</key>
+	<dict>
+		<key>Weekend Lunches</key>
+		<array/>
+		<key>Weekend Dinners</key>
+		<array/>
+		<key>Weekday Lunches</key>
+		<array/>
+		<key>Weekday Dinners</key>
+		<array/>
+	</dict>
 	<key>RECIPES</key>
 	<array>
 		<dict>
@@ -165,8 +176,7 @@ Mix and serve with cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -307,8 +317,7 @@ Mix and serve with cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 27</string>
 			<key>RECIPE_ID</key>
@@ -505,8 +514,7 @@ Mix and serve with cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -606,8 +614,7 @@ Mix and serve with cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -869,8 +876,7 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 111</string>
 			<key>RECIPE_ID</key>
@@ -1143,7 +1149,7 @@ Sodium 175mg Potassium 1406mg Calcium 167mg Iron 2.2mg Fibre 5.7g.</string>
 			<key>DIRECTIONS</key>
 			<string>## Potatoes
 
-Bake at 220'C for 45-60min
+Bake at 220&apos;C for 45-60min
 
 ## Salsa
 
@@ -1306,8 +1312,7 @@ Chop ingredients finely and mix well</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -1418,8 +1423,7 @@ Brush with a little olive oil, wrap in foil and place on the grill over medium h
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -1662,8 +1666,7 @@ Mix to serve</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -1671,7 +1674,7 @@ Mix to serve</string>
 			<key>SERVINGS</key>
 			<integer>4</integer>
 			<key>SOURCE</key>
-			<string>Jamie's Booklet</string>
+			<string>Jamie&apos;s Booklet</string>
 			<key>SUMMARY</key>
 			<string></string>
 			<key>TYPE</key>
@@ -1840,8 +1843,7 @@ Mix to serve</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 28</string>
 			<key>RECIPE_ID</key>
@@ -2066,8 +2068,7 @@ Mix to serve</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>pg 21</string>
 			<key>RECIPE_ID</key>
@@ -2242,8 +2243,7 @@ place veg mix, beans, feta, tomato on half of tortilla, fold and cook in pan tur
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -2482,8 +2482,7 @@ Stir through the feta and nuts.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg48</string>
 			<key>RECIPE_ID</key>
@@ -2717,8 +2716,7 @@ Bake for 20-25 minutes until the biscuit crust is golden.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -3032,8 +3030,7 @@ Serve over chilli.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>pg 8</string>
 			<key>RECIPE_ID</key>
@@ -3190,8 +3187,7 @@ Serve over chilli.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>pg 160</string>
 			<key>RECIPE_ID</key>
@@ -3221,12 +3217,12 @@ Serve over chilli.
 			<key>DIFFICULTY</key>
 			<integer>0</integer>
 			<key>DIRECTIONS</key>
-			<string>1 Oven 190'C
+			<string>1 Oven 190&apos;C
 2 Line dish with pastry
 3 Add broccoli
 4 Blend remaining ingredients (not cheese)
 5 Add to broccoli, top with cheese
-6 Bake 15 min, bake at 160'C for 20 min</string>
+6 Bake 15 min, bake at 160&apos;C for 20 min</string>
 			<key>INGREDIENTS</key>
 			<array>
 				<dict>
@@ -3369,8 +3365,7 @@ Serve over chilli.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 42</string>
 			<key>RECIPE_ID</key>
@@ -3626,8 +3621,7 @@ Serve over chilli.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 48</string>
 			<key>RECIPE_ID</key>
@@ -3848,8 +3842,7 @@ Serve over chilli.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -4164,7 +4157,7 @@ Serve with noodles</string>
 			<key>SERVINGS</key>
 			<integer>4</integer>
 			<key>SOURCE</key>
-			<string>Jamie's Booklet</string>
+			<string>Jamie&apos;s Booklet</string>
 			<key>SUMMARY</key>
 			<string></string>
 			<key>TYPE</key>
@@ -4434,8 +4427,7 @@ Serve with rice.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 58</string>
 			<key>RECIPE_ID</key>
@@ -4996,8 +4988,7 @@ not try it this week?</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 52</string>
 			<key>RECIPE_ID</key>
@@ -5238,8 +5229,7 @@ Mix and serve</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -5247,7 +5237,7 @@ Mix and serve</string>
 			<key>SERVINGS</key>
 			<integer>4</integer>
 			<key>SOURCE</key>
-			<string>Jamie's Booklet</string>
+			<string>Jamie&apos;s Booklet</string>
 			<key>SUMMARY</key>
 			<string></string>
 			<key>TYPE</key>
@@ -5512,8 +5502,7 @@ Mix and serve</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -5771,8 +5760,7 @@ Mix and serve</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -5981,8 +5969,7 @@ pour onto a tray and put in the fridge to set
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -6119,8 +6106,7 @@ Chill for 4+ hours before serving (48hrs max).</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -6333,8 +6319,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 29</string>
 			<key>RECIPE_ID</key>
@@ -6368,9 +6353,9 @@ Blend flour, soy sauce and add. Heat through.</string>
 2/ Beat in eggs and vanilla
 3/ Slowly add flour, baking soda, baking powder, salt
 4/ Mix in choc chunks
-5/ Drop dough 2" apart onto parchment-lined baking sheets
+5/ Drop dough 2&quot; apart onto parchment-lined baking sheets
 6/ Sprinkle with sea salt
-7/ Bake at 180'C for 12 minutes, or until golden brown around the edges
+7/ Bake at 180&apos;C for 12 minutes, or until golden brown around the edges
 </string>
 			<key>INGREDIENTS</key>
 			<array>
@@ -6562,8 +6547,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -6742,8 +6726,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -7324,8 +7307,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>pg 12</string>
 			<key>RECIPE_ID</key>
@@ -7578,8 +7560,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -7844,8 +7825,7 @@ Serve with noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -7929,8 +7909,7 @@ Serve with noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -8039,8 +8018,7 @@ Serve with noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 99</string>
 			<key>RECIPE_ID</key>
@@ -8249,8 +8227,7 @@ Serve with noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -8487,8 +8464,7 @@ Serve with noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -8779,8 +8755,7 @@ Serve with cooked rice</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -9103,8 +9078,7 @@ Add pasta and lentils and oregano</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 9</string>
 			<key>RECIPE_ID</key>
@@ -9345,8 +9319,7 @@ Add pasta and lentils and oregano</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -9539,8 +9512,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -9827,8 +9799,7 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 			<string>Per Serve Kilojoules 741kJ Calories 179Cal Protein 9.7g Fat 4.9g Carbohydrate 
 23.8g Sodium 976mg Potassium 387mg Calcium 40mg Iron 2.4mg Fibre 4.5g.</string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -10005,8 +9976,7 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 6</string>
 			<key>RECIPE_ID</key>
@@ -10147,8 +10117,7 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -10357,8 +10326,7 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -10686,7 +10654,7 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 			<key>DIFFICULTY</key>
 			<integer>0</integer>
 			<key>DIRECTIONS</key>
-			<string>Preheat oven to 190'C
+			<string>Preheat oven to 190&apos;C
 
 1. Boil lentils in large pan of water, uncovered, for 15 min.
 2. Heat oil in pan, add garlic, onion till soft.
@@ -10933,8 +10901,7 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 21</string>
 			<key>RECIPE_ID</key>
@@ -11245,8 +11212,7 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 98</string>
 			<key>RECIPE_ID</key>
@@ -11528,8 +11494,7 @@ Bake in a moderate oven 180°C for 30 minutes or until crumble is crisp.
 			<key>NUTRITION</key>
 			<string>Per Serve Kilojoules980kJ Calories 235Cal Protein 9g Fat 13g Carbohydrate18g Sodium 630mg Potassium 750mg Calcium 110mg Iron 2.4mg Fibre 7g.</string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -11722,8 +11687,7 @@ Roll
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -11936,8 +11900,7 @@ Sprinkle with seeds</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 20</string>
 			<key>RECIPE_ID</key>
@@ -12218,8 +12181,7 @@ Sprinkle with seeds</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg20</string>
 			<key>RECIPE_ID</key>
@@ -12460,8 +12422,7 @@ Sprinkle with seeds</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 51</string>
 			<key>RECIPE_ID</key>
@@ -12655,8 +12616,7 @@ Carbohydrate 23.4g Total Sugars 8.4g Fibre 1.4g Sodium 349 mg Potassium 155mg Ca
 81 mg. 
 </string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -12843,8 +12803,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -13068,8 +13027,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -13246,8 +13204,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -13446,8 +13403,7 @@ Can eat immediately, or refrigerate for 1-2 hours and serve cold.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -13728,8 +13684,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 96</string>
 			<key>RECIPE_ID</key>
@@ -13886,8 +13841,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -14204,8 +14158,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -14241,7 +14194,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 
 3. Heat a dash of oil in a frying pan over medium heat. Cook haloumi for 1 minute on each side or until it is golden brown. Remove from the pan and set aside.
 
-4. Place the drained Wattie's Lentils in a large bowl with the drained orzo, onion, cucumber, tomatoes, mint, parsley, olives and haloumi.
+4. Place the drained Wattie&apos;s Lentils in a large bowl with the drained orzo, onion, cucumber, tomatoes, mint, parsley, olives and haloumi.
 
 5. Add the dressing and toss gently to combine.
 </string>
@@ -14467,8 +14420,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -14617,8 +14569,7 @@ Mix.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>pg 44</string>
 			<key>RECIPE_ID</key>
@@ -15134,8 +15085,7 @@ Mix.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -15342,8 +15292,7 @@ Bake at 240C for 10 minutes </string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -15373,7 +15322,7 @@ Bake at 240C for 10 minutes </string>
 			<key>DIFFICULTY</key>
 			<integer>0</integer>
 			<key>DIRECTIONS</key>
-			<string>Preheat over to 240'C
+			<string>Preheat over to 240&apos;C
 
 1. Microwave pumpkin, potato.
 2. Combine pumpkin, potato, spinach, feta, edam and egg in a bowl.
@@ -15507,8 +15456,7 @@ Serve with salad.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 62</string>
 			<key>RECIPE_ID</key>
@@ -15633,8 +15581,7 @@ Serve with salad.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -15791,8 +15738,7 @@ Serve with salad.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -15941,8 +15887,7 @@ Serve with berries
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -16107,8 +16052,7 @@ Toss ¼-⅓ cup Eta Lite &amp; Free French Dressing through the roasted vegetabl
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -16528,8 +16472,7 @@ This recipe is great served either hot or cold, and makes a tasty picnic dish.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -16696,8 +16639,7 @@ Stir through beans and saute for 1 minute.
 			<string>Per Serve: Kilojoules 313kJ Calories 76Cal Protein 2.6g Fat 1.6g Carbohydrate 
 12.5g Sodium 22mg Potassium 190mg Calcium 67mg Iron 0.4mg Fibre 0.9g. </string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -16860,8 +16802,7 @@ Stir through beans and saute for 1 minute.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 12</string>
 			<key>RECIPE_ID</key>
@@ -17072,8 +17013,7 @@ Add sauce</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 33</string>
 			<key>RECIPE_ID</key>
@@ -17103,7 +17043,7 @@ Add sauce</string>
 			<key>DIFFICULTY</key>
 			<integer>0</integer>
 			<key>DIRECTIONS</key>
-			<string>1. Oven to 180'C.
+			<string>1. Oven to 180&apos;C.
 
 2. Microwave spinach. Add nutmeg, salt, pepper.
 
@@ -17358,8 +17298,7 @@ NOTE: If the top browns too fast, cover the dish with foil.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -17518,8 +17457,7 @@ Bake 200˚C for 25-30 minutes.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -17780,8 +17718,7 @@ Add pasta and cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 19</string>
 			<key>RECIPE_ID</key>
@@ -17968,8 +17905,7 @@ Add pasta and cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -18146,8 +18082,7 @@ Add pasta and cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 68</string>
 			<key>RECIPE_ID</key>
@@ -18306,8 +18241,7 @@ Onion goes in at the same time as the tofu.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 44</string>
 			<key>RECIPE_ID</key>
@@ -18364,7 +18298,7 @@ Onion goes in at the same time as the tofu.
 				</dict>
 				<dict>
 					<key>DESCRIPTION</key>
-					<string>Wattie's Italian Style Cannellini Beans</string>
+					<string>Wattie&apos;s Italian Style Cannellini Beans</string>
 					<key>DIRECTION</key>
 					<string></string>
 					<key>INCLUDED_RECIPE_ID</key>
@@ -18438,8 +18372,7 @@ Onion goes in at the same time as the tofu.
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -18638,8 +18571,7 @@ Season with salt and pepper, serve with cheese</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 59</string>
 			<key>RECIPE_ID</key>
@@ -18934,8 +18866,7 @@ Serve with rice.</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>pg 39</string>
 			<key>RECIPE_ID</key>
@@ -19111,8 +19042,7 @@ Grill, turning until browned</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -19349,8 +19279,7 @@ Grill, turning until browned</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg117</string>
 			<key>RECIPE_ID</key>
@@ -19834,8 +19763,7 @@ Add sauces, sprinkle with seeds</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string>Pg 72</string>
 			<key>RECIPE_ID</key>
@@ -20098,8 +20026,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -20388,8 +20315,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -20429,7 +20355,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 
 5. Repeat layers with remaining ingredients.
 
-6. Bake in 180'C degrees oven for about 45 minutes.
+6. Bake in 180&apos;C degrees oven for about 45 minutes.
 
 </string>
 			<key>INGREDIENTS</key>
@@ -20622,8 +20548,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -20900,8 +20825,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
@@ -20935,7 +20859,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 
 Combine zucchini, onion, sifted flour, oil, cheese and lightly beaten eggs. Season with salt and pepper
 
-Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
+Pour into well greased lamington tin, bake at 180&apos;C for 30-40 min</string>
 			<key>INGREDIENTS</key>
 			<array>
 				<dict>
@@ -21062,8 +20986,7 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 			<key>NUTRITION</key>
 			<string></string>
 			<key>PREP_TIMES</key>
-			<array>
-			</array>
+			<array/>
 			<key>PUBLICATION_PAGE</key>
 			<string></string>
 			<key>RECIPE_ID</key>
