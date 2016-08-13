@@ -8,7 +8,7 @@ def save():
     plistlib.writePlist(db, FILE_PATH)
 
 def printNames(db):
-    for r in db:
+    for r in recipes:
         print r['NAME']
 
 def parseMenu( file ):
@@ -41,28 +41,78 @@ def assign_recipe_ids(db):
 def getCollectionMembership(id):
     result = ''
     for c in collections:
-        if id in c:
+        if id in c['RECIPES']:
             result += 'Y'
         else:
             result += '-'
     return result
 
+'''
+Print 'add recipies to collections' form
+'''
 def printCollections():
+    for c in collections:
+        name = c['NAME']
+        print '#', name
+    print '#'
     for r in recipes:
         id = r.get('RECIPE_ID', None)
         if id:
             print getCollectionMembership(id), r.get('NAME')
 
+'''
+Import 'add recipies to collections' form from file
+'''
 def importCollections(file):
+    for c in collections:
+        c['RECIPES'] = []
     ri = 0
-    for l in file.readlines()
+    for l in file.readlines():
+        if l.startswith('#'):
+            continue
         ci = 0
-        c.clear()
         for c in collections:
             if l[ci] == 'Y':
-                c.append(recipes[ri]['RECIPE_ID']
+                c['RECIPES'].append(recipes[ri]['RECIPE_ID'])
             ci += 1
         ri += 1
+
+'''
+Find recipe by recipe ID
+'''
+def findRecipeById(id):
+    for recipe in recipes:
+        if recipe['RECIPE_ID'] == id:
+            return recipe
+    return None
+
+'''
+Find recipe by recipe name
+'''
+def findRecipeByName(name):
+    for recipe in recipes:
+        if recipe['NAME'] == name:
+            return recipe
+    return None
+
+'''
+Print 'shopping list' form
+'''
+def printShoppingListForm():
+    for c in collections:
+        print '#', c['NAME']
+        for r in c['RECIPES']:
+            print findRecipeById(r)['NAME']
+
+'''
+Generate and print shopping list from 'shopping list' form from file
+'''
+def printShoppingListFromForm(file):
+    for line in file.readlines():
+        if line.startswith('y '):
+            recipe = findRecipeByName(line[2:-1])
+            for ingredient in recipe['INGREDIENTS']:
+                print ingredient['QUANTITY'], ingredient['MEASUREMENT'], ingredient['DESCRIPTION']
 
 db=plistlib.readPlist(FILE_PATH)
 recipes = db['RECIPES']
@@ -87,6 +137,9 @@ elif args.selected_recipes:
     printMenu(args.selected_recipes,db)
 elif args.custom:
     #plistlib.writePlist({'RECIPES': db}, FILE_PATH)
-    printCollections()
+    #printCollections()
+    printShoppingListForm()
 elif args.custom_input:
-    importCollections(args.custom_input)
+    #importCollections(args.custom_input)
+    #save()
+    printShoppingListFromForm(args.custom_input)
