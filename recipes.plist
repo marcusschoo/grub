@@ -3,16 +3,118 @@
 <plist version="1.0">
 <dict>
 	<key>COLLECTIONS</key>
-	<dict>
-		<key>Weekend Lunches</key>
-		<array/>
-		<key>Weekend Dinners</key>
-		<array/>
-		<key>Weekday Lunches</key>
-		<array/>
-		<key>Weekday Dinners</key>
-		<array/>
-	</dict>
+	<array>
+		<dict>
+			<key>NAME</key>
+			<string>Desserts</string>
+			<key>RECIPES</key>
+			<array>
+				<string>5aae01d8-cd4d-4c32-856e-1d3ff8562ee0</string>
+				<string>81dbff16-2979-466e-90ab-9f58d75e9229</string>
+				<string>db765386-6482-4efe-92bc-782dea9c8adf</string>
+				<string>ca4193a2-26f7-4af5-9b17-7e178229f03b</string>
+				<string>bd66f193-2a9a-4a70-8eb4-c2caf40d0460</string>
+				<string>44a84251-c596-4139-8e86-d9e45b6f3caa</string>
+				<string>464e8d73-4f12-4561-85ce-96b319d053fe</string>
+				<string>953a77d5-350e-4995-b3c7-88e6183d57cc</string>
+				<string>0eb78d06-510e-41a9-8bba-8193f8563488</string>
+				<string>5609387d-80e7-47bb-b4a6-7f5fac72b76b</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NAME</key>
+			<string>Weekday Lunches</string>
+			<key>RECIPES</key>
+			<array>
+				<string>7b11f628-d948-48c1-bbf5-a1ad03f6b1c6</string>
+				<string>969d8160-7e4b-4da0-b77d-476a9f276dc9</string>
+				<string>4a07e6fa-f0e1-4da9-8ee7-c3992db3531c</string>
+				<string>634168fc-82fd-4a18-8da4-1bc0303423cb</string>
+				<string>1b0f3b90-6249-42f6-bef8-1c47213fc416</string>
+				<string>09cb64ac-a555-4996-ad13-63f4019959e4</string>
+				<string>aa00890f-a470-447d-a1a7-2d2c247da157</string>
+				<string>1dc96ade-7b76-448a-9e40-84071bc45c46</string>
+				<string>f0b52f65-25d9-4ff1-a3c6-fc4a0c82fd08</string>
+				<string>86e178ff-de05-468a-ae51-3643eaf45941</string>
+				<string>9f6818ac-ce50-4950-a49f-545b1c4a0c4c</string>
+				<string>974d1c29-c8a5-4a95-a742-eb9feca89719</string>
+				<string>6e8fc0e5-eaf3-48ad-a174-15e8b5861a74</string>
+				<string>1e5693eb-b503-4061-a24b-d0e7e5acf2ef</string>
+				<string>6d6788ed-80d0-41a3-a194-f490fe058ae1</string>
+				<string>219136d4-c9f1-40d8-b0a7-af58a1144aa2</string>
+				<string>d43238ee-7b5d-414c-bac5-b397b99f5651</string>
+				<string>71762e3b-1258-410b-ac66-d8e8bfbbcc61</string>
+				<string>be6d74bf-8cc2-4a26-8234-ca989e9a2260</string>
+				<string>9f956269-c3bf-474b-bd7a-082f6848756d</string>
+				<string>bfeea4ef-d8cb-4c55-9283-3d0c97303288</string>
+				<string>1165bf6c-d7e8-4d0b-8e76-745f295b0af5</string>
+				<string>a1e15eb2-ab4e-4125-8240-762af3af25ed</string>
+				<string>80d5ab4c-ca19-4c3e-8588-babcf1110e77</string>
+				<string>b8af0133-0576-4034-bf37-99ec5a321ff0</string>
+				<string>eff00071-d592-44d5-82cb-20ce7b4a6042</string>
+				<string>b456aa5b-792e-4ca7-9ffd-6101bc94cd40</string>
+				<string>9cd3d869-82c7-420e-8873-db924df0aff9</string>
+				<string>917822ef-7a8d-4f29-a902-de8587e11ce0</string>
+				<string>0bc980ad-8199-4311-a188-f45adc619d36</string>
+				<string>3b830a83-e606-4330-beb0-4e400de4f182</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NAME</key>
+			<string>Weekday Dinners</string>
+			<key>RECIPES</key>
+			<array>
+				<string>acb9bf0d-b7ef-4419-8564-5d1bad69a077</string>
+				<string>a6eed71e-1db8-47bb-8d48-bbf0d1b1df22</string>
+				<string>c31bf14b-8bd4-449d-8926-fc6326935342</string>
+				<string>e31d9cc0-d2a2-4cbe-9be8-2be12a231a6c</string>
+				<string>3e604dfe-c7de-4373-9fed-1c7b57957adf</string>
+				<string>2ebaa09b-c2c5-4d6b-be2b-a9e65081b9e9</string>
+				<string>df7b8671-7bf3-4604-957b-a734fb196c1b</string>
+				<string>116a0791-b74d-4edb-8749-72a8801a607f</string>
+				<string>3b69f28a-0b28-4dd0-8d25-51813a95901b</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NAME</key>
+			<string>Weekend Lunches</string>
+			<key>RECIPES</key>
+			<array>
+				<string>7b11f628-d948-48c1-bbf5-a1ad03f6b1c6</string>
+				<string>9f4c3691-89bb-481f-8dc7-700948d3a6b7</string>
+				<string>8fca20dd-99ac-4420-8428-0d77d0f88692</string>
+				<string>a80b2c53-6358-4fdf-aa58-0f62b88d0946</string>
+				<string>f0b52f65-25d9-4ff1-a3c6-fc4a0c82fd08</string>
+				<string>20c4dcce-a8f9-441d-ae19-bde60e2df28d</string>
+				<string>d676a7c5-4954-4ae4-8a33-f3e788d8a8fe</string>
+				<string>6ca0f645-c930-44b0-9100-4b83f8f1f0d9</string>
+				<string>ae3e79de-c698-484a-ab83-a2273ba58fe6</string>
+				<string>85b1cf31-e416-4045-ac86-e816ab98b112</string>
+				<string>947c1c68-ecab-4d84-b3c4-fc22b9af590b</string>
+				<string>dd8ee22e-a1f7-4e36-b601-83ce13527e04</string>
+				<string>eff00071-d592-44d5-82cb-20ce7b4a6042</string>
+				<string>a872ca75-867e-42cf-8890-83a48745c4a1</string>
+				<string>00d7dd98-19a1-405b-aae0-be1759b4acf5</string>
+				<string>b854d47a-60d3-4403-9be3-c2cca1211cbe</string>
+				<string>87ce4d84-5c9c-4dd9-8390-741e67fb520d</string>
+				<string>1ae1e1a1-59f8-4dbd-8740-90df5d8c0536</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NAME</key>
+			<string>Weekend Dinners</string>
+			<key>RECIPES</key>
+			<array>
+				<string>acb9bf0d-b7ef-4419-8564-5d1bad69a077</string>
+				<string>d7f8bff8-40db-4ba3-9acc-e0efaafbc133</string>
+				<string>827399a8-d0ca-4d81-a2b8-5a46b3e6b713</string>
+				<string>1eecbb02-23e6-4774-b1d5-9aa53f7000dd</string>
+				<string>3e604dfe-c7de-4373-9fed-1c7b57957adf</string>
+				<string>2c0e288c-d8d6-44ca-a2aa-9a223208aaba</string>
+				<string>df7b8671-7bf3-4604-957b-a734fb196c1b</string>
+			</array>
+		</dict>
+	</array>
 	<key>RECIPES</key>
 	<array>
 		<dict>
