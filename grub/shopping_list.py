@@ -11,13 +11,17 @@ class ShoppingList:
         self.db = db
 
     def generate_form(self):
-        pass
+        for c in self.db.collections():
+            print '#', c.get_name()
+            for r in c.get_recipes():
+                print r.get_name()
 
     def read_form(self):
         pass
 
-    def generate_menu(self):
-        pass
+    def generate_menu(self, selected_recipes):
+        for r in selected_recipes:
+            r.print_recipe()
 
     def generate_shopping_list(self):
         pass
