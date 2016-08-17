@@ -1,5 +1,6 @@
 import plistlib
 import os.path
+import uuid
 
 # class Database:
     
@@ -39,6 +40,7 @@ class Database:
     RECIPES_KEY = 'RECIPES'
     RECIPE_NAME_KEY = 'RECIPE_NAME'
     RECIPE_DIRECTIONS_KEY = 'RECIPE_DIRECTIONS'
+    RECIPE_ID_KEY = 'RECIPE_ID'
 
     def __init__(self, file_path):
         self.file_path = file_path
@@ -52,11 +54,26 @@ class Database:
     def recipes(self):
         return self.db[Database.RECIPES_KEY]
 
-    def save_recipe(self, recipe):
+    def recipe_exists(self, recipe):
+        if recipe.id:
+            for r in self.recipes():
+                if r.id == recipe.id:
+                    return True
+        return False
+
+    def add_recipe(self, recipe):
         recipe_data = {}
         recipe_data[Database.RECIPE_NAME_KEY] = recipe.name
         recipe_data[Database.RECIPE_DIRECTIONS_KEY] = recipe.directions
+        recipe_data[Database.RECIPE_ID_KEY] = str(uuid.uuid4())
         self.recipes().append(recipe_data)
+
+    def save_recipe(self, recipe):
+        if self.recipe_exists(recipe):
+            raise NotImplementedError('Updating recipe not supported')
+            # self.update_recipe(recipe)
+        else:
+            self.add_recipe(recipe)
         self.save()
 
     def save(self):
