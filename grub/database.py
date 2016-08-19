@@ -41,11 +41,12 @@ class Database:
     RECIPE_NAME_KEY = 'RECIPE_NAME'
     RECIPE_DIRECTIONS_KEY = 'RECIPE_DIRECTIONS'
     RECIPE_ID_KEY = 'RECIPE_ID'
+    RECIPE_LOCATION_KEY = 'RECIPE_LOCATION'
 
     def __init__(self, file_path):
         self.file_path = file_path
         if os.path.exists(file_path):
-            self.db = plistlib.readPlist(path)
+            self.db = plistlib.readPlist(file_path)
         else:
             self.db = {}
             self.db[Database.COLLECTIONS_KEY] = []
@@ -66,12 +67,15 @@ class Database:
         recipe_data[Database.RECIPE_NAME_KEY] = recipe.name
         recipe_data[Database.RECIPE_DIRECTIONS_KEY] = recipe.directions
         recipe_data[Database.RECIPE_ID_KEY] = str(uuid.uuid4())
+        recipe_data[Database.RECIPE_LOCATION_KEY] = recipe.location
         self.recipes().append(recipe_data)
 
+    def update_recipe(self, recipe):
+        raise NotImplementedError('Updating recipe not supported')
+        
     def save_recipe(self, recipe):
         if self.recipe_exists(recipe):
-            raise NotImplementedError('Updating recipe not supported')
-            # self.update_recipe(recipe)
+            self.update_recipe(recipe)
         else:
             self.add_recipe(recipe)
         self.save()

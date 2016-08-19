@@ -26,3 +26,5 @@ class Recipe:
         self.directions = directions
         self.ingredients = []
         self.id = None
+        self.location = ""
+        
