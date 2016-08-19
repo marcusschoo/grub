@@ -89,19 +89,11 @@ sanitised_name_map = {
 "wholemeal flat rolls": "breadrolls" \
 }
 
-# mace??
-# quinoa cooked
-# first and second mixture
-# spinach chopped
-# stove
-# tent pegs
-# unbaked pie crust
-
 def sanitise_product_name(name):
     sanitised_name = name.lower().strip()
     if sanitised_name in sanitised_name_map:
         sanitised_name = sanitised_name_map[sanitised_name]
-    if sanitised_name.endswith(" tablespoons oil"):
+    if sanitised_name.endswith(" tablespoons oil"): 
         sanitised_name = "oil, canola"
     return sanitised_name
 

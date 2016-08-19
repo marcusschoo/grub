@@ -2,6 +2,7 @@ import plistlib
 import argparse
 
 from grub.recipe import Recipe
+from grub.product import Product
 from grub.database import Database
 
 argparser = argparse.ArgumentParser(description="Command line to convert macgourmet export plist to Grub.")
@@ -22,6 +23,12 @@ if args.macgourmet_file and args.grub_file:
                 grub_recipe.location = mg_recipe['SOURCE'] + " (%s)" % mg_recipe['PUBLICATION_PAGE']
             else:
                 grub_recipe.location = mg_recipe['SOURCE']
+        for mg_ingredient in mg_recipe['INGREDIENTS']:
+            grub_product = grub_db.find_product_by_name(mg_ingredient['DESCRIPTION'])
+            if not grub_product:
+                grub_product = Product(mg_ingredient['DESCRIPTION'])
+                grub_db.save_product(grub_product)
+            # TODO_ Use product to create and add ingredient to recipe
         grub_db.save_recipe(grub_recipe)
 
 print 'Done'
