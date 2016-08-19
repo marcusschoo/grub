@@ -17,6 +17,13 @@ if args.macgourmet_file and args.grub_file:
     macgourmet_data = plistlib.readPlist(args.macgourmet_file)
     for mg_recipe in macgourmet_data:
         grub_recipe = Recipe(name=mg_recipe['NAME'], directions=mg_recipe['DIRECTIONS'])
+        if mg_recipe['SOURCE']:
+            if mg_recipe['PUBLICATION_PAGE']:
+                grub_recipe.location = mg_recipe['SOURCE'] + " (%s)" % mg_recipe['PUBLICATION_PAGE']
+            else:
+                grub_recipe.location = mg_recipe['SOURCE']
         grub_db.save_recipe(grub_recipe)
 
 print 'Done'
+
+#python macgourmet_to_grub.py macgourmet_export.plist grub.plist
