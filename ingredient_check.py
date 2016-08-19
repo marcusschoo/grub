@@ -73,6 +73,7 @@ sanitised_name_map = {
 "small tortillas": "tortillas", \
 "spinach, fresh baby leaves": "spinach, fresh", \
 "spinach, baby leaf": "spinach, fresh", \
+"spinach, chopped": "spinach, fresh", \
 "spring onions": "onion, spring", \
 "squash (e.g. zucchini)": "zucchini", \
 "sunflower seeds": "seeds, sunflower", \
