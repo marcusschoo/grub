@@ -1,14 +1,4 @@
 # class Recipe:
-	
-# 	def __init__(self, data):
-#         self.data = data
-
-#     def get_id(self):
-#         return self.data['RECIPE_ID']
-
-#     def get_name(self):
-#         return self.data['NAME']
-
 #     def print_recipe(self):
 #     	print '==============================='
 #         print self.get_name()
