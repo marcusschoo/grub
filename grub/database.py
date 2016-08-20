@@ -43,9 +43,12 @@ class Database:
     RECIPE_DIRECTIONS_KEY = 'RECIPE_DIRECTIONS'
     RECIPE_ID_KEY = 'RECIPE_ID'
     RECIPE_LOCATION_KEY = 'RECIPE_LOCATION'
+    RECIPE_INGREDIENTS_KEY = 'RECIPE_INGREDIENTS'
     PRODUCTS_KEY = 'PRODUCTS'
     PRODUCT_NAME_KEY = 'PRODUCT_NAME'
     PRODUCT_ID_KEY = 'PRODUCT_ID'
+    INGREDIENT_AMOUNT_KEY = 'INGREDIENT_AMOUNT'
+    INGREDIENT_UNIT_KEY = 'INGREDIENT_UNIT'
     
     def __init__(self, file_path):
         self.file_path = file_path
@@ -77,6 +80,14 @@ class Database:
         recipe_data[Database.RECIPE_DIRECTIONS_KEY] = recipe.directions
         recipe_data[Database.RECIPE_ID_KEY] = recipe.id
         recipe_data[Database.RECIPE_LOCATION_KEY] = recipe.location
+
+        recipe_ingredients = []
+        for i in recipe.ingredients:
+            recipe_ingredients.append({Database.PRODUCT_ID_KEY: i.product.id,
+                                       Database.INGREDIENT_AMOUNT_KEY: i.amount,
+                                       Database.INGREDIENT_UNIT_KEY: i.unit})
+
+        recipe_data[Database.RECIPE_INGREDIENTS_KEY] = recipe_ingredients
         self._recipes().append(recipe_data)
 
     def _update_recipe(self, recipe):
@@ -90,11 +101,15 @@ class Database:
         self._save()
 
     def find_product_by_name(self, name):
+        grub_product = None
         sanitised_name = Product.get_sanitised_name(name)
         products = [p for p in self._products() if p[Database.PRODUCT_NAME_KEY] == sanitised_name]
         if len(products) > 1:
             raise Exception("Found %d products matching the name %s" % (len(products), name))
-        return products[0] if products else None
+        if products:
+            grub_product = Product(products[0][Database.PRODUCT_NAME_KEY])
+            grub_product.id = products[0][Database.PRODUCT_ID_KEY]
+        return grub_product
 
     def _add_product(self, product):
         product.id = str(uuid.uuid4())

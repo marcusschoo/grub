@@ -1,3 +1,11 @@
+class Ingredient:
+
+    def __init__(self, product, amount, unit):
+        self.product = product
+        self.amount = amount
+        self.unit = unit
+        #validate unit against product measure
+
 class Product:
 
     sanitised_name_map = {
