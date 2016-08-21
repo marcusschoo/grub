@@ -95,6 +95,8 @@ class Product:
     
     def __init__(self, name):
         self.name = Product.get_sanitised_name(name)
+        if not self.name:
+            raise ValueError("%s is invalid product name." % name)
         self.id = None
 
     @staticmethod
