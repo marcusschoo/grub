@@ -25,101 +25,136 @@ class Database:
     
     def __init__(self, file_path):
         self.file_path = file_path
+        self.id_to_product_map = {}
+        self.id_to_recipe_map = {}
+        self.categories = []
+
         if os.path.exists(file_path):
-            self.db = plistlib.readPlist(file_path)
-        else:
-            self.db = {}
-            self.db[Database.CATEGORIES_KEY] = []
-            self.db[Database.RECIPES_KEY] = []
-            self.db[Database.PRODUCTS_KEY] = []
+            db = plistlib.readPlist(file_path)
+            self._deserialise_products(db[Database.PRODUCTS_KEY])
+            self._deserialise_recipes(db[Database.RECIPES_KEY])
+            self._deserialise_categories(db[Database.CATEGORIES_KEY])
 
-    @property
-    def categories(self):
+    def _deserialise_products(self, product_data):
+        for p in product_data:
+            grub_product = Product(p[Database.PRODUCT_NAME_KEY])
+            grub_product.id = p[Database.PRODUCT_ID_KEY]
+            self.id_to_product_map[grub_product.id] = grub_product
+
+    def _deserialise_recipes(self, recipe_data):
+        for r in recipe_data:
+            grub_recipe = Recipe(r[Database.RECIPE_NAME_KEY], 
+                location=r[Database.RECIPE_LOCATION_KEY],
+                id = r[Database.RECIPE_ID_KEY],
+                directions=r[Database.RECIPE_DIRECTIONS_KEY])
+            for i in r[Database.RECIPE_INGREDIENTS_KEY]:
+                grub_product = find_product_by_id(i[Database.PRODUCT_ID_KEY])
+                if grub_product:
+                    grub_recipe.ingredients.append(Ingredient(grub_product,
+                        i[Database.INGREDIENT_AMOUNT_KEY],
+                        i[Database.INGREDIENT_UNIT_KEY]))
+                else:
+                    raise KeyError('Ingredient product not found.' )
+            self.id_to_recipe_map[grub_recipe.id] = grub_recipe
+
+    def _deserialise_categories(self, category_data):
+        for c in category_data:
+            grub_category = Category(c[Database.CATEGORY_NAME_KEY])
+            for r in c[Database.CATEGORY_RECIPES_KEY]:
+                grub_recipe = find_recipe_by_id(r[Database.RECIPE_ID_KEY])
+                if grub_recipe:
+                    grub_category.recipes.append(grub_recipe)
+                else:
+                    raise KeyError('Recipe in category %s not found.' % grub_category.name)
+            self.categories.append(grub_category)
+
+    def _serialise_products(self):
+        product_list = []
+        for p in self.id_to_product_map.values():
+            product_data = {}
+            product_data[Database.PRODUCT_NAME_KEY] = p.name
+            product_data[Database.PRODUCT_ID_KEY] = p.id
+            product_list.append(product_data)
+        return product_list
+
+    def _serialise_recipes(self):
+        recipe_list = []
+        for recipe in self.id_to_recipe_map.values():
+            recipe_data = {}
+            recipe_data[Database.RECIPE_NAME_KEY] = recipe.name
+            recipe_data[Database.RECIPE_DIRECTIONS_KEY] = recipe.directions
+            recipe_data[Database.RECIPE_ID_KEY] = recipe.id
+            recipe_data[Database.RECIPE_LOCATION_KEY] = recipe.location
+
+            recipe_ingredients = []
+            for i in recipe.ingredients:
+                recipe_ingredients.append({Database.PRODUCT_ID_KEY: i.product.id,
+                                           Database.INGREDIENT_AMOUNT_KEY: i.amount,
+                                           Database.INGREDIENT_UNIT_KEY: i.unit})
+
+            recipe_data[Database.RECIPE_INGREDIENTS_KEY] = recipe_ingredients
+            recipe_list.append(recipe_data)
+        return recipe_list
+
+    def _serialise_categories(self):
         category_list = []
-        for c in self.db[Database.CATEGORIES_KEY]:
-            the_category = Category(c[CATEGORY_NAME_KEY])
-            for r in c[CATEGORY_RECIPES_KEY]:
-                the_category.recipes.append(Recipe(r[Database.RECIPE_NAME_KEY], id=r[Database.RECIPE_ID_KEY]))
-            category_list.append(the_category)
+        for category in self.categories:
+            category_data = {}
+            category_data[Database.CATEGORY_NAME_KEY] = category.name
+            recipe_ids = []
+            for r in category.recipes:
+                recipe_ids.append(r.id)
+            category_data[Database.CATEGORY_RECIPES_KEY] = recipe_ids
+            category_list.append(category_data)
         return category_list
-
-    def _recipes(self):
-        return self.db[Database.RECIPES_KEY]
-
-    def _products(self):
-        return self.db[Database.PRODUCTS_KEY]
-
-    def _categories(self):
-        return self.db[Database.CATEGORIES_KEY]
-
-    def recipe_exists(self, recipe):
-        if recipe.id:
-            for r in self._recipes():
-                if r.id == recipe.id:
-                    return True
-        return False
-
-    def _add_recipe(self, recipe):
-        recipe.id = str(uuid.uuid4())
-        recipe_data = {}
-        recipe_data[Database.RECIPE_NAME_KEY] = recipe.name
-        recipe_data[Database.RECIPE_DIRECTIONS_KEY] = recipe.directions
-        recipe_data[Database.RECIPE_ID_KEY] = recipe.id
-        recipe_data[Database.RECIPE_LOCATION_KEY] = recipe.location
-
-        recipe_ingredients = []
-        for i in recipe.ingredients:
-            recipe_ingredients.append({Database.PRODUCT_ID_KEY: i.product.id,
-                                       Database.INGREDIENT_AMOUNT_KEY: i.amount,
-                                       Database.INGREDIENT_UNIT_KEY: i.unit})
-
-        recipe_data[Database.RECIPE_INGREDIENTS_KEY] = recipe_ingredients
-        self._recipes().append(recipe_data)
-
-    def _update_recipe(self, recipe):
-        raise NotImplementedError('Updating recipe not supported')
         
-    def save_recipe(self, recipe):
-        if self.recipe_exists(recipe):
-            self._update_recipe(recipe)
-        else:
-            self._add_recipe(recipe)
-        self._save()
+    def save(self):
+        db = {}
+        db[Database.CATEGORIES_KEY] = self._serialise_categories()
+        db[Database.RECIPES_KEY] = self._serialise_recipes()
+        db[Database.PRODUCTS_KEY] = self._serialise_products()
+
+        plistlib.writePlist(db, self.file_path)
+
+    def find_product_by_id(self, product_id):
+        return self.id_to_product_map[product_id] if product_id in self.id_to_product_map else None
+
+    def find_recipe_by_id(self, recipe_id):
+        return self.id_to_recipe_map[recipe_id] if recipe_id in self.id_to_recipe_map else None
 
     def find_product_by_name(self, name):
-        grub_product = None
         sanitised_name = Product.get_sanitised_name(name)
-        products = [p for p in self._products() if p[Database.PRODUCT_NAME_KEY] == sanitised_name]
+        products = [p for p in self.id_to_product_map.values() if p.name == sanitised_name]
         if len(products) > 1:
             raise Exception("Found %d products matching the name %s" % (len(products), name))
-        if products:
-            grub_product = Product(products[0][Database.PRODUCT_NAME_KEY])
-            grub_product.id = products[0][Database.PRODUCT_ID_KEY]
-        return grub_product
+        
+        return products[0] if products else None
 
-    def _add_product(self, product):
+    def update_recipe(self, recipe):
+        raise NotImplementedError('Updating recipe not supported')
+        
+    def add_recipe(self, recipe):
+        existing_recipe = self.find_recipe_by_id(recipe.id)
+        if existing_recipe:
+            raise RuntimeError("The recipe already exists")
+        recipe.id = str(uuid.uuid4())
+        self.id_to_recipe_map[recipe.id] = recipe
+
+    def add_product(self, product):
+        existing_product = self.find_product_by_id(product.id)
+        if existing_product:
+            raise RuntimeError("The product already exists")
         product.id = str(uuid.uuid4())
-        product_data = {}
-        product_data[Database.PRODUCT_NAME_KEY] = product.name
-        product_data[Database.PRODUCT_ID_KEY] = product.id
-        self._products().append(product_data)
+        self.id_to_product_map[product.id] = product
         
-    def save_product(self, product):
-        self._add_product(product)
-        self._save()
+    def add_category(self, category):
+        existing_categories = [c for c in self.categories if c.name == category.name]
+        if existing_categories:
+            raise RuntimeError("Category %s already exists" % category.name)
+        self.categories.append(category)
 
-    def _add_category(self, category):
-        category_data = {}
-        category_data[Database.CATEGORY_NAME_KEY] = category.name
-        recipe_ids = []
-        for r in category.recipes:
-            recipe_ids.append(r.id)
-        category_data[Database.CATEGORY_RECIPES_KEY] = recipe_ids
-        self._categories().append(category_data)
-        
-    def save_category(self, category):
-        self._add_category(category)
-        self._save()
-    
-    def _save(self):
-        plistlib.writePlist(self.db, self.file_path)
+
+
+
+
+
