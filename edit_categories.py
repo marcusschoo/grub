@@ -4,8 +4,8 @@ import subprocess
 import tempfile
 import os
 
-from grub.recipe import Recipe
-from grub.database import Database
+from grub_api.recipe import Recipe
+from grub_api.database import Database
 
 argparser = argparse.ArgumentParser(description="Command line to edit Grub recipe category contents.")
 argparser.add_argument('grub_file',

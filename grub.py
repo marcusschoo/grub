@@ -2,9 +2,9 @@
 
 import argparse
 
-from grub.database import Database
-from grub.category import Category
-from grub.text_interface import TextInterface
+from grub_api.database import Database
+from grub_api.category import Category
+from grub_api.text_interface import TextInterface
 
 argparser = argparse.ArgumentParser(description="Command line to interact with the Grub database.")
 argparser.add_argument('grub_file', help='The grub file to read from')

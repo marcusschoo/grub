@@ -2,9 +2,9 @@ import plistlib
 import os.path
 import uuid
 
-from grub.product import Product
-from grub.category import Category
-from grub.recipe import Recipe
+from grub_api.product import Product
+from grub_api.category import Category
+from grub_api.recipe import Recipe
 
 class Database:
     

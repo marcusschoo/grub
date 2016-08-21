@@ -1,4 +1,4 @@
-from grub.recipe import Recipe
+from grub_api.recipe import Recipe
 
 class RecipeCollection:
 	def __init__(self, data):

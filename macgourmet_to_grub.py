@@ -1,10 +1,10 @@
 import plistlib
 import argparse
 
-from grub.recipe import Recipe
-from grub.product import Product
-from grub.product import Ingredient
-from grub.database import Database
+from grub_api.recipe import Recipe
+from grub_api.product import Product
+from grub_api.product import Ingredient
+from grub_api.database import Database
 
 
 argparser = argparse.ArgumentParser(description="Command line to convert macgourmet export plist to Grub.")

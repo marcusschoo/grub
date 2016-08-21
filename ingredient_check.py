@@ -1,8 +1,8 @@
 import plistlib
 import argparse
 
-from grub.recipe import Recipe
-from grub.database import Database
+from grub_api.recipe import Recipe
+from grub_api.database import Database
 
 sanitised_name_map = {
 "aubergine (egg plant)": "eggplant", \
