@@ -41,6 +41,7 @@ class Database:
             for r in c[CATEGORY_RECIPES_KEY]:
                 the_category.recipes.append(Recipe(r[Database.RECIPE_NAME_KEY], id=r[Database.RECIPE_ID_KEY]))
             category_list.append(the_category)
+        category_list.sort(key=lambda c: c.name)
         return category_list
 
     def _recipes(self):

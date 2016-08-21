@@ -6,6 +6,11 @@ from grub_api.database import Database
 from grub_api.category import Category
 from grub_api.text_interface import TextInterface
 
+
+def save_category(name, grub_db):
+    grub_category = Category(name)
+    grub_db.save_category(grub_category)
+
 argparser = argparse.ArgumentParser(description="Command line to interact with the Grub database.")
 argparser.add_argument('grub_file', help='The grub file to read from')
 argparser.add_argument('-c','--category_edit', dest='edit_categories', action='store_true',
@@ -16,12 +21,12 @@ argparser.add_argument('-C','--category_new', dest='new_category', action='store
 args = argparser.parse_args()
 
 grub_db = Database(file_path=args.grub_file)
-ti = TextInterface()
 
-all_categories = grub_db.categories
 if args.edit_categories:
+    all_categories = grub_db.categories
+    ti = TextInterface()
     for c in all_categories:
-        ti.append("- %s" % c.name)
+        ti.append("# %s" % c.name)
     ti.append("")
     ti.append("=================================")
 
@@ -32,8 +37,19 @@ if args.edit_categories:
     
     ti.run()
     for line in ti.get_line():
-        print '>', line
+        input_categories = []
+        if line.startswith("#"):
+            input_categories.append(line[1:])
+
+        for i in range(len(input_categories)):
+            if i < len(all_categories):
+                if input_categories[i] != all_categories[i].name:
+                    print "Category %s renamed to %s" % (all_categories[i].name, input_categories[i])
+                    #TODO_ Update category
+            else:
+                print "New Category %s found" % input_categories[i] 
+                save_category(input_categories[i], grub_db)
+
 elif args.new_category:
-	grub_category = Category(args.new_category)
-	grub_db.save_category(grub_category)
+	save_category(args.new_category, grub_db)
 
