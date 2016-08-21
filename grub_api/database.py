@@ -49,6 +49,9 @@ class Database:
     def _products(self):
         return self.db[Database.PRODUCTS_KEY]
 
+    def _categories(self):
+        return self.db[Database.CATEGORIES_KEY]
+
     def recipe_exists(self, recipe):
         if recipe.id:
             for r in self._recipes():
@@ -103,6 +106,19 @@ class Database:
         
     def save_product(self, product):
         self._add_product(product)
+        self._save()
+
+    def _add_category(self, category):
+        category_data = {}
+        category_data[Database.CATEGORY_NAME_KEY] = category.name
+        recipe_ids = []
+        for r in category.recipes:
+            recipe_ids.append(r.id)
+        category_data[Database.CATEGORY_RECIPES_KEY] = recipe_ids
+        self._categories().append(category_data)
+        
+    def save_category(self, category):
+        self._add_category(category)
         self._save()
     
     def _save(self):
