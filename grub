@@ -26,29 +26,34 @@ if args.edit_categories:
     all_categories = grub_db.categories
     ti = TextInterface()
     for c in all_categories:
-        ti.append("# %s" % c.name)
+        ti.append("#%s" % c.name)
     ti.append("")
     ti.append("=================================")
 
     category_prefix = "-" * len(all_categories)
     for c in all_categories:
-        for r in c:
+        for r in c.recipes:
             ti.append(category_prefix + r.name)
     
     ti.run()
+    input_categories = []
     for line in ti.get_line():
-        input_categories = []
         if line.startswith("#"):
             input_categories.append(line[1:])
 
-        for i in range(len(input_categories)):
-            if i < len(all_categories):
-                if input_categories[i] != all_categories[i].name:
-                    print "Category %s renamed to %s" % (all_categories[i].name, input_categories[i])
-                    #TODO_ Update category
-            else:
-                print "New Category %s found" % input_categories[i] 
-                save_category(input_categories[i], grub_db)
+    print input_categories
+
+    for i in range(len(input_categories)):
+        if i < len(all_categories):
+            if not input_categories[i]:
+                print "Category %s deleted" % all_categories[i].name
+                #TODO_ delete category 
+            elif input_categories[i] != all_categories[i].name:
+                print "Category %s renamed to %s" % (all_categories[i].name, input_categories[i])
+                #TODO_ Update category
+        else:
+            print "New Category %s found" % input_categories[i] 
+            save_category(input_categories[i], grub_db)
 
 elif args.new_category:
 	save_category(args.new_category, grub_db)
