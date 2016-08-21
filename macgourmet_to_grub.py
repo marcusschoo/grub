@@ -28,11 +28,17 @@ if args.macgourmet_file and args.grub_file:
         for mg_ingredient in mg_recipe['INGREDIENTS']:
             grub_product = grub_db.find_product_by_name(mg_ingredient['DESCRIPTION'])
             if not grub_product:
-                grub_product = Product(mg_ingredient['DESCRIPTION'])
-                grub_db.save_product(grub_product)
-            new_ingredient = Ingredient(grub_product, mg_ingredient['QUANTITY'], mg_ingredient['MEASUREMENT'])
-            grub_recipe.ingredients.append(new_ingredient)
-        grub_db.save_recipe(grub_recipe)
+                try:
+                    grub_product = Product(mg_ingredient['DESCRIPTION'])
+                    grub_db.add_product(grub_product)
+                except:
+                    pass
+            if grub_product:
+                new_ingredient = Ingredient(grub_product, mg_ingredient['QUANTITY'], mg_ingredient['MEASUREMENT'])
+                grub_recipe.ingredients.append(new_ingredient)
+        grub_db.add_recipe(grub_recipe)
+
+    grub_db.save(args.grub_file)
 
 print 'Done'
 
