@@ -3,10 +3,14 @@ import os.path
 import uuid
 
 from grub.product import Product
+from grub.category import Category
+from grub.recipe import Recipe
 
 class Database:
     
-    COLLECTIONS_KEY = 'COLLECTIONS'
+    CATEGORIES_KEY = 'CATEGORIES'
+    CATEGORY_NAME_KEY = 'CATEGORY_NAME'
+    CATEGORY_RECIPES_KEY = 'CATEGORY_RECIPES'
     RECIPES_KEY = 'RECIPES'
     RECIPE_NAME_KEY = 'RECIPE_NAME'
     RECIPE_DIRECTIONS_KEY = 'RECIPE_DIRECTIONS'
@@ -25,9 +29,19 @@ class Database:
             self.db = plistlib.readPlist(file_path)
         else:
             self.db = {}
-            self.db[Database.COLLECTIONS_KEY] = []
+            self.db[Database.CATEGORIES_KEY] = []
             self.db[Database.RECIPES_KEY] = []
             self.db[Database.PRODUCTS_KEY] = []
+
+    @property
+    def categories(self):
+        category_list = []
+        for c in self.db[Database.CATEGORIES_KEY]:
+            the_category = Category(c[CATEGORY_NAME_KEY])
+            for r in c[CATEGORY_RECIPES_KEY]:
+                the_category.recipes.append(Recipe(r[Database.RECIPE_NAME_KEY], id=r[Database.RECIPE_ID_KEY]))
+            category_list.append(the_category)
+        return category_list
 
     def _recipes(self):
         return self.db[Database.RECIPES_KEY]

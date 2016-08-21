@@ -11,10 +11,10 @@
 
 class Recipe:
 
-    def __init__(self, name, directions):
+    def __init__(self, name, **kwargs):
         self.name = name
-        self.directions = directions
-        self.ingredients = []
-        self.id = None
-        self.location = ""
+        self.directions = kwargs['directions'] if 'directions' in kwargs else ""
+        self.ingredients = kwargs['ingredients'] if 'ingredients' in kwargs else []
+        self.id = kwargs['id'] if 'id' in kwargs else None
+        self.location = kwargs['location'] if 'location' in kwargs else ""
         
