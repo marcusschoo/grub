@@ -34,9 +34,9 @@ class TextInterface:
 
 # Example Usage
 
-ti = TextInterface()
-ti.append('one')
-ti.append('two')
-ti.run()
-for line in ti.get_line():
-    print '>', line
+# ti = TextInterface()
+# ti.append('one')
+# ti.append('two')
+# ti.run()
+# for line in ti.get_line():
+#     print '>', line
