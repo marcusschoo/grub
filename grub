@@ -18,6 +18,8 @@ argparser.add_argument('-c','--category_edit', dest='edit_categories', action='s
                        help='Edit the existing categories')
 argparser.add_argument('-C','--category_new', dest='new_category', action='store',
                        help='Create a new category.')
+argparser.add_argument('-s','--shopping_list', dest='shopping_list', action='store_true',
+                       help='Generate a shopping list')
 
 args = argparser.parse_args()
 
@@ -58,5 +60,24 @@ if args.edit_categories:
     
 elif args.new_category:
     add_category(args.new_category, grub_db)
+
+elif args.shopping_list:
+    all_categories = grub_db.categories
+    all_recipe_ids = set(grub_db.recipes.keys())
+    ti = TextInterface()
+    for c in all_categories:
+        ti.append('####')
+        ti.append(c.name)
+        ti.append('####')
+        for r in c.recipes:
+            ti.append(r.name)
+            all_recipe_ids.remove(r.id)
+    ti.append('####')
+    ti.append('Other Recipes')
+    ti.append('####')
+    for i in all_recipe_ids:
+        r = grub_db.find_recipe_by_id(i)
+        ti.append(r.name)
+    ti.run()
 
 grub_db.save(args.grub_output)
