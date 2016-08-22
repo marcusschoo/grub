@@ -1,6 +1,6 @@
 class Ingredient:
 
-    def __init__(self, product, amount, unit):
+    def __init__(self, product, amount=None, unit=None):
         self.product = product
         self.amount = amount
         self.unit = unit

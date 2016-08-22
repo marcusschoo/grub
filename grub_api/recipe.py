@@ -12,7 +12,7 @@
 class Recipe:
 
     def __init__(self, name, **kwargs):
-        self.name = name
+        self.name = name.title()
         self.directions = kwargs['directions'] if 'directions' in kwargs else ""
         self.ingredients = kwargs['ingredients'] if 'ingredients' in kwargs else []
         self.id = kwargs['id'] if 'id' in kwargs else None

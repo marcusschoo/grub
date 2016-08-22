@@ -35,6 +35,14 @@ class Database:
             self._deserialise_recipes(db[Database.RECIPES_KEY])
             self._deserialise_categories(db[Database.CATEGORIES_KEY])
 
+    @property
+    def recipes(self):
+        return self.id_to_recipe_map.values()
+
+    @property
+    def recipe_ids(self):
+        return self.id_to_recipe_map.keys()
+
     def _deserialise_products(self, product_data):
         for p in product_data:
             try:
@@ -54,8 +62,8 @@ class Database:
                 grub_product = self.find_product_by_id(i[Database.PRODUCT_ID_KEY])
                 if grub_product:
                     grub_recipe.ingredients.append(Ingredient(grub_product,
-                        i[Database.INGREDIENT_AMOUNT_KEY],
-                        i[Database.INGREDIENT_UNIT_KEY]))
+                        i.get(Database.INGREDIENT_AMOUNT_KEY, None),
+                        i.get(Database.INGREDIENT_UNIT_KEY, None)))
             self.id_to_recipe_map[grub_recipe.id] = grub_recipe
 
     def _deserialise_categories(self, category_data):
@@ -89,9 +97,12 @@ class Database:
 
             recipe_ingredients = []
             for i in recipe.ingredients:
-                recipe_ingredients.append({Database.PRODUCT_ID_KEY: i.product.id,
-                                           Database.INGREDIENT_AMOUNT_KEY: i.amount,
-                                           Database.INGREDIENT_UNIT_KEY: i.unit})
+                data = {Database.PRODUCT_ID_KEY: i.product.id}
+                if i.amount:
+                    data[Database.INGREDIENT_AMOUNT_KEY] = i.amount
+                if i.unit:
+                    data[Database.INGREDIENT_UNIT_KEY] = i.unit
+                recipe_ingredients.append(data)
 
             recipe_data[Database.RECIPE_INGREDIENTS_KEY] = recipe_ingredients
             recipe_list.append(recipe_data)
@@ -130,6 +141,13 @@ class Database:
             raise Exception("Found %d products matching the name %s" % (len(products), name))
         
         return products[0] if products else None
+
+    def find_recipe_by_name(self, name):
+        recipes = [r for r in self.id_to_recipe_map.values() if r.name == name]
+        if len(recipes) > 1:
+            raise Exception("Found %d recipes matching the name %s" % (len(recipes), name))
+        
+        return recipes[0] if recipes else None
 
     def update_recipe(self, recipe):
         raise NotImplementedError('Updating recipe not supported')

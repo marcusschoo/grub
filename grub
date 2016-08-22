@@ -6,6 +6,7 @@ from grub_api.database import Database
 from grub_api.category import Category
 from grub_api.text_interface import TextInterface
 
+DELIMITER = '#' * 20
 
 def add_category(name, grub_db):
     grub_category = Category(name)
@@ -63,21 +64,35 @@ elif args.new_category:
 
 elif args.shopping_list:
     all_categories = grub_db.categories
-    all_recipe_ids = set(grub_db.recipes.keys())
+    all_recipe_names = set([r.name for r in grub_db.recipes])
     ti = TextInterface()
     for c in all_categories:
-        ti.append('####')
-        ti.append(c.name)
-        ti.append('####')
-        for r in c.recipes:
-            ti.append(r.name)
-            all_recipe_ids.remove(r.id)
-    ti.append('####')
-    ti.append('Other Recipes')
-    ti.append('####')
-    for i in all_recipe_ids:
-        r = grub_db.find_recipe_by_id(i)
-        ti.append(r.name)
+        ti.append('\n%s\n# %s\n%s\n' % (DELIMITER, c.name, DELIMITER))
+        for r in sorted(c.recipes, key=lambda r: r.name):
+            ti.append('- %s' % r.name)
+            all_recipe_names.remove(r.name)
+    ti.append('\n%s\n# Other Recipes\n%s\n' % (DELIMITER, DELIMITER))
+    for n in sorted(all_recipe_names):
+        ti.append('- %s' % n)
     ti.run()
+
+    selected_recipes = []
+    for line in ti.get_line():
+        if line.startswith('Y '):
+            selected_recipes.append(grub_db.find_recipe_by_name(line[2:]))
+
+    required_ingredients = {}
+    for r in selected_recipes:
+        for i in r.ingredients:
+            if i.product.name not in required_ingredients:
+                required_ingredients[i.product.name] = {}
+            if i.unit not in required_ingredients[i.product.name]:
+                required_ingredients[i.product.name][i.unit] = 0
+            required_ingredients[i.product.name][i.unit] += i.amount if i.amount else 0
+
+    ti = TextInterface()
+    for p, v in required_ingredients.items():
+        for u, a in v.items():
+            print a if a else '', u if u else '', p
 
 grub_db.save(args.grub_output)

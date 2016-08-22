@@ -1,5 +1,6 @@
 import plistlib
 import argparse
+from fractions import Fraction
 
 from grub_api.recipe import Recipe
 from grub_api.product import Product
@@ -34,7 +35,14 @@ if args.macgourmet_file and args.grub_file:
                 except:
                     pass
             if grub_product:
-                new_ingredient = Ingredient(grub_product, mg_ingredient['QUANTITY'], mg_ingredient['MEASUREMENT'])
+                quantity = mg_ingredient['QUANTITY']
+                if not quantity or quantity == '(null)':
+                    quantity = None
+                else:
+                    quantity = float(Fraction(quantity))
+                new_ingredient = Ingredient(grub_product,
+                    quantity,
+                    mg_ingredient['MEASUREMENT'] if mg_ingredient['MEASUREMENT'] else None)
                 grub_recipe.ingredients.append(new_ingredient)
         grub_db.add_recipe(grub_recipe)
 

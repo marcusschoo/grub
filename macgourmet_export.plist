@@ -883,10 +883,13 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 		<key>DIFFICULTY</key>
 		<integer>0</integer>
 		<key>DIRECTIONS</key>
-		<string>1. Prick skin of potatoes in several places and place on kitchen paper around edge of microwave turntable. Cook potatoes uncovered , on high for about 12 minutes or until potatoes are tender. Or bake in hot oven, 200°C, for about 1 hour or until tender.   
+		<string>1. Prick skin of potatoes in several places and place on kitchen paper around edge of microwave turntable. Cook potatoes uncovered , on high for about 12 minutes or until potatoes are tender. Or bake in hot oven, 200°C, for about 1 hour or until tender.
+   
 2. Saute onion and garlic in oil until onion softens. Add vegetables and mushrooms and cook until tender. Stir in chopped tomatoes and bring to boil. Simmer until mixture thickens slightly.
 
-3. Cut a cross in the top of the cooked potato and gently push to open. Spoon topping into and over potato and top with grated cheese. </string>
+3. Cut a cross in the top of the cooked potato and gently push to open. Spoon topping into and over potato and top with grated cheese. 
+
+</string>
 		<key>EXPORT_TYPE</key>
 		<string>TEXT</string>
 		<key>IMAGE</key>
@@ -14494,9 +14497,9 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 				<key>IS_MAIN</key>
 				<false/>
 				<key>MEASUREMENT</key>
-				<string></string>
+				<string>g</string>
 				<key>QUANTITY</key>
-				<string>100g</string>
+				<string>100</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
@@ -16017,7 +16020,7 @@ Mix.</string>
 				<key>MEASUREMENT</key>
 				<string>tbsp</string>
 				<key>QUANTITY</key>
-				<string>1 1/2</string>
+				<string>1.5</string>
 			</dict>
 			<dict>
 				<key>DESCRIPTION</key>
@@ -20873,9 +20876,9 @@ pan and cook patties on each side until golden brown.
 				<key>IS_MAIN</key>
 				<false/>
 				<key>MEASUREMENT</key>
-				<string></string>
+				<string>g</string>
 				<key>QUANTITY</key>
-				<string>250 g</string>
+				<string>250</string>
 			</dict>
 			<dict>
 				<key>DESCRIPTION</key>
