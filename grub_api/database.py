@@ -70,7 +70,7 @@ class Database:
         for c in category_data:
             grub_category = Category(c[Database.CATEGORY_NAME_KEY])
             for r in c[Database.CATEGORY_RECIPES_KEY]:
-                grub_recipe = find_recipe_by_id(r[Database.RECIPE_ID_KEY])
+                grub_recipe = self.find_recipe_by_id(r)
                 if grub_recipe:
                     grub_category.recipes.append(grub_recipe)
                 else:
@@ -148,6 +148,13 @@ class Database:
             raise Exception("Found %d recipes matching the name %s" % (len(recipes), name))
         
         return recipes[0] if recipes else None
+
+    def find_category_by_name(self, name):
+        categories = [c for c in self.categories if c.name == name]
+        if len(categories) > 1:
+            raise Exception("Found %d categories matching the name %s" % (len(categories), name))
+        
+        return categories[0] if categories else None
 
     def update_recipe(self, recipe):
         raise NotImplementedError('Updating recipe not supported')

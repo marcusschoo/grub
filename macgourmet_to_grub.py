@@ -6,7 +6,7 @@ from grub_api.recipe import Recipe
 from grub_api.product import Product
 from grub_api.product import Ingredient
 from grub_api.database import Database
-
+from grub_api.category import Category
 
 argparser = argparse.ArgumentParser(description="Command line to convert macgourmet export plist to Grub.")
 argparser.add_argument('macgourmet_file',
@@ -44,6 +44,13 @@ if args.macgourmet_file and args.grub_file:
                     quantity,
                     mg_ingredient['MEASUREMENT'] if mg_ingredient['MEASUREMENT'] else None)
                 grub_recipe.ingredients.append(new_ingredient)
+        if mg_recipe['KEYWORDS']:
+            for c in [k.strip() for k in mg_recipe['KEYWORDS'].split(',')]:
+                grub_category = grub_db.find_category_by_name(c)
+                if not grub_category:
+                    grub_category = Category(c)
+                    grub_db.categories.append(grub_category)
+                grub_category.recipes.append(grub_recipe)
         grub_db.add_recipe(grub_recipe)
 
     grub_db.save(args.grub_file)

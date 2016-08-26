@@ -1,12 +1,12 @@
 #!/usr/bin/python
 
 import argparse
+import datetime
 
 from grub_api.database import Database
 from grub_api.category import Category
 from grub_api.text_interface import TextInterface
-
-DELIMITER = '#' * 20
+from grub_api.utils import Heading
 
 def add_category(name, grub_db):
     grub_category = Category(name)
@@ -65,14 +65,15 @@ elif args.new_category:
 elif args.shopping_list:
     all_categories = grub_db.categories
     all_recipe_names = set([r.name for r in grub_db.recipes])
+    recipes_in_categories = set()
     ti = TextInterface()
     for c in all_categories:
-        ti.append('\n%s\n# %s\n%s\n' % (DELIMITER, c.name, DELIMITER))
+        ti.append('\n%s' % Heading(c.name))
         for r in sorted(c.recipes, key=lambda r: r.name):
             ti.append('- %s' % r.name)
-            all_recipe_names.remove(r.name)
-    ti.append('\n%s\n# Other Recipes\n%s\n' % (DELIMITER, DELIMITER))
-    for n in sorted(all_recipe_names):
+            recipes_in_categories.add(r.name)
+    ti.append('\nOther Recipes\n')
+    for n in sorted(all_recipe_names - recipes_in_categories):
         ti.append('- %s' % n)
     ti.run()
 
@@ -81,8 +82,11 @@ elif args.shopping_list:
         if line.startswith('Y '):
             selected_recipes.append(grub_db.find_recipe_by_name(line[2:]))
 
+    ti = TextInterface()
+    ti.append(Heading('Recipes'))
     required_ingredients = {}
     for r in selected_recipes:
+        ti.append("%s\n" % r)
         for i in r.ingredients:
             if i.product.name not in required_ingredients:
                 required_ingredients[i.product.name] = {}
@@ -90,9 +94,10 @@ elif args.shopping_list:
                 required_ingredients[i.product.name][i.unit] = 0
             required_ingredients[i.product.name][i.unit] += i.amount if i.amount else 0
 
-    ti = TextInterface()
+    ti.append(Heading('Shopping List %s' % datetime.date.today()))
     for p, v in required_ingredients.items():
         for u, a in v.items():
-            print a if a else '', u if u else '', p
+            ti.append('%s%s%s' % ('%g ' % a if a else '', '%s ' % u if u else '', p))
+    ti.run()
 
 grub_db.save(args.grub_output)

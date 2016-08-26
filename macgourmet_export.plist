@@ -153,7 +153,7 @@ Mix and serve with cheese</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners, Weekend Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -487,7 +487,7 @@ Mix and serve with cheese</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -585,7 +585,7 @@ Mix and serve with cheese</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Desserts</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -883,13 +883,10 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 		<key>DIFFICULTY</key>
 		<integer>0</integer>
 		<key>DIRECTIONS</key>
-		<string>1. Prick skin of potatoes in several places and place on kitchen paper around edge of microwave turntable. Cook potatoes uncovered , on high for about 12 minutes or until potatoes are tender. Or bake in hot oven, 200°C, for about 1 hour or until tender.
-   
+		<string>1. Prick skin of potatoes in several places and place on kitchen paper around edge of microwave turntable. Cook potatoes uncovered , on high for about 12 minutes or until potatoes are tender. Or bake in hot oven, 200°C, for about 1 hour or until tender.   
 2. Saute onion and garlic in oil until onion softens. Add vegetables and mushrooms and cook until tender. Stir in chopped tomatoes and bring to boil. Simmer until mixture thickens slightly.
 
-3. Cut a cross in the top of the cooked potato and gently push to open. Spoon topping into and over potato and top with grated cheese. 
-
-</string>
+3. Cut a cross in the top of the cooked potato and gently push to open. Spoon topping into and over potato and top with grated cheese. </string>
 		<key>EXPORT_TYPE</key>
 		<string>TEXT</string>
 		<key>IMAGE</key>
@@ -1277,7 +1274,7 @@ Chop ingredients finely and mix well</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -1627,7 +1624,7 @@ Mix to serve</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -1802,7 +1799,7 @@ Mix to serve</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -2025,7 +2022,7 @@ Mix to serve</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -3310,7 +3307,7 @@ Serve over chilli.
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string>weekend</string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -3564,7 +3561,7 @@ Serve over chilli.
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -3581,225 +3578,6 @@ Serve over chilli.
 		<integer>4</integer>
 		<key>SOURCE</key>
 		<string>Sanitarium HFF</string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
-		<integer>-1</integer>
-		<key>COURSE_ID</key>
-		<integer>0</integer>
-		<key>COURSE_NAME</key>
-		<string>--</string>
-		<key>CUISINE_ID</key>
-		<integer>12</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string></string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>fruit, pottles</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>pack</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>milk, powdered</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bag</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>scroggin</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>apricots, dried</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>pasta or rice meal</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>sachet</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>hot chocolate powder</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>box</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>chocolate, block</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>biscuits</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>water filter tablets</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tent pegs</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>stove</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Camping</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array/>
-		<key>PUBLICATION_PAGE</key>
-		<string></string>
-		<key>SERVINGS</key>
-		<integer>0</integer>
-		<key>SOURCE</key>
-		<string></string>
 		<key>SUMMARY</key>
 		<string></string>
 		<key>TYPE</key>
@@ -4058,7 +3836,7 @@ Serve with noodles</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -4200,282 +3978,6 @@ Serve with rice.</string>
 				<key>MEASUREMENT</key>
 				<string></string>
 				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cumin, ground</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>coriander, dried</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>0.5</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tumeric</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>0.5</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>chilli powder</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>0.25</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>garam masala</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tomato, tinned</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tin</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>stock</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tofu</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>pack</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>peas, frozen</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>rice, basmati</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Cauliflower, Pea and Fried Tofu Curry (original)</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array/>
-		<key>PUBLICATION_PAGE</key>
-		<string>Pg 58</string>
-		<key>SERVINGS</key>
-		<integer>0</integer>
-		<key>SOURCE</key>
-		<string>Vege MIM</string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
-		<integer>-1</integer>
-		<key>COURSE_ID</key>
-		<integer>0</integer>
-		<key>COURSE_NAME</key>
-		<string>--</string>
-		<key>CUISINE_ID</key>
-		<integer>-1</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string>1. Heat oil in saucepan, add onion, garlic, till soft.
-2. Add cauliflower, spices for 2 minutes.
-3. Add tomatoes, stock and bring to the boil.
-4. Reduce heat, simmer, COVERED, 10 minutes
-
-Meanwhile…
-
-5. Cube tofu. Head oil in frying pan and cook tofu till brown.
-
-Serve with rice.</string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>oil, rice bran</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>Pfft</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>onion, brown</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>garlic</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>clove</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cauliflower</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
 				<string>0.5</string>
 			</dict>
 			<dict>
@@ -4640,11 +4142,11 @@ Serve with rice.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Cauliflower, Pea and Fried Tofu Curry (SPS)</string>
+		<string>Cauliflower, Pea and Fried Tofu Curry</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -4657,276 +4159,6 @@ Serve with rice.</string>
 		<integer>0</integer>
 		<key>SOURCE</key>
 		<string>Vege MIM</string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
-		<integer>-1</integer>
-		<key>COURSE_ID</key>
-		<integer>0</integer>
-		<key>COURSE_NAME</key>
-		<string>--</string>
-		<key>CUISINE_ID</key>
-		<integer>-1</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string>1. Heat oil in a large saucepan. Add vegetables and saut. Add oregano. 
-
-2. Add tomatoes and stock. Bring to boil, then reduce heat and simmer for 20 
-minutes. 
-
-3.Stir through chickpeas and risoni. Simmer a further 10 minutes. 
-</string>
-		<key>EXPORT_TYPE</key>
-		<string>TEXT</string>
-		<key>IMAGE</key>
-		<string>ffd8ffe000104a46494600010100004800480000ffe1004c4578696600004d4d002a00000008000187690004000000010000001a000000000003a00100030000000100010000a00200040000000100000092a003000400000001000000b400000000ffed003850686f746f73686f7020332e30003842494d04040000000000003842494d0425000000000010d41d8cd98f00b204e9800998ecf8427effc000110800b4009203011100021101031101ffc4001f0000010501010101010100000000000000000102030405060708090a0bffc400b5100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faffc4001f0100030101010101010101010000000000000102030405060708090a0bffc400b51100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faffdb00430001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101ffdb00430101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101ffdd00040013ffda000c03010002110311003f00fca2f145cdcea738bc9c32ed1b4e24cb60f5e39cf3dc7e47ab7fa0f18f2ab7e96fd65f9fdff67cf39436f05c02d24b229420f31e723a138e7a671938c678272455276bfa5bfad1fe9ea05c834457559c6e318224439ea13a9c1da547cc3d7e9ca8ad29cbded7ab4efb7adf47f9ab7981a60e73c11ce39f6e011ec40af462eebae9a6be5fd79fe910d8d3b4f4bc89e47ca9462075c1c1faaf503d79ce4631f37162a766d25b6fafa7f77f47eaadef1fd7f5f77f573a6b5d1edae192189b749800875d9186eb857e707838e71d338c85ae1737e9f8bffd27f4ff00c0af68877169a1ac312c6db43a0e54364800633c0e339efec41e41ac9cd6fabbf5d97e52fcbefb3e50ddb2d3db1e44055c0fbcadca824f383bf391f4c63a8e48a5652df4edadddbd3ddd35defe5cab71a6d6dd7e7fd7f5d8e9edb4884ed915dfe42be667924af04678e872071c01fc47ef73e224a31e5d6daebf2bed67d7fbceff00ddbb0bbfbf4febeefeae755a4e8ebf685719dacd95c8ce79071cb03f9ae4f60318af1e724efd5dfd2de7a35afdf6f9581c9bdffaf3d97eb6ee7a7e9ba5c3014919490ca081c8e7919ebd8fae3d78ce2b211dbd8abbc0c0206c3af5cf4fe5fcbf1e952e2e2972b5aefd6debbf7edf7d88ace4e9cb5d6ddadd57afe5f7dcd6b48a450774783e613f293d3628e7a8ebc67233d36f20d449cd3e96eeb5fc1ebf977e96979549b517ab4babb5d5eeb6febf33a6d3ada668d8aa37cc9201f8f7c75e7ebdba37f089537ab769a95df95f4f9e96dd3b775746b4fe08fa7f5e9f8fe91e96da164842c81b7b3745071e8323b0c1c649f719a4dd477edd5df4b75db47bbede7b5a566fd9868edb04609ec72320e7f1e7f956551b5176eb75f83feba7e16904c9636731c3c927ef393f2f19e7b8dd8efe991ce38c57913bc652bab6bab4eebee7b6e03a4d0b4ef36d8ac8cc01639d8ff8f4c720f19efefc8a4a57ff0086bdbb76bdfb2dbbbba606dae8160554e65e40e90c8474ec78cfe5f951ccfb2fbd2fc1d4baf47fa01fffd0fcaa94e119990382dc83c8c77e0e3a67b6327d38aff420f3ca45e2ed0afbe06dc8f4cee6fe5f9ff08068d86db8904457cb418202f3d3710318181c64f24f6c0eb4d4b95f376feba5ff002fbc0ddfb0c3d913f10a2b68e2a296ae5f257ffdba3fd76fb41a1696512c6db4e09392001b73f504741e80fe15cf5aa29bba6f7ebfe5afe7f7d83fafebef3aab082384c7800b3e0963c633c93d0fa1e33dbef0cd61fd7f5b7e7f701d24ae629154056f35d06467206ceff29e323b11d3af359c526b5bda29edaf9e9aad6dfe2e9b6c0741a65bfef1d8c8464636e31c633d41c839e3afe22b86bd774da8aba6f66bcfeeb7e3bf5b3517d169e57eeff4d3cbef3d034eb76785945a28ce173b8938e9fdd5ce783d78cf7c00dc756b37151bb72ebb5bfbb6767b276e9fa8bfafebfe1befb1e89a4e904aa3797b7ca55246defb78191ce38ebc7e84b72dd2bb95da5abb6eedafcdbd83f1f2ee7796b6d19862dc8a0ac78231d72dc100027af6edee386caacad4dcd3b45df4ddd9747d569a6bdfed6f1a8adfa3d2cdf4d7b7cfb3efa5ad2eb749b48a48d91506e001f9401bb9edbf6ee23a71d07071902bc69e60dc9c53b34facb5d7676d1f4edaf9683a94a4e954946cf9229c975d5d972a49767fcb6ded2b4b9ba5b7d084aa49db1aeec63a31c283b957b83d32093918e4e4af452c649fc71b4774ec9fdf77a69e7eb6b7bbc90c1d78d2537156a8fdd577ccaefaa6b6d16a97fdbad3f77aeb0d0e58e15fb25bc970c101c346e3eb8c641e33d07a7a7cdb54c7e029d353a95d46a7db5eebb377eee2fa76d3cacb98782c4d3f76504ed6574db4dbd74f762edbeefc9dbed74167e19d52e17e5d2a76e460224a4e7bf0d8fc3e87839c5791538970316e9aabee3d1b4d6cf476e59ebbe976bae8f78dc7038897d949bd93babfcf96df7276f9ae5e8e2f04ebaaa31a35eb2b0cf1031e7dbf03ebef85fe2cdf1065ed5bdb4928f4518bfbfdff00cf6d7e2bde312c25784b95c1b6b4bad52fbf96de7acb6b6b62f45e06d7810c747b95504127c9c803e61dd473ec7f33d2b159ce5926dba8fa6ad47b747cdaede56efd656b0588b5da8c574e66eefd3dd6b4eba2b796d29cf843578e4859f4eb848d492c4c1d39e49e39c0f4dbd3f0a7fdaf95eabdb6dfe1ebdbdfd2fbfd9bfe00b0759bb7bab5b6af47ff00927eabe46a7f607aab83dc18f047b11b0e08e9d7f3a8fed5cb3fe7e2fbff00fba3fcfef1fd4aaff353ff00c0e5ff00ca5fe6fd5ee7ffd1fc989e597ed5e5090343b338c773dfb1ebd739f518c57fa1079e28466e809ff3fe7fc8a00eb743b50763b444e40cb63a75c9ff0027d785e776737b2fbffafd3e607591dadbbbed6894f04e4ae0f1dba9e7df1f4515981a3169a66426d936a0c6e0a371c9edf7948c73d73d7a9eac9b4b7ebfd6fd00e9ed7459b74390385048c7b74e71d01ea073cf03ad439ef6dfbdff00fb4fd7e7d40e862d1b326e9554ed20af6cb018ebcf627fc4601a8bbdaeedfd7f5ff0e074161a4c864c85206e1c6d07d3a12578ff0080fd33d5bccc63b4e3e5676ff83afe5f78fa7cde9f71eb9a4e952b45b80e4ec5fbabfdd03fbdfe19f519c571cfe27f2fc847a8e91a5b88db2431c440af18e8dee7f139e7db9ac9cbde496b67af9dba5add766eef7f859a4236f79ad34d3cbabbdf4d36d17f891b42da38cac6f18dd80a00ee777a83c7a1c9e7d7a9acaafef39e325cb15f72d3fc31dadd75f46bde2552176935a356bbbf5bf4d5744d5e57defa33eabf80ff00b3978bfe2adc25ddae9ffd9da4c4fe5cb752452f9b29270aa9bf1f2c814e1c1f97391b86dddf98e7b9fe599657943eb11f6b194b4725bdd74be893e8deaf4bf53d4c0e1e55e6e9a4da9f2a7657b5aeefe7f2baefa2b47f4bfc35fb0b78734392de5bfb4bd9a4754776b9d928c85da7ca2724c7b8120100eece7ef035f94711f8b53c1c2518cb960935ceaeae9a7d7defb9bd17577f77e8560e139470d1a71bc1ec925e6afdeddbabdb568f6db0fd9c3c13a7438fb2da43e5c441f3ecd15b0bdc1640ae49ebf360723b155fca71fe2ae2ab46788862e6a9d4f7e369cb65d776ada6cb7f36ef2fa4c16490a918425497328ebeeadeefaf6d9fc3af95af1d5b6f84ff000f6d98c0d059e63c37982d62c6eee16456c12a39f9b6fa127186f90abe2be22352ef1737677d6a4edf35a6d6d37efb3b9d35b87d42d6a5e574b4e9a6df24afe97bfbb3bf81fc056e5a35366d80705628d829f4f9720fe98fd297fc45cab67fed4fafdb9ebeab5ff83e57b853e19f691e6f617b2e965b793b7925f17caf638ad43c25e078de4459e040c5bf810296fa924727f3f518dd533f182b27a62e49bdaf27dbb3d1efadad6dded6925c311937cd87938c34ba5b7377d35bb57d3a6badd48e1f53f0b7849b7c6ad04ea819595bcb0ab9cf4390483fef7b8dd80192f1671134dfd6e7ccefab94bbf6bab69f72d74b5e3aff00ab5879ab430d24f6d21d56fa38ddf5b7c364f5dbdde2ff00e111f088e3cbb404718da8718f73264fd4ff005a87e2be22eef8d95efafefa6bf050697c9b5d9bdc5fea9aff00a059ff00e032ff00e41fe7f79fffd2fcbc3656879d9383823261e9f520e463d81c75c1e95fe835aa7f347ff25383ddecfef18b63b9c25b9739ecc84027ea4023a81d3e98009a56a9d6496bfdd6edf215e3d1fcb47f8a7a7dde5addf2f65a65acd6c891c91b07652a40ce17e8739e47e20f4dbd2a2509b774ff00057ffd2d2fb97dfa87cadfd6ff00d5bf372d88ed2643b8a9cf23a138527bfafea47e6166d2fe65f87f57fc00ebbc3d693149641858964dad91c92a8a49c37b938c671c9f6589427a6abee5d7d1ff005d396ed81db229dcbce79e9803d3be38fc31e983fc397b3a9dff0005ff00cb3fe00175a33fbb623a3293efc7b63f9f1d46314384d6eff05fa4a5f97df67ca1d2585d5bc437c879e06dc8f4ef9efc7a0ff78e40af2f169c9c5eeed6f97a7f5f88fa7cdfe9d7fab7ccf45d1b55b055cb48d80c09191d0a800e3b7cc0f407df38c572b77d6dafae9f92f4dbef11dd5a6a5180cf14a36c83d73b7683b739c727faf7c28a94a2a51972fc2d3b5f7b3f45f76bdae5c5dda8c9bb3767decfa26b54deda6dbf5362d350b7335bbcf22811dc5bf9c58af97feba327793f763dbb8b1c9239ee42af263b99e1f1124f97f7737eeab5b47e9b77baf26dfc5e7e0ef88c7d4c359c9464b956a9a5777be8ef6e9adfcdef2fe90bf64ff15fc3fd2bc11a4b44da5b4afa75a3bbc73af9523f96d978d8b286d8719c818c93919f97f83bc4ccd28e5f9b54af5f15529aa756a352a955c637bad2516f95ab5b46fe7ab67ec590f0f633d9d2a94284a752a5d2d1bb5b5bd9ab757d2edabeb68f35ef8f7fb59e85e14d39edf4bb9d36eb5796e8e9fa5da5ab89eeefaec46cfe4da4516e679d1486650029c827afcbf82714f1cff69612185cbabd1c6579371f67429c1ce7a6cb9799abfa5baeb63efb26e0ca949cf1f9961aac65cd6e6739c216d378f2c62fd5b5aedad8f86f54fda5be3e5e69375ab3fc3ef13b5b411ced6d135b4d1cb72541655860db808e40c676fa8272437e559866dc614e1f55c3e4d8b8d1a34a56e6a5cd272bb95b99c13d7996f756b27656947f45c0f0ef0e3ab46a431f469b94e2aad2957d69a7f12779269fdab25adfa5ae7e7b78a3f6fef89f6b737d24d6d7de1dfb1de491cda56a88f05e42bbfc9669edca3345109b204a7e5233d46157f02cf78e78e3014ead5c4e5f5f0d37897428d2c461951726a151de4ed650bc796334a4a6dc6304d4a1cdfad64fe1a70b67d89787c354957e4a3ed1ca96326d73a57e8d5f569f2bb6ff00692b9cee81ff000526d76e7516d3752bbb04ba0fe5a47fda0a0c8ae7ef4404637c99fe0209ebcf15e1bf1278b28e0a78bad9755768f3a95184a704bb3e68c39257bbbcb923a6936df29e9669e1061302a9d2c1c6a2e6de539cea68b7b5f6d3b395be773d6af3f6aaf1a6b560d716770a96f7036c739604c4e70c0b2ece81870770cf707835f97663f480e2d84f1587a187a187c54654feab3ad4e1594609deabab47960a52f8541466d3f7a52e5b289f5bc3fe0a652f0f378a53ad3af0839a8d59c39674d54b28bd95dcd37a2d559dad72c787fe31fc53d4ac6596f25995a7c98ae7698e0955410a0388f66f200e3033db19217d4c8fc7be37c650ab4a861e18fc561afcf530f8151a1517f2dbde50ab1b356e69ad54aeb9b921c94bc26e1fc1e3aafd6e0e346337c8a759a6b769bf7a3ccbd7f0d79a83fc60f8921dc1b6d6188660596c19d5b04fccad81b94f50d8191ce06715b3f1afc44a8dcd6498c8a9b7351796d6bc54b5b3b534aeaf6d15bb5b43d8ff008869c24f5e6a367aff001e7d7d2a5bee3fffd3f85ffe1129bfb91ffdf35fde1fda1e5f8fff006ebf2fbce1b7f7a23d3c2b769968e3424738d9c1faf4cf6eff00953fed07d62d7cff00e1bf1fc760b7f7a3fd7f5e5f9297476fa1b98e26995564cf2157e5f9780304e3a7a67271923f8a1e3e5aa4a5f3e6fcf5ddff004ad613f5bff5d0e96dfc37f688c158c1930703cbc0381c9239e9f8fb918cd67f5fb6967e7be9f8f6bff376f311a56da0c96c855808f27236a85278c72463271c1e471c7cdcd0f1efa45bf3d6dffa527f82f9dbde3fafebfafc8b2ba5b230662c00ea73f97a77ff0027a51f5e97f24bf1efff005f3b77ea3d3adfeefebcbf2e8549a768e499546e117dde3e807af1c9e83f3c0dd32c63925ac975ebf7745d577f557b02ef6baf9fe96febbea8e6750d79adc670818f5070dc64838e9d3be31f43902b5a54fdb6aff1fd347e6fe1f9bdc6d59bbbd1765bedd357ebafadee16de29fb3af332ec3d73bb1f789c75edbb03e6183d01e8b6f00a5d24fae96e895f549df6ecade7ac45f2febfe1fcbaf53b8d0fe2182932011ca104441649cff0b1ee48e76e4900818ce39c2cbcbaddfaf55e56eff8a8dfbb2a9db9e0adbce1d7fbdafdff003fc9c7a64f1f2496179c46aec4853b9c00db4805b920a03d4e7b0c01f76bc7c4d277ad46cdc5c64b6bad77ee9bf9c75e8f70cb28aa39956ab7ba552fb7cfc9f6ebe5aeb2392f09fedc9f11fe1c6a30f832f356d425d19eee582c64856e2378a0995801198cbc6523dbb50c800738e074aff3e7e93fc0d8dc6e56ebe02752949e26bfb574d3734aa2a30f7545b6ddd37e57ebbcbfa8bc35cf68d6a9ec5d184a5421093f6892beb24a5aad5bb6ab4becd369f2ff00453ff04cbf851acfc57d153f686f885a1b5c45776f32781acfc41134f2ab654cda83417019167740fe5cb1a6761da09c6d5fc43c2df0a67956270d8fad3ab89ad3c3a935888ca5cadddfbdcc9a4d3bae97efa93e2671ce32961ea60b0318412ab672a7a26efd2dba4fcb57d9b67ecc2f8374a9a14866d36d25468d62557b38cc71bbfa22a83919c0e09fa8185fdba78787b4af1af82a17a7ee3f7237fbb7bb5e5a75bdef2fc5a19be36319e2678bacb115e6a738464f954ad64934ecb44b66b7b5ddb98fcfcfdb1bf63cf83f75e14f105f1f0c682be32f165be65b7b68e16bed3eca367985c950380d202e8840c30ce09c9afc7fc56e13e1dc4f0fd3ad88c1e1e73954e69c1d383969cd2bb8b8c9dee94969a6966b43f5df0a38e38832dceaa429e2aaf255f723273928b6da8d949cada6a9bd5f76ec91fca3cbfb266bde17f8b7afbcc6ee7d0ed753f3b4a9d2c9f2b13b9c90b2990965231b90286033ce06eff3afc48ce6a64d4ebe5196e5f5abd3bca34e7053929d29fc14da8c62d3a72bc1eb2b462a5a73350ff46b80f887019d60a9acdea51f6ca0aee738bd52d37db47d5dd76969cbdef8d7c7961e125b0d0ec85cced04863bb589251b845b118c98886c62e32ebc8279dbf2915f84647c3789cda58cc6e2f968547654a353913837cee516a53e6bc3dd8abc534f9936b447eb385a99260a35dc6bd3719ba5c8bda43dd5eff00c366efccdabf6e5d2edf31f7a7ecb7f147c29afc1a5e87afc36d76b38456b7b82cab6efbbe573ba3c3314e72c3008ebc8dbddc018bc6f06f1ccb015b0b1c4e5b9c5751a4e6b9a31c446179a4929a519d34da4d4529c1dad299f9c71f606862230a983c428ca5abe59457b8f6bedd5f6eba26bde3f418691f0d4f22ef4e407909e627ca0f45e63cf1d39afeeec3e5f94d5a142acb0585e6ab469d49694f79c149f6eafb7dc7e2f3a389a739d3faccff00772943e26fe17cbbaba7b6e9dbb5ee7fffd4f2b3a241fdd4c8e7eeb038fa64e7f53dc63a57f6d4b1186ab6f649a7defbfadff0df6f34a3c0fe76f356feadebf78aba2c27a2a1c7aab8c7d3904e7fc83d6ae338c53f6b27182d53bef3e8b5bf4beb6fbed617bbf6b6fd7ee7e7bd979ea4b1f87d1d94ac6aff003038407ea738dde9dcfae3a92b8c3112af374e9bf72f6dfe4b6ee97aebe6c6b91e9ef2f556d3ee7fd2eb7b4ba28344685d1995614dbc3b0daa7d704b005bd5724f3f75719aeb961abd1f79c2f14afcdebab5d5ae5f47d55e5613e4d974efbe8fb595bbfe3a5f94bada20750480e31c10a58741ce5783c74e3dc74cb7154c4e19bb55c655a4d37b6d75e7b3d7b79dd3de2ecb7d13d775f8dfcb57baf3be88ab35a47b1a3fb344db060916edb9bdbee9fa8f4e9cf56aa78aa355feef1552ae9d6e93f249d95d69d16f7b46fca429c5bb2ebafc3bf9ef74fef5e6adef79a78834f2d1b6d8fec9f360b98bca0c0063b37e133eb800fddef935ddecaace37f6578a77e6eadbd1b69bbded7efd1595d1d76b4172abfbdaff00c3f6dbbfe4e3e712e908cc779590963b7cc208208ce40dc79e4e7ebc904015d14f150a1684e8bb2b5f96d6f5db4bf7d7a6ab4319294b56bf1b7eaff3db4d6ed182fa32b9650c7009daa46403bbb039e7ea573d4038aeefacd39a8d455a546125fc3d528d959e8959ddeaeefaf5bb442f6a9f24768eaaef4d757fcbbfa6be5a73529f4e92d8e2d72c7abf963a32e3682071f365bd00fe2cf02b378dc1aba9d69376b72bbfbdbd95b4beb64f5eaf6b1a2a35a5172dadb356d6debbfaa6bb6bbc74205b936a15bcc8c36f120238e9cb31c80aa0649625546083807736f869617111a966a2b974bbd1f6b5aeddfd5f6d2ce51eac2e17132a91959bb34edadd7c9f67d74db757b9d37ecf9fb2f7897f6a5fda23c19f0cf468ef5f4dbabeb5bef14eab14537d9749f0f5acb6f7972f3dda46e9693de2a47059f98d189d5e7da48276ff003478b584a72749d392e7f6d88764f5f861b68df469dd75e88fd172cccf1396d37cb7fdec547cfddeaf7eef4d7a59adcfef77c03e19f0dfc2bf05785bc21e1cb08adec34bb5b2d33c3da6dadb1906a372a821b9b78e385372045026b8b84045b23079362bab3fe054330c460a33a2dbb6cbaabf7b2b74bbdaeb6d7591e266f987d6a76a8eedbbbbf57d1d9396ebfe02773c3ff690fdb07c1ff01e6b8f03786e6d3fc57f1b2eed6dcc9a645770dce81e058ee250d1cfe209d256f2f578ed246b8d3ac9e359f50e233b7e5ddf3b9de69430f4675a834f1f535a9aa7cb2b75776eee2a3d75d12bdec193e498cc7d68cd5392c249a74e566b9a29eab795d7327777be9a5d3f77e14f0ffc46f1a78bb53d5356f11eaf71abea9a8ce3edba8cd2c8fe6a49f37936703334705bc04f971aa47f2c791ce16bf11cd2b57cd6b558e2ee94ef06dedcb2d36e8dabf476bdf4d14bf64cab2ea397508dedcd05ceb44b58abd9f6d9f4f4bea7a669df077c21e27649f53b2124f3125e49208db81f7413b410463b7ae78c613f3dcc7c33c9f34aaaad484252bf977dd5d37baedbdb6b1ef53e32c6657ee61938f456f2b5dfc5d7d5f676b9d269bfb11fc13d66f26bbbaf0ce8d33c880335c5a9769243f3316063fef13e83b9e8037460bc36cb32b84de1f0f4e3cc929da295ec9f2deda3769496f17adbab359789f9c462a556a4ed16f96ceda25d2fa2b69a6ef56b747ae786bf618f83da5dd4179a4f87747b49976f98f6d6b0c5232a9e14c8d09200c639ddc74cfdd5ebc3f833c358bc4ff6c55c3505885ef4aaaa70e795af249cb92f64f6dedb34ac79b89f193354bd9fb4a8e37b72dda5eba4baede7d796d73d807eca1f0e7033a2da13819388793dcffabf5afa05e1e65765cb15cbf67e1dba7d87d3cfef3ceff88ad99bd7da5afadaeb4bf4d6ef4f37f79fffd5a72e9b04370d0392594a0dea0c88c5cf08a5379dfea8429afec6c4e6591e0e129fd6145a57f8a0bd6cb4d7a27aebf71c738723b7329f6e5526ba6e9a5a3daff3b3b58ed344f849e3ef154d1c1e1cf01f8a358f388d9358e8f792db64e36ab4e22f2f2d9e016e9c9e98af82cd3c43c8e82e478994fdf5eec2545c9692d7deab1d346ba79735ef1f430980fac4ad39d382b36b9aeb5d168a3177dedab4baf44cfa27c21fb0d7ed1bae346d1fc38bdd3c3287c6ab3dbda32aed2d9657937ab1e7e5c313f80af325e2665386a4eb53ab55595ed7a29df7565ed9a77d7aaf46accedfec59ca7c914a77fb50e7e5f37d2eadaf979dee7abc1ff04e3f8e37e8a2f57c3ba49dc1cc53dd9b99c11c1c466131854eac437fc04f1bbe531fe3ed2a529d3a3eda746118f2ca4b0dcb76bded5622fabeebc9dec7a31e17aea09ca29c9f672d2ef4fb176d2e89bb6d6774ce917fe09bff00105630b3f8bfc2f1cab84db0c6c54614825f12db306dc3b0233eb915f1d89fa4f64596cad8dcbf135e7d7d8c3072edfcf8ca7be9ad9f95ee6ffea9e23979fdd49adaf52ff15f4fddcba74d3e566a31dc7fc139fc5289b64f1e7871256043064900463fdf1f6dce472380dcf3c64eece9fd2bb86aa54f65432dc761a6ecb9a54f02a31f9acc24edb5ad6f34b5518a1c295a534bdc95bafef2daecafece4efbfd9f377b271f2cd77fe09d5e342f2470f8ebc297d2a7f0c8a7018038640d2dc6e2795c796bf78e5b00eef5a3f495c2b49c67565196d15f56bc55aedbff685656d12bbd6ef4bbe5f5bfd53aaa3c908d2734949dbdae893ff00036eedaefae9ef5f94f29d67fe09f1f1534de6de6f0a6a7cb3f971ea505a5c1dfc92125448c0e381e603ce029c0ddeee5df487e1faad7d7316e326be072c2f3fa462f10af6daf7b756a36b9c35b837349ae6a346e975b5576def6fddb496da5dbf35f6fc67c43fb1ff00c60f0f48636f02dddf4926f90369d225ea051f364b47807e5c1006ecf73c66bef703e3bf07578d0839d56eb36926f0aa51f7dc6f35f5bb59efeea768b57b3d25e7be0fced4252b5285b550a9edb995fc9529def6d2cf6f43e7df11fc38f11784a4b86d7b40d574b9622c1d66d2f508d060e1984a6d7c89046719f9be63eb9c57dee0f8ef8431ee2a11a951ca29f3425856e09ad65ae279938a777a7ca4dae5f3e3c3d9efb4718c22d41e96555dd27aa8af669b6d5d79bdeff11c0a6a1a5dc5c5a69f61f68d5b51d5a6163a3699696735ec9adea664118d220b7811a669e566446468d32b280a4b135df9e67b95e4f95cb1f1954a742b537285594a8b4934d26e5ed52eba72df5e8f471f6b0182c552553da45467495e70b494eeb5f87963ae8f77a795db3faa0ff8274feca0bfb307c3e6f12f89345fedef8ddf169ec269b4c58c3de466dedfed169e1c61e542ba769fe1eb4ba8c6ad74816381e38eda5925b96481bf90788388b139de6b5a74aaba985a6dca937f0c94dd9b56e7576926ed6b6cd3bde318aaf3f67ed348c60da7093b4debb24aeaed6def5faff765e1dff0503ff82b1f84bf67fd6b57fd9e3e0078cf42f19fed2b205d37e2afc4db4beb1bed1be0969d7c2e23bad1bc35124573a64de3489952d6782e2de44d2e539d4edafae60fb141f0f9d55e58374ad19b7ef37d3cd3e57abd5ebb6caf66e5e8653c3d89cde31c5b74fd8df9630fde73cdaec94651496d74fe6da3f2d7e0ff008eaeb5e9df5ad63569353d66fda4bdbabfd49ccda8cba96a3339bdd46fafde79aeb51b8bbb472596731476d33016a9142aaabf97e632729559c54a151bbcea55b2a539595dc3966db564ad78c75dae8fd7f2ec2470780c361231853a9469aa725252e6ba94a4fa2d5f359fc37e6bb6b472fd2af869e23863b7b4066254ed541904a82c38cf193c7a03eeb8af88ad554a752155a72da3cbb37b2b5edf95bd055e9d6b4968db4ed24fdd575d5f2dedba768bb2e8eccfbc3c11a81b858152e62076ee1f313d76af2369c63a9e3207393fc5952a9514f4d15edbdb7e8d5ade4f57d1ab1e74a11b38c95e6afadbddbdba6cfd5dafd525a72fd43e14bdb7fdda9932d80a7183f30cab11f3648cf2391c7a642d7bf0f7a9b5ba6bdef777b6ddb557d6fd2cecbe13e6f1f292e68cb96cafca97caebecdadb75d77bb7697bb688c8a11bcc5c39c28279183dc6dc1edc7d4eec6eaeec1b9a5ecdcbf76dede57ebef5f5d7e4b7695e3f25784eb4b9a2dfbeecbbad5dba596d6dfcf6b9db82b81fbd5ffc77ff00adfcbf2af53d9d15a5dd969b3e9e934bee5f713284799e96577a5f6d7e7f9fde7fffd6feb43e1d7ec2bfb3a7c396274af87f61a9df6e7297dab45fda2d1efc6543cc8caa49036e57823a9e0d78f8ae2de2dc6c396bd7a514f495e4fd354bf3d34f46a5ea46a659076549ca4f4b79f976fbfaf4b1f5169fe09f0d69966b0d8e8ba3e9b1dbaac76eb6da7c16ebb768e7f75147e66df525483f535e0fd5f158a9ca79863a942938c9c792a2e68d4e8f5e56925cdd2ddfb489569bb7d5f0b564b992f763a5acf6b26b6d2fafc924cadaadde93a640a2eef60b78e15ca89a5b4894955dcc83cccb267200249ea318e8be1e6388ca729a35278ace69d4a714dba5ed95ecb7ed7dff00bbdbb1f4b81c2e6d89e4587c34a32ba4bdc69dfa3d6daa5f2ebaddf37ce9f123e23fc3dd322898f88749b5b8770af1ff0068d809f0cadb8efdc46063192c31ce46702bf14e25e3ee1350ab528664a94adcaa8fb58a4e515672b73dfde7af6ebcb27a47ee72fe1ae23a9ecd55a73d5eed49e8dae57f0ab3d93d3e6aecf02d4fe2afc2f59a17b8f1768f6e5c4a4a8beb79ae2e84632228a38c3297e7aeedc7e6386e4afe7380e2acb731adeeba7888f32b4a53bb6aefa5de8fcde9d2faa3e9b1592e270b867eddf238c1bb3f25e89797c2f4f3763c3e7fda27e0c6b126a56da578d34092ff004e595af74f96e63b6b8b31090247945c9596451d0b44064b1209e95a66d9e65386af38d27454e37728f3d9c52ead37b6db3d1db6bae5f0b2394713594392ee4d28addeb7b76d5df4fd6cd9e4dad7c68f86d3976b6f16688f39279b6d417cc23d140cf3bfee901071838ce2bc09f1be0684e3edebc29507250e6551a7af4f8ad6766d6ed5b7eb1fd0ff00d4bcd310957c2d0a8af1bc9b8b778ef6d96eed7b6cb76ee91e53abfc43d13508cb5b6bf224ecc54b45a942c480703ef65d42af273b0118e4e495f1b35c7c7339471d94e67564e0eee34abb7649eda3b37777bf67d5fba7bb966419a53a6e94f0ea524ed6941bd74b6965af4d3d6ef63c0f5cf8dfae6873b4ba3f8b2e0c30a4acd7325cfeea26030048ef95c13b50636a93b88cf02bc4c1f8998dca3338d2c7e6356851838f254ad51c60a4e30d5c9c927ef35b35ab566d367757e1bad250a35b02956724a69537d5dd5ed66da8ca3e5d3549a3e4cf89bfb7d78b7c329756d7d67a1f8aa38cdc5afd9f5082d2ec186280dd5edc47102f3ce8b0ae2411a654fcc1d8612bf41e16f1ab8cdf11c30f96e2bebb974ebd2a729c2bf3354a5cbed6695394e52e4a4a4f939611f75fbee513e830fc0194e1f073c5e2e97b292a72aaf997f2c64d2774acdf5bbeb7ba7ef1f7a7fc138bf67493e2bddf86ff006caf8b1f08741f095d5eb5d5b7c0af86fa5db5cc3a9f8c75a7489a1f18788ecaf563fecfd10c604a6e628e37b581126dcd2e36ff006fe138db89b39c93054338a93596ce1171a5cf2e7716934e77b3bf2d9f2daf1d6fadd47f9838cf0f83c3e6b8c8651255a6e52e649fb91ee95972bf3926bf2e6fa93f6eafda23e2edd7c2ef887f0a7f612f8bff000aef3f69bd5acaf7c29f12fc7f7de234b3d67c1f6296ecb2782fe0b853fd9b1ea7a6b49776136a77e24bcb4bc8e3d4642d7cd13c4971af0de0ea7d4a957a4e74e2b9e2ea479b99bd15b9afa76ddbeda48f12970067b99e5b2c6d6a15a8c2adfd9f2d37aad1b9c9b575a59a76b72ee9d8ff003d7f8a5e1dfda7ff0065ef891a9e8bf17bc19e24f0e6aba8de8bc56f1245a9dd69fadb5c5c4974fa9ff6ddab4967aeeaf7c167ba9bfe2648f35cbcd7971179b3bbcbdb1c7e539cda2aa460ea24ad295d369f4efd7d35bee7d464b83c4f0a613090ab4dd58c6569eee6be1f8b995d2ba4f66fa5ddac7e89fecc3fb7468d78f05aeb04d8cb0c90c05f516585a49225d8cd36d95d6153b78e586d006549f93e478cb85333852c3e2307fbcc1cd29a71f7bdcbb4f6d6d7566db6979a699f6588cdf2dc645429534b1928fef2305a2935b2d1dddb974edba968cfddff00825fb40f87bc476361341a869b22e11d585daf1f30e4fcf8fa119cf52001f37cb7f64616a61d47d94a5894b49f2ddaa9d36b6cfd74eaacd1e34a863e335373e5a49f338b5797b3eba595ae95baa5b3d933f4dbe1efc53b0736ecba85b6d5001319de83d32c392c3031ca83eb835e0e2f2cc450a9a46c93bb695f4d35b2baf3b5f5d6f7dce276e6936baa6ddddfa6b7d2ff0073b6c9e87dc1e12f1e69f2476db199e471130f9895f99492c0155da0e3200edd78e1882c4c528f2bd9747d1766afe5bab2dbfbde1e26846ace6a4d2e56d2767ff05daebced75be87d15a0f8ced596d95c9ea33dcae7b704fa7ebd0745eca12af1d797e5afe56bfcdf2dfe691e2d6cba9c1f35f4df9b5d3e765b6c93defd368fa58f1469781f3f38efb73f8fbd6eead7bbdb77bcbff00b47f9fde73fd460f5e65aebf15b7f2e87fffd7fe947c4bff00052cf0f6b7aadc787be0bf803c53f13755f21d12f2ca1b55d2ede60b93f6bbb9d8c0bb465ba839f9057f07665f493a198d7c460f87eb7f6bd7841fbb86a38595384edeea9d58c5538cbb536e4f7d1d8fe9ccb7c12a542a616ae6f4dd2a729af696ab5e2da4decb994addecaf6ed76cf867f68afdb3bf6f4d2835bd8f84fc3fa0c375642771a04d1eb7a85a4770eb15aa6a02cc49159de004ec85a42dc13b4801ebf32cd7c44f1c732c0d7ad85c2d0cb30b1aca5f5a853c1e2ea4b0ea334a8fb39e1e953855abf15ef3e4e49454ddd4cfdab873c2ef0e69d5953c4621aaa97bb4eacf114e292b29b4e55dc9a4ec94aedf6943571fc7ef8b7fb5b7ed4d76f7d0f8e3c63e26d35d1a5fb429792c9ad1570b23cabe57eed4315d865c6edd8457620a7e1f5b89b8a73ec7d5a18fe20cc67898cf96be0b96184519b959a51a508544a4f4bc24e3f0b834a4a27eb985f0bf8070d43eb586f632708f3464b135e767bad1d66adbfd9bef7b6c7cb3a57c43f8bbe37d5a0be8b56d6b5b5ba321d26da4d5679f54d7a58d8206b3b68d24b84890fcede6a5b1651c6e515ea2e04a99b528d38aab89c65693e5957ad56b28ca33e5a91a6ead59f3d684b4bb51847a38cac8f89e25c7f0ce455546189a7ece2a9c654e118e978ad2524e32b3be8d4bcedb297b3f8b6edbe1d58697e25f18f8dafa0f8b1a598759b5d096fbed7616f02a868b4ad47463f66952faf209182899562ca10cbc6e5fb9cabc3fa5c1b4f0f8bcdf192a75e55213a34a15aa57e58c5eb4d4a4a38894a517cd38fb595356b34e119b97e31c475313c515dd1c8b05374391c6ee53b4e4968f99b924dc927eea93d76e92aba37c3ef8cff15aee0f8cbe1ff861e22d37e15e997cff00db5e25f125de99a545247a85b97b68ed745bcbdb5d6e6b3bf9ff0075672c56d3da7dd2d7650aed9cef0bc359d668aae0bdb57a146a2862aafd6a6fda6bcea74dfd657253e56e0dd19fbceaba756fcb389f0f9470ef1664f88a35abe07d84d34dd1926e495f54f9a8ceed5bed5aca3757bb433e17f843f69bf0af8f5fe276a3f033c4f7be1537d7f7961e1fd2e097c43ac36933dc7956524ba05a7dadeeacee909b9826b4175e4928b29552593c6cff0081e75b0f4f30e1ec255af5557529616509c938d5a752328392956c64d43da453bc2a439e1ed629423094bfadf8678a786d6452c26738ea583c7c70ca16765fbd524f7f7229daead65bdaefed62ff00c140bf689f87de27bef07f873c0de0ef13f81fe2d69da6adbf8bb769d73e1c5d2a09731c76777a5ef8a43792c8c099c23b29519da415ae9e18e1bc6e1147199861e596aa319431387abcf87955e6a7ed3d8c62e2e4e4b4ab394a6a16f754a5294b93f4af0938763c538caf5687b3c7609555c8db93e6b35669c2f64d3b592d536f5b1ec1ff0004ebfd9dfc6ff17bc35e2af889e24f11dfeb7a4f84ad215d3347d5e79ae21d5f507926896cf4c548dfce6864225bb59b215558842a0b2fc0f895c31c4dc554eb4784f2ca343fb3973c3135e9d7a92c554728cfeab46357db5354938af6ce3074a5093a6ef3551434f1629f0ff077113c263b0d3c3fb4961a3fb8e69c69a960b0f51ce539cd49a6e4d2d1c94da4b963cc7ba7ecd7ff0004ef93e2b7ed1fe22f899f11dad27fd9d3e18f88920b1d174b491f55f1ff008e6eaea78dfc09a5c9f39b8817526822d6634f9e38e4d8258a1120afe89fa3070aac760a55b3d8ba79a656beaf8893aafd9e36ae169ba6e8d38fb9c928a8cb0f524e9c6a73df9396cdcff02f15789f0386c8e951c9b175de2b1b4276a72a34eca9ce1683939734973f325171e5d5ab5aea51f61ff82917fc1527c3bf022dbc63fb327c1bd5d60f8b9aa78665f0a78cbc5be148ad27d0fe0f6811dbfd82dfe16f816fd64510f8a26b165ff84bbc50224b6b17fb55b5ac82e628917fa6b8d78cb139460679660294a151d092a72518ca3474e58a8ceac65294da77b28ca764f96136b925f03e13f8279c710e3e871066f82fac60ea558ce387a956b535535bb9ce34952f722d7ba9bd65ad9df9a3fcf1fc31d5f58d72cf55bed1357bcb3d4ed278afa7bcd3f536866496e4cacb3bcacdba66b9d8ad713832cac4132302e0d7f20e714b34799d4c74b1528559b955a929b961a5526dd9b5ec674b95c649a4e2d5af79a77bc7fab71bc3984c9a9c3018acb29d3c3ca2d50f8ea2938d9ce29ca57d172bb7bddd6d63eb3f08fed73a8ea3a2cdf0a3f69cf04f87fe3cfc29bbff0041b9d27c63a725f5e450b462d916c755458e7d327b40649ad2f079ea1fe49230a1777da70f78a7c4192d34beb0f1d4a09f3d39d3c23c4c146575c929c1c6aa86d6fe27bab4a8e4dc7f2fe2af0bf2cce292c45182c3d487bd0e5a9560badb48d5befbdddafa7bbf6bc07e2bff00c130bc1fe31d2b50f8f3fb15f8af54d73c0512c13789be186b924927c43f8681a678ddc456d1cabadf86924f92dee44b31b7b34596ecdb22d7f6c7841c7b94f1ae5581c3e758a94e15294a33557d9d1a94a7edaa274e6b0ea95adcbca9c34b2bf34aee47f2df15e498de0dc7e3abd48c5465594a84e31f6b4e5054a0aebda5d36da95efef36ed65648c0f841f0f7e35fc3436904d25c5c5bb480c4cabb90c68d1e24420fcc84c6ff00336e8e4cfc9f7735fb2e2380324839623298c6706b9afedab54f34f9a55aa5bfc4b6f3d147e4f2fe3585794296653bb94942125185250be8dfeee34d4d24f5bbb5b5776940fd70f83fe3ff001ba2daa6a692432a8fbae9b17676ca28e493dcf6eacb8c37c4669c0f5eab9ca341f2abb56e6f3eba36d2d37f3d3467a35339cb6527ecb111727e71d175d2f2df757b6cf7ba47e89fc3df895e25d884dc48a1593942eee004e36a331518191f748c73b4e315f015b86b1546ace12a2df2bb46c9fba979dd36aeefb3b795d9e5d4c5e15c94a13526f9b9b5d3d346b7f24fbe9667d6de14f88fe2026dcfdbaf802b1e0e22cf5c90c0ba85f4ce33ce78c0dd1feaee356b1a2f975d1a7dd5becf54de97d5f5470e2f158770696fdefd34b49bbe9a796bbdfa1ecebf10fc43b57fd32ef381d23848e9d8f99c8f7efd7bd3fec3c4ad3ead376d2ea32d6dd7e7b9e7c71587b2d23b2ddcbb7f8d7e4bd16c7fffd0e1ef3f6e2f13787f578b45f87de20f0ce837dafab47a645a7581863bcbe09bede27dab0451cb70e9e5a79ab8677c156240aff10780b843892388af56850ad84a925275a143090e575545694e8d2f6939cea595ea7ef211dddaedcbfd95e2ea5c2b92d38d3aca8d7a909452552bc14d45be916f9acb4d572df96ddd9fa6dfb0a7c6cbfbff0000f8bbc55f1b26d3750b4f1c6bb737ba769bae24161fd9fa44607dbee755955ec5ad6033c329b49e6b812c4b816f1317fdd7ee7c039f668e5986439a62ea635bad51ce9fb2495384392151b50a54e54a9c6a4e70a7ed652aad5dfb59294547f0af15b04b0747039b64b1c3c692a318d6961b110a92e79a94a37e473e57ee272bf2abe9a72de5fcf4ff00c1407f6a6f0df887e3cfc4ab4f813e19d6b57f80de1ff1c785ed25f14dc4b7faa6916dafea6f75e60d6b51b85923b6f0eead32ccde15b5bf955efae2d5fac2d6ad2fead84f0cf85313976639865f85af4330aaa75e962271ad073aae135374e556579d369cb9630b28c6339c64e0d33e0b81f8f330c6caae5d899f3ce30ab4d422d4a4e315a28c6376a6adef68b4d9ec75de14f899ab7c5ef0e6a3a57c02f12687f0bfc6b7312ff6dd95be9da7e9b6be24b59ac62b15962d7ae637bdf0c5cdb61ae88d30c6b3cb2048f6a906bf30a55315c215316b1b42b50c3c6ad4942385a0bdea3cf4dfb58d59271a328423283a539d384e551ca128b8271f6de4f85c7e6f84a99bd255a84eb462e352a25385a5aa74ef16d35d7f3d59e8de0af0bf87bc1b7b75a5ea11ddf8bfc5fa8cda3a78935af10bdd6a5aa5cea5a6d9ac4d0c373aabdccf1d9a4e27f2a412949d304000e1bf9f78df89f88388678bab531ee965b0f7b0f256f690e4e78d44ab46d51ca13a9528bb255274e953525182503fac783f80783aad3a1568d384650a7ed153a2d4d277e64e718696928a724d3b6af5bb3fa6bfd801bc2fe33f02f8a6dfc79a3db4ed69368534525ecb677b6afa55ed9496d624e9d2ce2d6d60b0bbb29637b49520d96e5a6202231afda7e8df86c263329ab98675ec31955ce519e22588a35a3eca0dd384ea28c953a125ecdf3d17187b295d59599fcbde3ee2b1181ce96172392a7525292953a70b7bce5776e5e672ba95fed5ddacecaf2f8dbe327ed29a5fc1df89be315f85bf097c63aae9be0cd43c4ba61d63549fc4b1683a91b7c496b7fa27f640b8b8b9d21a0064d2dacae1ad6ea34976db2c288edef717789fc2fc3bc50b23c04b095aad6a92a54bead8dc34a9aaf2829c62d52aee4a0e0debf0a7097346318caa43f3fe15e1c58fab869e6d52bbc556e575554a7523154efabbcd25cdcca375271959e9d4fc20fda77c59f1bfe3e7c50b7f89be22f81faa784bfb7604d3ec3c48fe1bbdd2b4d6b3fb49b8ff0049d4eea2b8b5698075065d5aef4fb94dc4baab1df4b3baf5f174a9e659b62614215a941d1c1d1bb7577545569fb4a6ef1955969084972cdb9697947fb67c16e22e1ce19c6e2323c16329aad6e6945558b6a5caa2dc62a4db7b6ca4bb5ee947f72bfe099fa87c68d17e00fc55d03c13e19f855e35f1cf83743b8d43e13786edfc471e9d3de78baeadae12ee4d5356b08353d36e0dbc32b882ca6bc863bbbc74837877455f73c2fc647139c47058e7074e34e4f0f4a4e4e7ca94549d6a91fdd549a57bf23e56e5ab934d4bf1efa43e3e55f8d30b88c7e32aac9aa62b06abe2aa515283a4e961b9a3cf36947f79271e66a338c6364d25cf0fcbdf89367ff0550f845f0ebc53f1475b9be207863e1ceb9e2cbef1bfc4d6f87d71a46b973e0bb9f125cbdaeab7f1e85646e352f08880c7756ed71a587bad3b0b7725c213b9ba72bc6e6b85cdf89ffb02ad5c37b3ad8dabeebc3fd56962653af1a5ed27ed6a4a9a6fd97b49b587a74e109caa4e3252ab2eecca8f86f9be2b8730b42782e6a53cb9736224a9bc553a55694e5cb36e2aaa9453b7d96e568a4a48f843c2df0dbf674f8a9343aa5e78bb5ef075f5c6af22789fc5974359d62ef568ee2597529e3bbb6116a3347e22d69a49b504bbbd9669b562d7134c62ccaabd382e23c7c6953c2f114ea4b1337ecea62a34aa55f6d0e6bcadeca15929559c26afcd3e7942ac79acaa423fa0e273ca7c09cd8ba7570f532da893a14fdad38d1a0b48a7ed14a2a34e09a8dbdd4bb5da91e5fe32f0643e03f16eafa0fc36f1e0f165ad9db4f7e2ef4d49659a1f0d1f9a3b9b97b4b682068e38a4864b97f291e2326ec1524579f996170b5e7cef0cf198757946a53a755b83e5e6f695e769455e9bfde4a2e14ed25cd149a72f7709e22708f1150c34f30c4607da39b71be2b0dcbed24a31e587ef5b6ddb45794ba37a33cc60f1f6afe18bc96d75fbd8f528649526b811dc5b5d989a58b093a5c42495dd190e2161bc0552c0e406c6af0ee1b31a1fec1463425cb685d5e13716f4b734973c24da94e33f8bdd9c65cbcb1f6b37c164d8fcb3da65ea12bc1f2fb17cfbf46a324acdbeb7f8ac9ad19f797ec9ff001fbc41f0a3c7de12f1cf81bc40f0a5c4cd05a8b94f36d351d3aff0bad785fc4fa627fa35fe8f7e5a6f29e641711ef00394002f4f08f14ffa959fd3c3e363568d1c3ce9d3c4548b9469c1d5b26e716e4a54bda4ad29c79bd9c92a929c69ce70a1fccbe22f04473fc9ea53941f3e1e13d1a7cd2e56f95c1b57ba4927177e6b697b5cfe84bc5bf0a7e1f788348f03fc4cf05e8eba4f813e2b68173e2cd074875592e3c33afc776f078cbc17397f29a1b1f0cea4b6b36808ca49b2d61f31bc30a95ff543c34cd28f1065385ab849b9d3ad4a9cdf33d5d392577ac9592bfbdeea5b276ba67f9e5c5585864b8ea986aebd9ca8d571f7bdc949c5bf853e5726d768ddf4b6f2e7ac3e16e936ec275847987852d0062707819f94f39038fc3193bbf4c8e591a939d3706e2f4bdb44baebdd5d75969bbdcf96a79b50e7ff00979cb7ed37e9d3657befadfadec773a6f85ee34c6568d5162c6e3f305e07f164b10a4679f5c81ce14d70cf84f01ed6529aa4dcf5d5c6e9abdd3578b4eefa3d75dadef7adfdaf49c52a5351dd3bcacdbd2df675eaadf74b63a1b2f106a963722d74f924f3a46544022f314b0e000d91b7af5e33d06782986278772ba50b5a8bb27f6e1f768deabadfef764691c6bada39f97c49f777b5eeb4ebaebb35a73755fdb5f137f8619f6ff0fca83e5edc1c91c7a9fceb8964f94597b943ff00028ffc1fcfef34e7977fc0ffd1fc30f19fc5ad5fc7ff001f12f2e9746f0cfc3f87c416f706eed5ada3b7f0ce8f60df6cbbd56d6f07d9ec92f638a276b037eb2a5d5c05821691d8257f16e4de1e50a188c447030f618e8737ef2972469d2a6f97979524973da326a52d79e7c92e78c6328ff55717f8859967199611c2bce4bdd4dcbda5e6db7a3776f5d2f65a2d746cf5ff008f1fb40eb7fb45780744f07fc06f1178bb5c92f75953ae787cdbdb586a5797cb27d9e0b2b4b7d3678e1bfb3bfb7b54b88561d8f6f2ccca49696446f87e16e03a992f136618bcc69d7c654cc5e225569d6a74ed1759d2f653e58c6519429bc3c1b838fb9af3c65ced47f61953af5b829ceb56a6ea73e1f952949da9fb2aeea3ee9c5c945ded7bab5f9544f61fd8dffe09e5fb79ea3e03fda1bc2bf107c19a37c33f077c4ed3fc37278853e2a14bebbf1041611cb79a2cbe17f045a4a61935ad264589b4fd72fee96eb4687335b4600757fd4389e74705fd9f4f2ec67b08e0f0ca855c2d4a93d249b9d170d67194d546e526a34d412e5a77e6738fe6fc174b2acbb329579aa953111ad567174ad0b3e6b3e6a8e09a8b576d46ea4afcce2ee7e5b6b93f8d7f661f8d1e36f050d7fcebef0b5ca5a4b3d9dd34fa5dd35bf95315baba06460a2241099229a2579377cff28ad570be51c7dc338d8e634e34b1aa8d6a2a14bd9daaba737197234b92519f2c5a8c9e8e5c935bb3ec38a70d99d5af4b33cb2a7b3856f67c91b49a83829293b69bb57dbbff00dbbfb33f057e30693f1e3c0b65f10bc07a335e789bc27059e97e22b0b8beb596e9afa65dd1eb1a759dddc2dddd5bc6d1ca01324b1991b63fc8a42ff0571a785d9b70b66789cb714ad96e2652ab292aaea4aaa92abcadd2505522aa250956842356309a8a519d37372fd5f8438e2ae4997d2c2d6c5db349c60af77ac5d94a2e5ccd736adc5ad5abbb45d91f6ef817e2e2dc35c5bdcdcdede49aa8d367bab8d5256b539b3b76b686c22b2b3b886c92ded52e668960313c72c8cecec739afc8b31cc388386962a8708e3abe172d9429aa94a4b96f1a70943f78a94e186a74173f23b415d72bd9c22679cf0d54e23c5acdb10a32ab4ef26e3aef26defab93d376acb6b5df2fdfdf0bbc61a3dc4412ee45d392f406305b4cd62b3081e3416d6b12232451a5b8645b688ac6222cbf361b77e379571666185f1130d9ae3a4e9e127529c650a5cca1f5993a50a539c97b454ef053a34e1ee527cea2dcea3839fc271160eae0e82742528d5a12bf36cdc54649a4928b6eee2eedbd74dd731ec7f1efe20fc12f0a69be2df057c64b2d7a4f0bfc45b5b6d7b4df0f687756ba5dc7882da7b38ad2e61b0d46d228a4131b855964113c4e9b73bca8dd5fe812f10b87eb609cb3852e4784557d94632bd5a5c9152f6728c64fe276d3672495f5e5f97e19c1e7987c7acef0589e5aded1479dde5183d5c5b4e7aab2e9a3d75d99e77fb247c16f03fc1fd36ff00e397c06d7f4fd03e1f5e5d5bb37817c53e24b99aea3717f14735b3eb7e23beb5fb2eb6b7122cab1c8af6bf2c71c039495fa786735a38ac561b89f2052ab4b1109d25838d670a8a387acf0b35fbc775579a96f6929c5271938b5397d6f17e3e5c4109e4fc495ea4e75674a50c5460bd9d36a85e327c89c142da5f4f79a8be569a333e23fed03a1eb7e3bf895f0ffe2dfc46f15f8374df1ef88a5f14685f08be16787f4bbcf13ebbe1cb8b58d0c777e36b6bfd474fd574ad4a482ea4b8b24b080c22590cab2962cd599f1850c8ea66d89587cdf0188c6e2233af81c361ea57af5fdb2a918a55a929d392c44a9d6493507157bf2db98e1cb320a6e796bc3e270b89860630a30c762a71f674da94229ca0ed27c9a3b2b2968a3cb7b1f9a7f1f3e25fece5e1c9fc5ff0fbc1ff00066dfe1ee99e25f0fa58c9af7881b4ad5f57935db88f1a76bf69a7a68529b1bfb178cb35c59235e4277f92be6ec47f8fa5c4f8fcc31351e172ac650c2d44e75a855a92a5888ca369471152f49d3a714ed6ad4e6ea292a8925387bbfb7e1383f1bc4795fb0ccb134734c3414947eab49d38ba6afcd08c9d49af7924ad2515d7ab47cd3fb307ec1fe2af19c7e27f885e22f8d3e1af04f83ee34fd5ef7c09ae59594d6fa9f8a359318165a7eb7a35d24cfe18d063bc58ad2fb56f145bc71ea6b344f67a3921d97f72e18e2cc0d5c361b01fd9f3cbe505521571156b4714b15562a34d4a9d6b45fd5fdac6a34eb528de12a7ecbdac1aa92fc4f88b84b0dc2599d296130d8b5868d5fded1c456f6b4a9a8be67ecf96314a7677b425a6dcc9ab4be27bcf0a7853c31e2ed2e7f8dfe1ef0aeab35e7fc241a478a348f0141af5cdf595fd8df4fa7bcba8f86fc32b0dd5a5df9f10b9b4ff004c76bfb4b8b7be48c5b4f0c317ad0a93c466b87a187ab429509b9c67429574a542519ce31954b4f0f2849cd7bb4e0a4aa465ced49422a3faa4b8af1582c969d5cae55a18671a4d4ab285a51714da8ce7cc9a6b7d134d5b9eea523c53e1ceada769bf14bc41e1af0bde6a7ff08e5f85bcd0edf59d2af747d46ce2b472f6b09d275380ea361e6280a5a5532489fbd2cc4b8ac78f38769d5c0d352e4ab8ca55278675fd9b51ad53116a8a339c5d5bc941282945dad3578a8be597bb87cf3059870e55c6e3650854f63293b4e128ddb945b4e2ecf54fbeb74968947fb50f87da1ea1e13fd867f66e5f1049ff0013bd67c6fe3ed6e2f353122e8379a5e85903cd3bb6497315b48a4093796622401857fa01f475a38dc2655858e21370c3e0d464a57565eebeed3ebafa5afab97f985e2755c366fc478e746cd53ab2f676d53926f9796cf64eda5be77ba394b5d56e2e97658db06c4d2234ac32c3180570d80a0f3d011c70470d5fd471c4424dfb3972e9a6df2d3ab76eebd6df17e6d1cba6af74d3b69ddfa5e377b27bfe6a4775e1ff0007ea5afb05bfba916ca423ce42a108c6e2aabc6f1d3a06191d323017c1c456a91af2739c7953eb2e97def7f44f46fbf4e5efc265bed2a724a3cceeba5adaebab8db4e9ef6dbed797aee9de13f0fe8ad6ca248d2e81c224b1872e531805a425b3d39dcb9ce3915e066d9c65b8783752b42f67a732f9ef656befef69bf671fafa590feed4a941eab56b757ff00b756aba5be69dae776ab16d18860230307cb4e78ff007c7f2fcabe59f13e4f777c453bdf5f7bff00b75f97dc53c971f77cb09f2dfddd3a74fc0fffd2fc3df0e7ec03f15be32473783747f1258e9be2dd4de2d3eeb4bd7b55b6d33edd61673c6d6b1ea424e6da5372bbade070cf212dbf8215bfcffc578e396f0de7eb058dc1e2e15b175953f6d56bc69d08b718b85397b9ad693845c69f3caa287bce2d3529ff00a459e785b90e129d4a9828c7133a51e6a73a742a2f7bfbbabd356b99ab7a72a478c7c4bfd833f6a7fd92be21f85745f110d47c377baadec571f0ff00c59e1292fb58d135cbeb29c5c6a11e8bafd898a1b9d674488c125ee9de5ac90453170eeb13eefd7b1bc77c338cc8219b4b0ceb62a953e6a95e94d53a4e1284db92c4ba51942519ba74bdd6a7cd38bda5eefcd70e64dc4f98626a65d83c04de0e0fd8d455a74da8c6728a84a549b4d41fbc936b4dfde6d1fbddf0ff00e2dfed41e328be197c37f8a537c4cd63c0509d2ad7c79aae85a489b5492c34eb536970f77732dcc375a94b7bbd62b88fcf837412b46589e57f8c319e2352c6e3b1d571d9bb785facb87d569e1f113c7f23aae092708b5fbb8b8bc45e349fc4a9a73718cff5187859fd8d9562b32ab87a4f1708f34217b2727abb6ae3a2575a68ed7b1e17ff000505fd852d3c7f78be34fd9e3f6769fe1af82e2f04dbc7adea7e21d4a1f0e5f6b575a4969afb5eb8d26e6faeeda185e36591bfd21e66663843b4aafec5e1f71bd5c4a8d0c1e5998d2c04614dd1cc2bd7a74a8548a973d5ff00629d4f6f49a4a10929538ca6e2db718c20a5cf926415b1594622be36baa9c956bba54e34fdafb3b732e5524d3bb92d1ab24d6895d23f3e3f61ff008bdf08ff0065e6f1dc9f10bc49756de353a8d8dae8b6ba4343aa696d610ac905edc6e45923769a5dd0ef4da9b73201e6390dedf89995663c6f572cceb2cc1d6aeb2fc3bc253a10a1184aba708c2a5655eace950d6318d54a4d5e17e472738b3f18cd1d0c1e6152bcd554e15249cdf325ccaa69151516d37a6efd6d667d6de31f86bfb5fdfe8fe10f8b5e1712e81f0a7e23f8819bc21a54f24107881b419751fb4dbea53d9fd904905806224b789a75fb4451abc6e376d6fc2ea60781385b29a980e27c14a962f1742ac7dad477c3d7ab469caa4293a50a93a894d53bc67cb28fb54e5183f7267ecdc15c55471aa74ab427cf08fbd4f9a32b5f47ef2566da959bf7bcf4763f527e0c78c75d8a4d3ec03dd5d6b3a0595bbc9032ecd524d2f4736e9aa78821b491c348f716c1f54b9883b3c4892260ed22bf8d334e10c2669c5b4aa70e539d4cb9e694f174ebd0535cf0a33a73a96836e505150ab5218652728d373a6938c79cece23c9238fc3d5ad18a5cf74a8bd5f34d4d45392b4776a3cd6b36d5ef76cf6ed43c61a37edcdf1cfe1afc1cf85d7ba24b0786e7d5bc41e29f1588eff5bbff00849e0ed12116daee9d691ad8d969da8eb9e349247b4d2ad9b53bd916d1e69d601e4fcdfd7dc3dc0984cde59749e268c306e8b9d67ec6b4a74b094a545d4a10bf253ad1c54e9de1297b58c7d9f3c22e718b87e698ecbb31e16ca2ae271546ac215251851a4ed0f695257e477bc9a54d59bf875972de376e3d2fed51f007f676f1bfc34d7be16fc2af8e127c24d734f82ffc377d2ebb25c78af4df10ea9fe8a12ebc45a8b0d0f50f0fdec04a44358d1ee3ed7688fb6e37a40c8bfaf65382f0c78469d39606a61f0f8ac1cfd9d684a329baee52f69fbda9357f68e328a751be65cd794a56f77c3c972ee27e2ba92a55e31fa9424a6a72a137579136e71a728cb95b52ba516a5176ba5a389f98ff00097e19f88bc65e16f19fc32f8cde25d43c1fe2ef065f69434df8bff01eeb478a1d46d74649b4db0d4ee2f0d95d42f75adc305abde3786a7f0ec4d16e96fa3bbbb6692bf3ff00123c6ce15c0661512e19a18cc2d1829cea619619cde2e9d3a5ecf9a4a9ca31856a9529c294a1520ea5aa292872b51fd7f29f04f1589861e597e6ee146ab8a784c5d1c44aa3a8dddabaab18a5195eca6a4f5bf33ba947c4fc61fb10ebb6d7235fd3bf68bbad623bcbe961962f88a350bfd4ccebb885875ab4bfd4a578e4442c67222689a4f215a2c6eafca2878fb9166959d09703d5c3b8c22a55a855c3424bed73d4c352a12f6b495e31f69ee293e67efaf7cfde385f20e23e15a1fd9ab0b1c5d38c6494a9a704d6daaa8f496bde5dfa729c5e9ff0b755f87f637361e3df113f8cad214bad42c60f0c6b12e8d0adac2cb21f3bfb4249a5d4a48c6000572e0b075e8c9e8ffad997713d56b21ca6be5d3a6ef889e32ae16a537274e3073a14bea5521464eee5354ff7dcba462b96728f87c6d92e6398518c717838e16356ab8d393a2ea394e4e3ccaf09271d2dadb955fcd4a3f3a78e7e3c78462ba892c3c37aad9a5a5f33497b6de21bdb2752b0910fda4d93dac8d3ef53e5ab5eed663857529babf67e0ce1fce70ea38ac6578e2249425fecf2c5d27cb29c795a9bab39ce515194bda4a54e564e2a318dd4bcac6f03428e434a854af4694210e79bab413e64937657d637ebf656f7764a3fa8dff0485fd83fe2ff00eddbf16adfe2578a34ef16787bf65ff01dd69d7ebe26f175bdd5f7fc24daedadc2cfa8f85fc1daa6ad09d7b5689bcb96cb54bcd4b58bfd274cf39df4cb699457ef986e12ccf88bfb12536d6170b8a8e3eaca7cd5fdb4da953f650abcdcd2824afcf38e8aa49723b4543f90fc51e33ca724c362f28ca2bc6a6354a787ab87a1250749251fe2727ee949dd4ad08a92bda4d4bdd97f4c9fb5ae87a57887e2968be0fd11174bf05fc22f0a58783f44d26d0ffa24171214bbd48a0dcbfbf8f65ad94a46ed9f665f30b6f415fdd9c0f468e5d9652a74e50a4e718467a5b96118a4d3b357bbd5be6b75b2b58fe4574f115f10b1b569caa3ab5b9aabdf95395dcda577ca96cb57b256d651f1eb1f0ee8da7a2b5adb47bd400e86458d9dc6df98704e4ff0b6304e4738dcdea63b892861275211ad1564f5e64b6eb6e8b7d1dedddbd23ecd1cba5895ee5293f3b36feeb75e96dd6beeef2d2875fd34ea0da5aceb06a112854826021c97185f21d8af9920233f2e73ed902bf18e2af141e13da423295e3ed2ed5782beca2a3bbdeef56b4d5ef63dfc0f0e5685e72a6d26d72be47b2bbdbe696ebcecd3e5f19f1df8bb58d06eee6d6e4bdedc962d6b7386631a83c07500f97807824e31fdd046dfe6ccfbc52c7e26bd48c6a559abbd3db26f5f93bdede5eba9faa70ce49879f22af056565ac6da5f7eedfaefbdd5ad2e293e2478c0a295be500aae019b9031c67e43ce3dff003af90971de6b294a4bdada526d7ef63b3775dbf2fb8fb67c3f824da8c60a29b497b3bd92d95f9d5ecbadbeeb9fffd3fc83f873f1f2e7c2de235f164775abcbaea990acb7ae2f24926966fb4fda279588796589542c523b968c80cbdd6bfcade2de16c5e7ad4abcb0f52a46b46bfd62494a51a94f9e34e4b995b9a12945c5f2df9a109271e4b4bfdd3781c8330954a31a74e9c39796d4e16e58d927a24ed7b37f6adddf3371f7b8be3c7c55fda47e287c3b4f146b321f09fc35fed6b7d02dae0c82d7463e26863b7d6f56b284bf969a9de5b44207bc2cd2a2b6131bdf773e719ee2783f832787ab8d8e26baa4f0f430918cbe1aaaa46acfd9c5b729c52f8d4af193872c5a7372db29e0fc8327c263b32854a91a9371751a5ac9536e74d37ecf4841abe9ccba596aa3f7c69c6cfc3ba958b5f78875abcb879209f4fb882e658ed5a18644960b7ba8d182dcb6d555cce795ddbb7122bf8a7138bc763e588c5e170b868d4a5564ead6c443dae2a752374f10a556f5617928cad19be56acb9958a79865d9bd0965d4aba7ed938a84ad6becd5b55aad1cbaf4b6acf27fdad7e19fc77f8e9e1e9af7c0bf12fc41e22d0ed607b697c0a9aa3e95fd9b1ddabab0834fb596182f6d2dc643899dc6c620ab0195fdc3c2bf15a965145438a1387d5ea38ce74a556a45519d49493785d79e8544a31f6b4e94e749ca509f2d38d499e5e5f93e0726a38cc2578a8fd655454a5ca9a729735ecdaf726dbd575f3ba91f067c1eff008267dedbea771e29f8afe09f14788bc1ba0dfe9b06af2e8bf64974d8cea136fd9793d9dc4d79142ed2185045672849c36e6d842b7efd9f78f929f0ed4cd7219b961a2973d6a15294397dd8a8c675ead4f72a72e9cf6841c928caac6f697e43c49c3795ac3e230b1c3619e2ebba9384aac5ba8ed2e6ba56516efafc77db4773f66ffe0a17f143c11e13f803f06fc0bf0aa6d4f4197c1ba4e93a45c699ac4177672e869a3db451c364d777725bc9388e1185658f1207de179f97f0cc9f3ec078898ecbe96216231ea946abc4d3c452ab3af4671a12a4a0dcd3739bf6f1929ca3cb3849cd37a33c3f0fbc3dcca9e26b661529bfab7c4a7092719a959f372abda574d5937a5aea563f39edfc3be36f125a787f58d4fe2c69da25fdd246f8b7b5d5a5beb9b0be56b736b34da1cf19bbb4bb491564b6dca1cae245652557ddc0e1b84f268d794682c3d49732860e51ab5aa524f9e2ab5351a35a74aa4a0e74df2a5354ead485a2dc94bf63feccf7e3ecb0ee51e7e57294a118ca514df2af68ad74d5f795ad757bc79bf443f610f117c16fd9a7c63a8eb6df143e226ade2348d4ebde778761d2f40bab4b60ed75a52e97a9c7757970909cc568627b798828635da2bdfc0f1de5b96d78e1e4b1146856b5e71a708519aa519732747dad5acaac629fb455542a4aa295a9ae59421f9ff17f0a679c53888e1161e8d2c2d35eea8cef24fa49ce292b3d1b6f996fb59b3e19fdabfe256aff0010fe2678e6efe0a5a78975186e7c41aeea961ab6962f24b5bab79c20bc85b4497cc7b2114324ab713ea16bb5f0df670a151daa962325c6674b31ad5a2b032bd4787c446ac6538568de189851a946f1515cf0a9c8f9a519dab4553a694bf52e0ae1dc9786b22a787c77d5beb14a9ca351b51bf3caad59afde2b395d38a494bddb6efde673bfb197843e3a7c42d5fc6be32d420d5e2f01f84b42fb378aaf2ca336be64b62b2cb6765a5e8f2c968faa5da1b397ed291f9cea595c905b2dc7e20f0a6539ce56e391e5f42a56a73962a788a10a152386a72c3c79538c2ad3756751c68d55429bd614e552aca356747dafd3d2e22c8b2ba34a3195355aad64e95f75ef59ce53b4b92d74d5fae8b44dcba2f1b7c7ff0005696358b2d0e5d5af23f2e5b3806b3a69d323b2d49d96678658af2eda41b379df24118cb03c739afcc72bf0c71b59e1b115abaa8f968d6f6987a7084aa414a3195de1eb62a2ed4a3522a339352938be58c57bdf7f9766996bc37d7b19888462af293f69cf78a6ecd3708deeff009ba6ae4d2686fc17f859f1c3f688f15e9f65e0af833e25f8cba349e5c4f0e936535a68b04174823b8126bf7ab05bdba41bc48d728cd17c84156c015faf70d78679b63e542592e5d8b85b1349e26a39cf0cab5353b73bab1a94ec95dddc1ce6a50f76335ee4be138ebc66f0c327cb270c666185fad41d4f669c635670aab91dd53507f16895ed7bef2b1fb7bfb21ffc1b73f0ef4bf18c3f137f6afd66e7c4ba0d9ddc3afe81f042c2669b4cb36df1cab65e2ed6e22535db1b6b8332b69f0235bc91e0cc25dc767f71f08786388c1e1562736acaad474a3174f962a368a4af552f76a4f4f7a5c904e164e0dde73ff3a3c5afa4d62f886bcb29e1aabf55c3b83a6ebc5ce329ad9ce9a7694799db44b7d14d27eeff004c6b69e04f81bf0d7fb33c1fe1fd0bc33e06f08e8af0693e1cf0dd85ae9d671343128d334fd32d6de348915d82aed31bb48c5fcc625abf5dc0e2b2fc92961a8c9424e9c5426d476d64d745d3aa93b76b2b1fc78abe371b9a57af5e73ab5eb56e6ad39b736e72516e52bb7bed7e6dddd27b1f8a9e39b8f1278af55d5b58d2e74b2d6e7bfd5356d4ec75194abdc5eea33acb24b1caad9d92aa44b2229750d1aac7b32fb6b88b8e6381c2ff00c26d45cce93e75072d1f2deda72aba56ed6e9d51fa870cf0ed7954956cc17b3c355e5508bb72dbc936fb35d2dabb6a7cdebf1127bc9f50f0f4934b61e2fd3d8a224ccf14776a38845bc9285578f20e30eefd8e79dbfcd9c51e2866f0ab5146b555393768b9349f4d1edaf54a2edbb6f43f5fcab86f2aa29548a84d69d1349fa2b6b6ecbadb448c7f12e9fe2df105958bdf69daa58ea71306875cd3e4773137cbb25b938e110aee708b9233865e057e479c71067f9c529394eb4653bb8ca327d5eeeede8b45aad6fa5ac8fa8860b2a8df9a34d5b4b3496b6fb2acddddbbcadf7a396137c55f0f2c4fe29960f15e9026895b59b388bbfd981e55a27779fcc54e1cb0600a927aaedf1b28c2e75865ed7319aaf0e66fda4534f955f74e4ddd2d1fa5d5accba585c029bf60bd9f9377f4fe55abd56b2d7477b1eb9078cbe1d7910efbbb447f2a3de874c932adb06e53fbbeaa720d7d1fb6beab9ecf556dadd2dbe96f3fbcd5c5a6d2bb49d93b6e7fffd4fce5d63fe09f9a8eb0cdaefc2af885e0ff001b69acacf65a50bd9b4fd4262a7fd22368ccaf22e1096d92a2fdcc1600115fe7fe618bc1c25396578ba0e9b49c139294e1651ba4e6ea39756f9ddf78bba6b97fd76e1df1232dc2e2a2b174275399fbf376d53d16ce09ebaedd5766771e08f805f1a3e095a8fb7f80353d5c3ba10fe1fb41ab996090ef687cdb597cdc42485cbaa9c80ae49650bf80f1de5d5b3ec6fb19c2bd2f73dda91f6988a3cea3fc451a14aa385eed4f9e30e5926d5d24e5fae7fc44ae0ec561beaff5ca346357ddab426e10ba774dbe692717d3dde8eefde4947d97fe13ff00165bbfd935ef879e34d3d76a468f26837519472a12371ba0762cac57e54ce4818237115f8ee27c38c461d7b6a55a1196ee156389a2e4efac5fb5824f99e9671fb5656bfbbc9470dc1b527f5ecaf3bc1c3117e78d38e222dc5cbfbb293f37ef39596d6bb3d1fc1ff1a2cfc0f05eeaba85c4f0ded843746db4cd7b4ebeb78b509dade5896d1e248126791cb911acb91e663a705be69f0763e59de0254f2dc2e2211a925529ce752a539c7f855294a34a4e6afed2f2e5718a71b549ad623ad8fc1d78ac3d6afed1d39f3ceac271f866d4e328be669e9df9ac9e9b370c9f819fb6bf87fe1df863c7c9ae6a5e2b8a6d71aee6d37466d2155daf7cd69a0782575578e0b69886b7077322e339dbb6bec737f0d788562a9e5b8670c2e575f074e188a381c428d39577c94e9626ad5af5635a8ce8d3a7673a72a9ed64bdfbb82557e5788b27a19be2296370b8982a745da4f9e2e2e2b78b8ebf179b8ad7a5d9f3f5878cbe2dfc7bf1041e2ad4747d37c65a4596a17b7f7b0f8cb4b4d46eee1ee19d124b859915dd62b7dd123852b86c052db4b7dbe5d97e51c0f87c561b2ec23c46715214fdae32846a63d4db82baaeeb569c677a90e7d75e7f7a529b70947d0a7c6792f0f64ef06dd2a3270e55eceaf22496b68da578da5dd3dacafa98ba8fc0bf881ad6b7aaea1e199bc4de1a8353d46da68f42d2740d7069b02472a66d74e58ece45b6b6f3479d1c90c8b85523050b6deecb734a98b852a18ee1958ec428d570af3c1d54e53c5547ef4a34a954518d18d4e454eaab53a692bbb7bbf354bc4bcafd9c155ad47d9539ca506ead2bf3724926db941c9d9bbee9bdaee28ee7c1bfb2e7ed2f7ba9de7f66fc3bf8a5e3195b519e74b81a45eb5bdc36f1b1e3bebc961de07d3e40dd01e17ddc4f08e799dd38ac170e3a0fd9aa52953a50a6a6afef4ff79ca9ba8db9b6dca526fde7cce7cbf2d9ff008d39665eef82c752a4a5151a8a9ba6f9b4d53bc6a5b5496d1f2d2dcdfa09f07bfe09d1fb7478a6e21d4b43f8736df0fde59961967d5e4b6b6b978ee0fef1ee664592e1a262374ab9703a0f9462b5c27823c579ad05819b961e168c53f6ae957b3949de7530dcd51a85f9610f6ee1caac947572fc9f35f1eb0342551fd72a55a526a5ecad4dc2fcab9b4925cbcceed3dd5f6563f407e15ffc11bbf688792e64f1afc7ed2fc01a06b5a8b6a3aaf857c13a2dac8fbe4cc5338bcbe1fbb9241bd99d13122c85db69c57ecbc1bf46accb0b0c3d2c666b55529d482a94e8c6ad38b84f9612a77a956af2c15351a51708d39c2118ae66d739f1b8afa46e0b95a8e1d559528cb9255669a4e17717a38ad1d9be66e3bf767dc1f06ffe0893fb137c32d52cfc55e29f04afc59f185b4ed76bacf8df52bfd42d4dc992491ee8e8f1ddff0066452163b54b42cbc2e00c617f7acb3c2de12e1ac3c72e595d0c5d4a6a2b9abd5c4d669d36b91f2d4af28a69a4e3651d63ccbde4dcbe1b3ffa4a71d66d869607039d57c0e0e50943d861e18551b356b73fd5dd471defcd295ba3b2923f567c23e08f037c3fd22df46f03f85f46f096996c8914163a3d85b69d1c68830a9b6da345741c95dfcbaf0d9e36fd86070382c1da184c353a4e366e305f0abe9ab7b5f5d7cacb767f3fe7f9de7f99bf6b8cc656c4caace579ce7cdc8d5bded2318a72efcbaed757bcba87659248e49246765662afce0f20b2aed6457906436c60caa1b277616be81e3313ecfd939cf96dda2aeb67d9a76f5fbec8f330397539bf6f56a3ad8949a4dbd96ead14d2b5f6bf377d3447e2dffc14b3f6ced6be156b5e1ff02f8234fb5f10b786351b7d77e23e9f6f99e690cfc683e1a8a5872d15cc36121f125c4f90316eba736e79d2bf9ffc52f1230bc2d2a94b9e51ab46ac7dbf234ea34d45f2a525ba8cb9fecd945ab733b47f6cf0dfc3cc5e73378cad0b51c47bf414b9928a8de37be8da728d95e527af37d9713e05f077ed0de09f8fd35bdcf87fc4ade05f1930f20689a95bcb0acd73e6066ff5e54f92f2380ac7e5cff11c115f0f94f8b990e370d1b4a18c9e26f4d29f3f326ec9da37a6edb5a76b3d93774cfd4f32e1aad9541d2c643db53c3ae7a4aed28b8a7cad72357ebbc9b6f74edcd1fa2bfe150e9de20bab0d3be2ae988939d9268fe2bb1fdc9792519e1adda2dde50c14958b0c37cbd0eefb5c3655c3bc554a33ad82a7092d63efd4bc6f6dad513d1aeb7b5fa6a7c94f1d8dc149cb0f8d950a6b7a4b91dedadbdf8ca4addef76b5d2ed47d4f48f09ea1f0b6e12da4b84f14f83ae42471c724467d4ace35ff00968d7a772cab260288d8e47cc38c8dbbc381e95372861e9a953a7a45fbcdc7d1bbf55a6bd6dad913538b69fb8a749d6a90bf34aed5f58ead47955df927e56d51ca78ebc07e23bcd41bc59e03b28af7479a27f334192d8891b848e4c29dcaac58395db1e7a9e72bb73a9c350a5755a8c274dfbae12e651e9da5daff006bd37b1e860b899625725382a32bfc4a577f8d9277d399afbf591e26fe16b92ee66f86da979c598cbb5b0be613f3ed1e49c2eece064e0773d6b8ff00b17298fbbf56a71b69ca9d6b46da597efd6db6df71e97f6bd6eb8995faeb1dfaf45d7c97a2d8ffd5fca1f87fac5edb7d9bec1ac5ed84ed10bc45b1b9b9b6658ddf698de432b02480477c9ea3926bfce9ccb2ec8b0945ca9d2ab4eab8fb5b4255233e5dacd39477bdedd7a59af7bfd33e4c0e2aa3fa9d1f6497bb275169aeafa7926acbceda347e98fc26f8afe32b1fecfb63acdd5dc4cd0e2296653d00cf9924abbd81c9ec0773c9f9bc28cf02a30ab4e8d6949d5841269dece2ff00c5a3d3ff0002d5bb271f9ecdb28c3c1f3b9cd557f1493d1292d5c5f32575a7cd5aef447df1e0ef88faaea92241a85ad85c46db55527b2b69d577e572b208492467737dde5474c31af6e8acbaaa50ab41377f82d1bb6d7bda3eda3beb7eba2bc7e4ebe0f1586fdf60b1b5a9ca2db57a92496bb3bc95efdaefb37a23e8fd1740f07eaa219355f07f8635273b7264d32cd9f20e0b87685c96033cf38cff000e30bed6032fca213a72960da707cf197b2b24ef75cb277d535d5beeac79af8a389b0dcd4618ff0069ed3dd94d556da8ecaeec925676db54acac95cf6ad03e187c279da259be1df85645655625f48d3e5e5fa81bed7804e7a1e3dc0c37d67d5b2dae94fd9de4972d9c237b592d3e2767bbf8be5b4bc4c5f17f1661b9b0f0cc57b295dc9c6b3b2beebaebf677d6eb6b291efde13f85ff000bed822d97817c3f037ca0ac5a6595b28cf1b5bcab6dd2f1d03742412171b5aa193f0e54a7ecde014ebe8f9dc169d356db6f5dbb75bfbce5f238cce33ecc749e3e708ebf14ddbd375b6be5af4bf31eff00a2f843c0d6b1c2d0f85748b675dbf345616478cf425e042a3701d37608f6dd5eb65fc3d93e11bab2a346d38f2a8da378de49a6ee9b5a46dd3b5a5747cde2b1d9d518b84b1352705ac6d276e6b3d13d1376e9af9eed9ed1a15b699005fb1e9f676a001b1a1b78236c01c8c2c1b79f41d7bf415f6585a596c29feee952765d396cba593f7af6eadabf93d797c1ab8dc4d584bdb549b76da527af979b7d75bf5d6e7a4d8dd5ce50a2c5144a06e8a38d33211c02cdc6d2719ce063a1ddd2bd5c1d7c3516a708c2eb6bf2eb6f2e5d96dbfce565cbf39570d571539b9ce714dab26da5a24aff006574bf9eba2bda5b4b3c9707f7981b338c60819e3f41c638e06300102bd7a99de21250a31715a2524b66f695f974e5defef5f7bab5a3caf2ba506e12bcd4ad1934936a32d1dacdaba4df5e9a356bc6fc538408854ff7770ee3a74000ce781cfd00c9ade973c92af52afb6a927aa8bbcaefa7c2fa69a5bb5ddae2fecdc0d1fb538ead6b75e77774edb2765f34cbc58afca143962aa178277904e0070ab92a0b0079c29c7aae8e93c2b789bf34b11eeca9ab73c795f35da5aad66fa6a974b31a8d15eec6a2514ed25395b996d1516daebf652dadaaba3e14fdbeff006e7f867fb0bfc0ebaf8a1e329a3d575dd53518743f87be0b8ef7fb3b51f1678b26491e38619712cb0695a65b837faa5f242d6b1428b96661b57931f9d50c1d1f6b5a4a0b994609da3cf37a249f96f6d6dbbb59a3ed384784b17c4d98d3c1e5d84af2ba52ab56146a54a70a6ddb9a6e31b24f657d34fb5cd63f9dfd03e307ece1fb4d59eb3f153c29f175e1f88faecf26ade30f87bf102f8db6bda8eb1750fd9afae6292ea45b7921b150c9a5476b2f957314714909018ad7f20789f9260f8d333cdabd0c4ca954a789e7746a2943daf2d1a708b5cdcbcd15cb250947dd9f2dd3959b3fabb24cb734e11c2e172ca981ab51e1a9aa5ede9529b86b27516b14f7535cda36b58be5ba91ee1f0e3e1afc39f13e9c9696971a458788adae12e2cf54863862b80e0aaffc7ca4b0891b326e550d2fddc0563cb717016419461e9428e65469ca786a9170552318ce7c9d22e5cbccddedeef36baf54e5e2f1455cca753db54c3e2630de4a54ea59c6dae8e3a5f5dafb5d37b1f505c6b7e2bf87ba45bda7c5112f88fc316e522b3d6ac21961b8b28e4f943ec0acca90a84f31bcdc2a9c80d92d5fb4d1c7e559643dac651a708dbdde78fba927a2575b6f7b46d7e96f7be0b13913cc13aaaabc3dff00e5dd47cadbedaef77d2de5ade27a82fc4bd13c0be15b5f16db6ad078dfc032aa4977a6cf1c6f77a140c06fb8676ccb3842d9518fa7def9b48f88f9734fd855a3ece93b557eda1d5e97bad3e1969ef5d3de3af3794b84b15394a10c3d68bbe951d29b52eb74d5d3f376577ada4caba4fc57f0d78d63b6f19fc09d734ff13490b95b9f0e26a76f0c6803f972c52dacb2b4913a1471b0a804838e80d5d5e2ac1e6147db6131386aea5a7eeabc251d1d9eab9b58b567ddafb36b45ae18c7e0e4f9e4e975f7a324f5b37dbd7f57b9d3ff00c2ecf10afcb3fc38b2f3c7137efb4d3fbd1c49c9704fcf9e48cfae335e72ce28595e8b6ecaed45b4df569a9a4d37d52b76b5c3fb3b15d66dbeafd9eefabf9b3fffd6fc3df01788959ed1fccf9d225b5fbc70d1aaf99d78f9b76719da4fb0c16fe14c6f0f3a9875531116a54e0e9abf3dadcbcdaabcb5d134fb756d72c7fd29caa85485677a9cc9cb99f5bb6ec9ef1492b59da5b5af6de5fa01f0cfc496eb75a689a4653f215527ae02f5e40e4762491c8e41f97f35cc210c2d68538bb45d5824d5dbe6d6fa3b7e36eda179d4549494536ee9dedcda5b7dd7a6dff6f3b9fa3ff0e75e8e410c88e4a15528d9f9875c6739c1ce09fcb8e95d386c452789826f56f7d37dac95a5bbbdbd2cefbc7e2f174e4b0f52fae8ecf44f5edb74eb7bbbeb6d59f6b78235c052da4f30925951b763fbd8e067b819e3f0ddc85fb6f6b4d38ae6fb11d3a2becff3d2fb758dbdef84a9069c9b7769bbbf4df56fb75b6be5a33eb2f0cdfc2de4e0ff00046490bdf1cf2030fcc64e0f5c0dbee612a45abdd68acf5fc13765baedaf95cf98cc1a949eab7bdafbdddfe5a3dd7cf73e82f0f5e985a1750363323313c15524107040c927039e39e0022bd5c3ba71947de56d357a737975492f3df6bd95a5e4de293eff008277ecb57b3d3fc99ecda16a105c1d8c480ab9c74e7767824743b8138ce0f5030377b8aa41d24aeafcdfcdd2ddec97677d2dd148f1b32a97a692bbf7d37cbae966b7b7e8afb6963d5b4abb8130aad9c60f2738ea319ebf9e73ec181af470728fb37a77d5bdd764efadda7b5b6dddb98f94ace7cdd5abdf5d2fa5aebbeaba393b6fb33bbd3ee49463b54f6fba739c9c1cf3db3cf1dbd315db859ae6e5bdf95ab597777e97bfe1f9a399b928eb7d1ebabd5774f4dd6e9ecd2deed9b96d39f9b83e9c6704fb1f53fa703d6bd94f952eba5ecfbadd74496c97eba315d4e327d52b277eb6d3ceff007f97551b46fe28017998a2221964253388d46e6618009c286fbbb893f2853d6ba218a74af6d3cb7dbad96baab5b6eeb6b4b86a424deb77b696bbff00829fa7a5ee8f9e7f6a8fdae3e147ec8ff08fc5ff00193e2feb36da1784bc2f66e563f36d9758f126a37569e6e97e1ef09d9cb730c9ac6b9aa874862b7468d6cdff007d712058bca971c5e66a9d09d6ad26a9d34dbbf5beca16bf349dd28a576db5b37cb1f6321c8eb67d98d0cbf0d464ead6924924fbdf99be5764adab6ad67ba4b98ff37fff008282ff00c140fe26fede7f1c353f8b5e37bebfd1fc296cb3e8df0dbc016dadcd77a0f823c2b0092d24d2a2da2182ef54d54ab5df887543134925f9922b197ec4b185fccf36ccb1999d67cd19c28ffcb9a4efeec1c5c6eed6e7734eeee9c75e54f91b73fef4f0bf80f07c1380a7986315394e4e3ed9f22e6727cad38df651b7ba959bb6a9688f8db4cf1c5d5a3d8a5b5ecf12dbbc2f018a67fb64689c2431de652e15d06106ddc0a85248e95f2f5785562d57c5d48d35ed22e5efbbc5b4ec92a6e328734397dc7b271ba714a28fdb66b26c6ca55e9d257a9797c29abf2d9be9bd9b7d9ddae64da97e97feca9fb44fc7bd2efec6dbc29e28d4e6854afd974bd695351b691d36395599e096ea27c0192ae0a9e72306be3a9f0e6734ebd4594f268a6e10a8e6e8d4acde9157529525171d3d9fb894be06df347e2f89b8732fcc6954e584535077953b269776b45d75d5f7e9efff004d1f073f699d3b5af04d8689f1424b0d1f59f16d949a4dbff6cc9fda5a5a6a6c1523b8492468c5944ecea48719272003b416fb5a1c359bd4c1cfeb94a10ab3a6e36f68e715277ead5edbabf2a7e6ee9c7f9ef3cc02cbb15ece29ce14e57d159f2c75bb5af9e8ed7dfa58f28d4be1ff00ed05f0ef50bbd5bfe11fb4f883f0cb55966892f3c3178d7ab6304924a59ee74d323c622086251b863636ecfca057e2598f0c71464f9863ea72d3af81ad283a6a854a9cf169d5e77284af1697353e571945bbc9b8cad189ebe1738c9a5428d27fbaaf18eb751b49e96f7bbdef7db5d7a5a5b5e0df827e10d6f59b6f17f82eebc55f0b3c4ef225d4bac783a792dad2eaea2c8920d6b4789d2364254a29303ab124e0938afa4e1aa4d5a5554f0f3e6f7e54db8a935f1294366f7d5a76edacb97c5cf71509d36a8b84d3d22a5ab5a68d3d1abeeaeeddac91f5f45acfc5c8238e0ff84925b8f25122fb44b0598927f2d4279d20362487976ef704f0cc7ad7e83cfdaa69d348edd3bf4f3fbcf928fc31bf35ecaf6e6dedafe27fffd7fe627c27f12a1925b630dcc6a8253b8a4ee00022ea31c81f98fcc85fe78e3be14cc29d374e829d0bab3e5a6eff000c96abddb69ef735fa5959a5cdfdbdc29c5ded710954c42a90bc7dee74f77d572bb3d36bf9abdda3f40fe11fc458a59ad09b989c4524419a591a43f30e402c4e067033c1e723d2bf97336c971785afc989ad27055bf8b3a3372553965ee59d4d2fabbecf5decd47f54ad5e18d8f361e97b44e1cdcca6ad65a5aca1cbbbf3b68aeb5e6fd40f85be3d8a45b58e39e36c2a2b04618032401dc7463ee76f60735f39a53c5a92c43e68cad2b52926df4b7bcd2bdb6493b792b1e1e268529539d3524a52bde364f95bd97c4db6b4e8aefa6e7df1e04f15a4b6b6ea5d14ef524ef009c3003b647afa8e3018815f634b19ed2309b9c9ab457c3fcb75d927a6e9495b57adef2fceb34c057a152a2e56d38a95ecf5bebddafba56e9a5933ec5f0a6baae2065b85398d09fde3820ed1dfa7a7f0e09e8bdebe8b2fc652b25cee29a49e9b69beefabfbb56d9f058cc1d794a49396f66ecd79e96bbd5ae8ed6ef7b9f4df87f5bf3041b25571b2207e763818f4e738381d7f13ceef721592a8a1ed79977b75ecd7369ff8179791c33c0d551d24ddb54f9776bceeeff37f7d923de340d5a2d8a018830e58f718c64738183f518eca7f8bd9a739b8c942577c9ccf451bd9e965aebaeaee96af5fb47913c0d6949f3272dec92fbaeed6eaf4695fcb43d3b4bd537b06455e9d41dbc63a918eff004f719e377af819d774e57a4e2927ab9def7e9f0a7e5b7adec7955f2d95ecd75fe5b5bbf97aad5edeb1ee2c35c31ab091c21ce07ef0f653ce30b8e39e9edcf05bbb038871ace3522d59abfbdcd1eeacd24b67d2fb68a3738313809f25969e7cbbdf7ebe76ff00e46ed4b6a1f11411ab3c9750c684a2ee966083748d851f301c16603e5ddcb28f435f475316bdde58ab27f173ad52ddfdad96dbf54b74cf35602ada4a327cc93d2cf769dbaf57a6d65df448f8dbf6cefdbf3e067ec5bf0faebc69f167c57696773741a1f08784ec2e60bbf1af8d35d101920d37c2da125c4773751b902392ebca7b7b505ee25f9616acf15885428fd65479e175651959ca4ddad1ba7bbeed28ade766e47daf0d705e639ad6a118d1954f68d39cfd9ca50a70d2ee73e7694637d1bfc7552fe02ff6f9fdbcbf680ff8282fc4c8fc55f11ccb69e08f0ec9a8afc36f865a5a5e49e1cf025adcdd80de4cab2a4dae788b50b282de4f10f88f5181e4f39db4bd28dadbc53197e3f30cef0d569d3a95a4bf79cd1a5844b93d8ca138f3de5cf7ab29735aee11b46ea314dcf97fad381fc36cbb87f134f1b18fb5c45284255253a3ecdcf9e1349734a72e48c24fdc56727caa53b27089f064da06ad2907ec50c21102c70dfe6294431ef21d53e5523e5f2c36c505864fdd35c0f1741537899518d3a7156bfb4e66d2d5696a6db69dafcab99d93b737bbfa8d7a15313867839ce5ecdd6f69eec6eacda4a1f147a68f7df4ed2f47f86ff057c55e29d7ad920b29e57df69224315bcb3a33dd1ff475478919712004a119048c1db825bc7c463ab63293a583bd28b4a50af293b4633778f245eae4fded25cbcbf69dee8fa08bc2e0f094a5ecd253a4d47f78938db46dae54e57b3fe5d24b7b33f5c7e1b68be1cfd9f2c74d86f0437be369a3fb25bc5a3ba5eb497970c904fa7c96c04b247796c4979044af22e70aa33babc6c2e7b5325857a38da31a95d539ce84a18a84278aabff003ea31f64dc273d1a69cdc7de7caec8f06bd655215b964fd94936b9e16f67d54f9ae938eb6b5acedadda48fd60fd8a7c2b6df10ec3c6963fb41fc37d6f778cb57d3a6d1adee63bab3bdf0bda5a58dc416d7361149b2e2dcdf8db3bc60c01e54539933f214332c66694eabadf5bc2d4c449db0d3c539ca8475497b4565ef68edcb7bbb2b7c51fc338bf1385a58b4e9558558c2324da6ad26dfbdfcc9f2f9f4efa463fa0769acc9fb316b3a7591b8d5b50f87dad5b42d61ac4666bafb1c05d6d1747f1868d7af30b6d84a9334792e8aec5c672b0f26c6e1dfefb1b56a42beb1e784abba7cbbc257abf69c93bf2c53b6a9e8e3f9957c7e01ca7a28d46f48297c2d6ad45eb7bf3474bc52b6d2b2396f167c38f16eb9e2cbaf8a5fb3df8b7c272c17721bdd47c1770f325a5d5e058e47974eb881996cdee487290ecd8afc367059561f20af52552787a91a33576a9d4a728c6acafbc65cd0e4edb492ddddbb130c6c24946aca6a0be192f79d9f74e4b6d16ade9b6f71a7e29fed451931c9f07f549248cec7921bad2de291d3e567899e30ed1b302c8ce371520b60935d0b2ec74528ce5694749250e64a4b4694bdb2e649e8a5657decaf6355f5469355b47aafddcb67ff00710fffd0fe2eee35cbcd3aea2fb15d0b58d0f3903192bb4eec6011b4e08ce7233b9724af567bf55cdaf08538b76b45a576f476f3d1eda7af31fa770f63ebe538454ead46eab97da77926fa45e8f4b5ef757d5b6efef7bafc3bf8f0fa4dfc56977a8496c4c88dbc365084c0dd8e38e72c49f6e38afe6ce37e04af5154ab428734a3554d412d1f2c6aad6cf757baf8ac9dbccfe89e0ee3ec243090c1559c6a62e716f935e674d4ad369b9746d6e9eaedd2d1fd3ff81dfb435acd35beed610c60c78dd3e4b956c1c2ee38e480011d790c70457f2ff116499a6538ae79e07da42552d38a84b9a9eb77ae89f45bbd96b1d4fd570b572cc7d2f6d197ef9af86e9eb6ebebe49dadd53b9fabff000b3e36d9dd4168ff006b79033c6002fdc9ce7e6dc4807af3d3a039af2de3f1d425c9f51a8a94145ddc6c97326eeedccacadd1d92d5ded68f9199605e214d72fbfcba6dad95935aa7adb7bab755b397e87f80be24db5c25baa5c13b8286604118c0edc60e0ff3eb902bddcbf3ec342d1ad41c64f45a5b56bce37d12beabf27cdf9b66181a983a8d4e3d7af9f7df6ff86b6bcbf5b7857c731858c89252aaaaa485c0c0e38279e3af19fd32bf6f87af81fab7b7751256bbd9fa5ed24d37d2e9bdadbd8f12aa7cafdc4f7b5b4df46faeaecada2f37b9f40787bc62b30491667c15e061b0465739c36481c1c67af3ebbbd3c2627098ca718d0aea33524e52bdd38abc7975d57bcd37a6b6e9ca8f1dfb93973412d2ef6ef7f3bfddbf7d39bd674cf1b456fb164b9287008619c1c8ec0b0e01fe2c9249c1f5af7218ca1412a3f598dda57f795fc9ff005bf5382ad2954da292efe5b767ab7a7e49dcb5a9fc5dd17424fb55ddf5aaf9292cb3c573709024312a67cc0cc552525031111963fba3327cc15ba956aee5ec28d2f6914f4adb73f32e67af78b972f972b5656bcb9713846e92f7757a7e3fe1db6ebf38bb737e107edddff05ebf047c18bdd4be18fecdb67a57c56f8c30dd4f672eb0219afbc0de07b8589d253ad436b7057c477b0306171e1c82548229fcbfed0be48c915d6b0788bd37edd29ca707cb3e7e4e5e74a495a6bda595f9d5e2b96326db97240fa3e1be03c667294e71787a153dde776529736978f549269a9bb27b46ed367f2cbf147e25fc5efda37c6dab7c55f8dfe2ed7fc7fe36d54f991ea5af4f35dff66413481e5d27c29a7a3fd87c31a35b15fb34165a7a89e38553ccb82ead2d7cee719ee2f078c960692f68a6d453946727caad774d5e3c97d9f228f2b8f324eef97fadb8378430b9060f054a5184f91a94da4af3b5ecea5d5ea3d5349b696ca2ec769e0bf01eaba9ce638aceeadd145ab7da9551f26e610b002aca554a2c411986d2d9cc9b9b25bcac44a9ca718ca9d475314d45cfdcfdd5a0b95c63d3e2b3695df2dddef797e8989c6e06178aa10872c15d72b873c537b5aee5abbbd1daf756d5c7e83f0cfc09bcb5ff0089c78c3cbb0b1d3916f6f4ea322297b3f39a2fb2aafcd90c034ca7e5037151d495ea590cf2bc24b1f8cc74f114d479e746a4b9a2a16d6367a5b5bbb25f6535fcde255c7e1e72e4a316e536e31715657defaa937e8db6fe5ef7d03a05fdeeaac9e10f80be1eb5b68f54b8b086f3c4ea1e08b4d4468e09ee2f2fd920920c79b9b21a69bf797690cb0e1abe0b32e20c2e36855c0e4d5d61b1159b6f96f4d61acd43de72b38f35ef1708d5bae693a7a7b397063bd861a8d3c463317794232b61db4ddeeda8c63aec92e65251f8ad77667e93eb9fb23c7fb307847c33f1ff00545b8f89d0e89796f7fe21d7a0b9874bd6fc0da85b6c9e7d6746d3b37f6736877f74c8b713ea503ea4918676650016f9aceb23cc96170b9860f17571f5f2bb62b195954f675211a29cea4a9d15274e74e4d5e719f3cb975536e299f9be65c635310ea6021463429d7bd24f939a2e33d1734b7528abbd39629f4d6e7e84de6b43f68ff0e783fc75f0c75cd3bc35f17edad84f1dbeafa8c7a458fc40b0314663b18aface47d2cdca2c7b6c8c8a9223b60a1cb8af7723c6ac555a6b3bc47f6655d392ad592a71acba3e6d63a5db49a7bbf79dd44fc9b35829d4ab0bb952d748ebecdfa3db5b775a5f4f779bd2fc23f16b4fd52ee1f847fb44f8125d07c44f1ac302f890b68f7fa94c084fb3e9dafce56c75594c8bbe116be5ef87cb1f31955abf4bca331cbf078d51c55658ac3b7095073b3538c5be7e5e926ef06d46cd2b376ba89f9fe2f2fa8a53a9453aae2ef051d52eb7b74bf2ad745ebaa3b1f167ece23c39a44fe2cf825a96b1169fa6efd575cd2b4dd5a2b4f12e976906f96e6586c9da58f558e142dfe8ce25338c08f00815eef1562b2ecfa9d07925b02f0ea3eda749724ad04b99b5669eaa4b95a92d7495c8c062f1546a28661866a9b6d45ce3a37fe3925adeeeea2edf33868be396a91c51c6de318c3471a230bcd16c62bc0c8a148bb89adc34772083e7c646525dea718af90fabe3fece3a128fd993de51e927efad5ab37a75e87aef1d4d36a1867ca9b51b4e56e5e96f958fffd1fe24fc5bc6f55cab078c82bef2b838e9d4019cf63819191497eefde8fbad35ac7476d16fbf7dbd56b73ee6ad394df37349cae9f35d73744d3e9aefa7add6b138a824961904a858480603637372467838f4e7246471c82433856c342a4ea6360aa5374a715ed22a6f9e5cbade4a5d14f56b4bbdfecf4e1615a9d7a5570d5654310bf76ebd29385474a4e3cd4f9d5e5cb292839453b39462da564759a078eb58d06edcda5fcf0c8240db776c1fbb071862576ed27eea803207a7cbf379af0b70ee7d87ab7a74294df334dd2828d9deeb44fe2492b4575d6d667dae138b738c9313424f1d8e9538b8a94635ea72ca2b477bbb3decaf6df46fecfd87f0b7f6c4f14786eeede0bcd4259214da31f6c248f9b0483e67048078e9e8ab802bf13ce7c338d38d6584a74f111d5c633a775aa4f96327172d2ce366b4e8dab1fb8f0f789397e692a6ab371a8e3187ef1edcaf964dc5c92d6d76dbbe9756bf31fa89f0a7fe0a016b1ada7db35636f1a840f19be06676455c953e67085b3c0c90b81c1c6efc433bf0eb35a789e6a74551a29cdc9538da4eca32b24a2af17b2b6fd6d768fa8c5d0a39b5e74e580947e25cd15751777fded6deb7bb6b7b1fa09f0e7fe0a17e16be511dc788d2c9146c5fb56a56cb1ca7838c2bb4c3a64971cf4e40f93e66192e693fdc4639851a51b5e949b8c1da4ecdc545bb34de9bda2ee93573c0c56474d52e783c3ddeba2e9a3d758aebb6eadb2b9f427fc3ca3e13f8534e177a97c50d16dda1197b55bb6ba9fbb08a38a272f920649dbc905782735f6d9170f56a52e46e7193a7ef46776f569de2b4d5dd59daf6bed63c0fec38d44b9a109de492953e48bbeb6bb93bab2be97f34f4b9f387c4ff00f82ebfc3ed0a096cfc016de24f1c6a6c8b1dbf9764b6162d261b7ed9a59526310707715467c6402457b72e02ccf138fa55a9d5aca9a69be793a714959f272b4ea49caead6a6d69ef5b571eca1c314a6d733a14b5ddaf6b3e8d2b5352b5b557b453ecacd1f92bfb40ff00c1487f6a4fda759f40baf15cfe05f07dfc171692784fc1d717b649736b290d7116bdaa4b145a85ca5d411b092282530832c91921404afd1165ff00d9b429616589a49d3a7efd252945c64e3edaf26aee6e3cfcd1f79c251baa91576a1f4981e0aa3254e6b0d0c4da57556a53f764af6f720d35eebba7ccb56b4b58f03f01fc2c4bc8e4b1b4b768ae750b686222dda596616893ade3c7144700ca9347bcb3fcceb248096dc55be2b37cf2a539d58f3bc44946556c92e76a3152bc22b95737eea0aca4acb55cada47ecbc33c354a8422dd3a54f96dbc5463cdf0a72d36d7a6e96fa367dddf0a3e0a996fed6e5e6bcd3edb7244d0df6990a2307755948b6706284b21902cdcb7cc5b24ab1af372fc3d4c45659ad59d674aaa94bd8d5846c936aedc2ce29b49daddef67a9f4b9957961697d56843095ab4367192728db5f896ab5e5ee9ecf4d63f4e6b37be07f849a2dc4d1dc896e7ed061784cd673cd2a5bb3983c8445329b84c6194108d9c31c035be6f1a1470eb134ea2c3a9397bd0928c97b3f7bdd6b5e66afa5acfbbbdcf228ce58bad469e2a71a95e7cc952d5f23b26dc9393496ba6ab6d1dd3387f89537c4ff001afc20d67e30dbe99a46afe0af0ede69b3789b44d22e0ffc259a7e80aa24fedfbdd3a2db0c1a6302d652421bca32c53484025cb7c065bc5398f13e618dcba3ecfea783e7a15a9d4a8f9dce32d2ad551738aa338bb4aa35f1c5feedc20ea4b5c3ac260719530f5aad0a788709fb0f6e93a729eca11bf2b735a3565ef7c2ecda52fd8dfd8abe267c09fda53f67fd1be13ddd9e8d68d65a2c7a8f83357d363b5d23e20fc32d76e247b69754d175093cbb2bcb7d465c493d809a76ba579526848255be368e4998e759de7b943c24e87b1c6b8e1f1115ec713953f630a7cf83aeaf150a8b99c5d3bfbb2953941353843f1ae23a799e1b32c4e631c4d4ad1559bad8784dcf0b5a2945f2b8ef68d96dcbaeab9959c7ea6f8716ff001cbf66ebd9b42f1668117c44f00eb72bc526aba5e94f7d67abd8d920fb40d56d6fe290687a832471bdf5beba4a5d6fdf0130656beb6bf0d71bf0f52c17fabd89c2e6387c24a15b3daae72588c460a9c5baf1a9effbd39c631528d4e7e7d7e1d227c7e3b3ec266ea54e34fea952929294348a726b6765efabdecd72b49d9a7af2fb568bf057e08fc4f82efc59fb3c78861f85be2f3e65f6b7e058ecfccf055f6a593c6b5e0c75824d3a4dc0b26abe159ade4be71e60cf941ab5cd715c19c6397acb338c3c7059a507abc3d1846f57bcd59caf75753834db575276f7bc8a73ad095a72f6907a466fe24ba284afaed6e59735ba6f73d3f433a0f8c7469be0e7c68bfd2f57d474e3e6ad9f88165d1bc69a3b42bba2f13783753d5a6f32fb498a78d0590b4b86b98a3f2e39d8c8eeade560f2dad84a70cb70789c756c2d04d29d6a95235a9c6d684e8b959f2a516ee9ddf2a4f7bc75850a742b2c54234e536f9d41a53a752cf5a752292be8eceeb4ded257e6f92357f8e7f1ebf646f89b178775cf13bf8afe1edfdec10784f5cf89fa7ea1e151aee917f858349d2fe20db097c3567aeca939b5d2ae3c4d79a4699732c691c9aa5ab132d7935b33e21c831ab0ff0058c46368569da31c42ab479a9e97a6f1508cb0caabbda8aafec2353e0756e9ccf7e74b25e26a3786130f82a987fe3d2a30a6d4a515673952d64e29a4e5c8e6e2b5497d982fbc75f03754bebcd4f50f06fed2b0dfea375717d7b0da5ae8ba9da45777733dc5cc56ba9584b7963a85bc7348e90df595e5dda5dc6167b6b99e17495f39f17ce9ca509e5dc414e709384e9c6829c6128bb4a119d39d4a728c5a7152a739c2495e33945a9182c870bf62b65ca1f615f96d1fb2b95a4d595b4695b6b2b58fffd2fe27f5e19979e30ac78fc71fc58fcbf23c054bd6fbfe7fa6c7ea2a941b76bd95b6696eb5d1a975f3f5be9cbc75d46f208f6609546041e33f3138cf4c9e3b01d739e42c4fd9dff794655a0d35cb1e927a5deb17a2f3f4b7dad654d2a6b91a538dda4ddafa3d3aeeecefa3ed728923959235461dc77238e79c7049ee7ef77ace2b0718ca2e8ba4da972f349b4ff1d2cade777a376e59255e5522e18882f755af6d5b4b4b6b7f37776d744b5715862dee020cb1dc78c678ee395e07b1e87b73bb28538f2354f0ee706e4d4a4a2d68fded653edd1a7e7b73476c24e10aad529b8cfa538dd496cf7565abd13bf6bdf9ac6bda7da115b1792598ce02032c8ce0370481b940c638ce3b0ce4edf171d86c349ddd1a726b5778addbd7b59e97d2f65a3e88f7b058fc542aa8cfebf08df4719c2de4f5a97716bb28dd5f557f77a9b4b8d5582b7f68df796a399165c154c758d4313c9c2f006031c8001dde1e232fa31a0f12b0986f62dafdef2a49fbdcbaab29377b74baf3b23f48c056a95a1c9531188e67a34e51dacb556d1377d169f2d606dc5a2ea1ab3459babfbd01849fe92dc263e52c097e301b1f78f5248ced55f9f963f0f87751fb3a14d28daf4a1bdf68bba5a7928f65757b9efd0e1ac5e3a14d53fac4a0a4aa45d49da0dedcb1e4927769e97d126da6ed63d3342f036a48a9726ceeda10c103c797f981c919576c00541258ae78033cecf9dccb88a94a94b9274e0d36b9b5859efbad15b7b3bdb4bdadef7e9fc37c159850e4956a75d437734e3ac5f752a8dd96dbc6fb34ee8faf3e13fc28d47c5530b7b39e68e1d3d9edd425b4970b35c18272f12ba721c20c0d9bbf799008e4afe6988c7d7c7d6ab0857f6752a4632779546d42516a9da09a8a4e30945b6f9b96cd45a7cc7ead430b4b2fc161e13a1ccbdeb549f2733fdebf8b57a45cadb2ba5bfd93f49bc0df0e3c25f0d748b7d43548ecdefee34d9e43f699adc5d59dd285fb3dd48668ae9ad5635721e172ace4952809aa851c2e169b78be4e6a90945d59a7cdaab39393f68d3d5eefaecacb9792b56a977cb294211b7bb0bda51b37ca9249376d13dafd1237f56f18f8f75ef0378a3c57f0b3e19f8b755f0a78363697c45e29834ff3b4ab46b79443700ea332436ba9eaa6e03b8d3f4c86e268e1701d032ba2e12cdabe268cf2ecaf0b52bb82e55562b969a6ee9b72e56ea34d7372d38547cad5ec9f31c345e559562963332c6c155aabdca12a969eab995e377cb1b3b2729476bdda768fd65fb3efecdffb337ed87f0173ff000b1bc4de13fdacfc3d712eab667c5daa1b2f0ede5dcf34a9a7f85a6d363b1d36d2c7c3173384b6b46d4a58b54b7d49e573f68866811fe5f055a39a63a590e6eebe031d47da273c5c61eef34af6a4a29c634a7ece2a2db8d754e76e65cfcd3fceb3be2196519cbce301529d6c1d76e0e853bced1a71f7649b525ed6f2776bdd7e76b9ed7f00bc136de02d7eefe137ed01f0d65f07f8b0c72f87b51d07c536d6fe1b5d663cf97337863e20e8302786fc6d6b710eebcb4d3b598673017920be9eda649e08bcfc16168f0c6655e52c27b0abeda118d69538d38632eb9d7b2c4c29d38e292bb76ab18ce2fda5ed76cf89cd33a5c415ab636ae26bd2e5e7953a719bbebb735294dca9eda495afa5ad64e5e9fa9ffc12afc33e14d7e6f8b9fb1cf8dfc65f0cfc5567247e2c93c33a4416177aee8f7ba68f96eacfe1eea02ffc25e2fd32e6cfcc9ae64d008492260f188a62e57f53ad8dc3636852c761a1ec31cb0fcb88a70b7b5a6973da13a7ac2715ccaa28c2a3b395d35cd247939171ad5c2e371596e6908d7c1f3ba29627e2e49a8e9eda379a9733d2fcdd9aea7d1bfb2dfed69f13751867f09fc66d43e19789e1bbbb96c75cbbb6d6b50d2351d4de193eca875cf0b6bda56a373a1ebf208fe6b5d375786d06562588290edfccb98718e6995e798ca387c652af471339d1c6d2a55e54ea28549b8fb3ab86ab4ea4a9ce54e29be5aa95e56e569a9cbdecc386b098b8cf1b97c2ad9c7da460a09c6ed5df2ce2e31946eac9b8dfd1c9c65dd7ed21f11753fd996eb42f889e108b5ed4fe17eb6645b9be9b4fbc9ad7e1b6ba1a35fb749e234d23c45a1da69d736f21b489b5bd2f4f4b01fe897770d6134b7717db65d427568433458782a76e79caaabba52fb52724aa4631b2b5e504a3f69f2b94a3f3d0c04a2e54aa3e4a91d6306d27517f2a8e92e64ecfdd726f5b2d39632ea1e20f837fb58e99a2eabaa78c35cd1bc736ba641a9e8de2dd2ef1e54f0f5d4fb0596a11699e1f9cc571a15a3c6b2eb3e22f84baddc69b641e2b6bcd12cae2e2d8b7d9e4dc4996660ebe07154e9d2a94bd8aa55f964a3ef29ae6a728f34670872c79e787a938a94929453694b82b52c661396b508fb69d2e751c3392e7c445db9f5a8adcc9457bb5f95caf7e7dd1da687e0afda3bc17656fe00f1cc7e05f8cff000bfc4d6576f1d9f8d357d2ae348f1569b790a24d358df9d32e60f11f873578e4bb6fed0d034ff0d78e74392659f55d0b586b4d5df55eead974307515693a38dc3d4bce3ed1c796cf5d1da4a71f8a3cd08d39c74bc2528cd4bcb8d7863253a9869cf098d8c9aad42175529495af19a57519256924f9e2d5a4a4b9a28b70fec35fb29cd0c5327ece7e2bd19658e391747d13c716d79a2e94ae81869ba45dc1e36b582eb4bb107ecba7dcc36b6d14f691452c76f0a32c69c92c3e4726e5fd9d868f3372e5728bb5dded74da76db46fd5ee76c2ae6aa315f5872b452e696f2b2f89de0dddeeeef7ee7ffd3fe2835eff5a7fdc6fe4692dbe6ff0033f54a7d7e5fa9cb533432e5ff0058ff00ef1acb4e67cdb5df92f9be9fd766633f89fcbf225b5389970792a7a738f9b1fe1ffd6c165d6952a755bb5582b26dc5cacf46bcb55677bdfd1689931abecaa5e3072a9cba5926ddda5bdeeb5d3f4d5b36ad6d24b998222928aa37b7a48bc381c2865c82578dddce3a57cd67352961dcaf562d34d5ae9bdf6f3d1ad6f1d37d533eaf873078dc7d47ed29ce30bafb37b24f7dfecadd733d7a2bda5ed7e12f01de5e4a019a5312c4b30061c07dc3ee96d9c26dfee8c71c03c6efccf3ae2f861b02f0a9ae593b249ecef6b6fbabb7adaeec9daf271fe80e1ce0758b4a52c7cd5ecb99a827d136bdd4d5f65bf4d5f37347e9df08fc2bbdb98d66b6b34ba184f323b6dcf8f34aa2c9b4c6a480480fd30581c63715fc8b179fe27172ab470eab5e0d393765a6aaced369d9b5b3765abe5ba3f6ec8f85e964d18d69629e2dce1ece34e6a3683e652e6d3aa506bfedeb23ecff00057c11b5d334f81b5f7fb3191967f2e19222ab6b2e0c9200029478f0f1ba1cc4afb7792082d83a38b783aaeb557194949b5195d28b8daedca29e893566a4afdae94beca8e3e70b421858f22564dc2daad2d6edd57c3a3e9f0c7dbe1f107843e1d5d5da6853cda9eab6968925a3dbc290bddea01c0b17d3a4b2961b9b978df6b5e43f6742b6dba5b99a0b70f3d7c8471f81cbf1588aaebca78a8a8ceaf3350846a46318d1bd48b569ce1c8a317694eea2b99bb9c38fac961ea56c4b8d0a5bc22d5f962a3efde2ec96baa69df9aef57647d25f107f61bfda035afd9e756fda5750f15e89a9c1a649a5f897c5df0efc39f6ad7751b2f085cf92b7fe288f58b4d4041a9bd94d776727887c23a45f26b3a2592dcea51dcea505ace95f54a799e3304b10e953aaa4a13af86a49d49fb371fde494e351394aef5a50a9cd1fb1526d454ff21c1789b96c3399e5f3a3274a35254a96226e2af252b46366b4ba4d46734e0eeaea3b47ed6fd88fc63e17f0ff00c3087e18f8e2ebfe104d3bc4d657765a6dda11e3ef86775fda2ec972915878962975cf0a49aa452c8e7513aa5e68137da249a0d69a677b24f95c938a32de06cf2789cd6956c24275ad87a35a53ad834e6fe1bd6f7f0f77ccfde93a324d3551ce4e11f87f102ad3e209d5c4603319427057708b8d2ada2f754b9396352d6b59253b68e0d2523ebbbffd90753f0143a3ebff0008a3f0ddcf86f5a9def34cd045feab71e01d4e2581556dbc19e3dd104bf117e1aea4d12c92ead2ead3f887458dc2a47a35b6942fada7fdf71794f03f1de4f2cf70b9c51c1e6d2829d1a546a422e57f79a5357a90d17c50766efcd057713f29c0e759b65d59e131509e268b9723a92f7a51b3f8a5192e49a7a5b58bef3568ca3ef1f0f7c73e11f145bd9f823e297816ef5dd22ce6881b2f8afe1ed31ae3463619c49a7f8cfc32a3c15aee813c0e174df1af8527d3f46b5db147aa68b6972ed1d7e518acfb24c4e29f0962e87d6aa612379e231346dcce16f7a35147d9548b566a74f9545ae49a8cd347a18dc3623155235b0d515153d5fb193495fecb8bbce325ade3277edccaf23b2f0d4df0a3e0878eed3e18dcf8cbc43e0fd3756ba7d63c13a5f8a6f6df5bf08470dd117c973e0dd56689fc43a4dea4b37d8a6d26d757992261f6eb5b35d28ac95f2787c67f65e718dc0d2c556fabd6aade1b0cff007b4b0f4dc29b6a94dde69a95ff0076e6d2e6d1461148e9ad964b1785a2924ab5285aa6223a4ea6addea34d2937176bda0f4b36dab1f0e7fc14dfe01f8c751d7bc39f1e3c11f0a352bcd3b4985e6f197c6bf863ac36a0faf583a4cda7d878cbc31e128a3d42d750b07315c47e357d26e523448ad2eed4441ee138388b84b0d8eff6cad0788755debd7c35384aa527cb250e78d3a72a94a7cce3cd88a6a5784546ad29538a943ec38438a67c3b0782ad3862a3536a35d6cbdde79d394dd9c5dd45c7ddbb95f56da97837ece7fb6878ff00e1fc3369969abdd7c57f0c489137883c07e33b5d366f171b5f28dadd4b16c5834bf8a5a34d68ef6f1c9a67d8355b21bcdec45d5457c1cf34c6f0ce27930789ad8fc3d36a5530352a43eb71a4a0a31f66dbe5c729ca9556e4aac6a414e2e51f76c7b799e029712db1318c3057bb52a778d2df5567ef5292bad1de2edeeef78fae6bbf0aff0067ef16e83abfc7bfd983c4be2af872f69a97f6d78ffe19784ae92cb4cd2daee68ffb6f58d0fc3d369fa859e9973a48f366d56e4585e788aca28a55d3353bdb58a7d367f4730ce61c4f83c3ff00abf4ea65f8ca4e4e51a14fd9cea4aa7b252ab184e12e474a11bb9461297249b8f3da08f9bc560e397de962ebaad287bb4ea4f5f776e5724e1cc9e964e7cbdf97e23eff00f823e3bf867f15fe1249e0ad5bc6363e29f0af8a2d5eeb4ed55352d1ef346d2bc46ab347178c7c27ae787a28bfe11dd621b98cc93d85dc3a6dd1b9fb73ea9a05a9ba28ff006f922c6c72ff00a871255a9185787b959b8f2a93daad2a91b723566d7c3aa93953d8f98c546785c551c56069b751497b54bedc1ef4eb45c5f32d559c6ed7d9a914e48e11ff00670f8b50bb4567e23f0f5f5a44cd1dade9bdf2cdddb21db05d144d60221b8882ca514055df85000c57d053c8b87a34e11fed7c5cad08ae65285a5656bafde6cf747a9fdb15deaf0d14dead7b3dafd3e5b1ffd4fe2835ff00be4f7da47e7919efec7f1c71c1a4bf0f7bf3dbf17f71faba518d27514afe4d5aeed756d5f5d1bbf9d92699cbae38ce083c67a7e23af6f7fc4ff147b6846a4a13b24a374dbf2bfe57fe99a42129d38cedbc926bb277b3ebd96ee3bdb5b332e5476b82a8a5b73e370e1501fe26ea3007273db91804edf3b1b38454e71a975695e3ddc7a35776bbbadfc95de8635a8d784972d37539bb3b7dfa4b5e9bf9a93d797a7d1fc3d34d74bf3ab2c8020603721dddd4fe631cfa8c64ad7c8e3738f60a6f9a5071bde11935a5b4bdbbd93dfe52b7bbf6bc29c338accaa52afec5c94dca0e1cb7b72ceda377bdedae8acf44f567d37f0e7e115c6a37891ce1648e72ac005da002a092cdbf760138fba33d0600dcdf9de6dc411c55474feb3ece693774d4dbb6ad72ded0765bb6afbddfc47f5070870252a34e32af09d36dc34f64ba4bfc6fa6ba34adaeef94fbabc2bf0974ed174a3adde5bc315b5a2ac32a3b052e9170cea8e7959172bcf4cff1138afc9331c657ad5dd5af4e3ec23672a7ed6725757bcf55072e67a2524b4def26a47ef180c870985a7ec70d67269c93fabc134af649db9ad6b26f5f5bd9ca3eaba578e7c27e18b8d4db4ad3a0b8bcb1f2fec56e88159a292057dea304ed1b9a5672afc44400376fac9e6783c3549bf66e9c7e0a6e10f766db5649eb14937aca4f4768ebcd1e7f1b1585c55294bdad674a9422ea5f963efc9492507ae89ebb3ba76decb9bdfbf67cfd9efe29fed457d37f656a16ba0f876d2f1e4be7b4b88ae35eb8b0be73e62e9b6b2bc49650cc4ab2cd70242fb54a84c62b8679d62abce18474a30c3d494954c47b470a8a12d12a707177524dbe692a566d7239a4dcbcdcdb8c69e5180f694f0d4f115da568cea38d2528af8a52507ccd35d1ad34b5f94fbdfe2a7ec9dab7ecd90f85b5df80ff000874cf14f89f49b476f1e7c31f8a9a86a1a868ff0018fc2c08bf4f11f80bc771bdbeab65e3ed18473ce2cfc1b3c97da6224525f691abc3125b4bf6d97f026599b5258bc36b52ca528493aded2d51cb9a8c6738c694e0e3292545c3def79f2ebcdfcffc49e24e2734ad53018f8ac3c2528aa78ac3d477a4ea538be49d2f671854a57928be7777d251bb67d23fb367c61f809fb47d9de784fc09acea5f03be35e9c45978a3e0d78aa5b7f0ff0088752d423b6b88af9353f0e6ada7f87bc2bf18ad2eec63bcd3fed979e18f05fc4ad474bfb56a0752d4ae219616debe0b11c3587facc235615293f6d2a1569aa5cdecef3bc97c35938c3e3e48d570bb6dc94b9be6a7c3b51d078fa755e2e1283a94aad38c654db8ae6847da42751d1973349da55609bb5b5b4a6f177ecb5a87c32bbbbbef843e21d27c25a75ccef7da87c33f16e8daaebbfb3e78ceeb4f532ea7e1ed2bc3e92c1adfc1ff001ade44d32da788bc297765aa470b2ea474ed42dcb5b4fc339f08f145075337851a73b549ce8fb384e856ab28dbde728c6a539ae55287b3e4516e724af29ce7f38f078ea38a589c5aaaed6f867cb529c5bba7cdb558aded24ee9f2b6becfd2bf02b5ef18f857c38ba9785f4bd0352d075a4f27e277c02d5bc40be37f0d3db3868aeadf45d6a4d0b479753b7d45e44582f353b2b7d5e191239b5488dc22883f32a387a19367eeb70c5172c3d55c98bc054ad2a9878421cca33a3270716e729b4f9a349cad79d9b3dac5bc262b0d1854b529dda862a11b544f7bca2a6acd277694b9775cd3b9f187ed31fb4aeaffb1dfc574bcf85de26f12f8d7e166a51cde22d6be10789ae2fae7c7bf099ad115f51b7be935489ae7c59e1bd3ae9dad742be33dc6a16080c769722dd11d7cfc664189ad9ccf19471b56973b956a9859fbd5a2e55292e4f6939c52a3194a5fbda95634e9c75e7a30a6d4fe8786f0b96e230d3c356ab1a98893e4a75b91469caef449464f926e3ba69dfaa93b1f51f87fe2e7ec85ff0510f8696be14f883a2beb6349c6a5241e1ad72f7c27f143e1e6b9716a883c41e19b8b2963b859911de2dd1c6eed6ed2d9b968669157b72eaf7c5d4e4a3cd469d5539c6a53bd59f2b85a7cb522e1529bab0d1c554a53e571f7927cbcf8fc0e372ec454853d29c5f242728de9d582b4a4a4af6d6ebae9a3f75a5cd8fe16d0ff6dbfd82754d2752f835e2ebdfdb5ff672d76f55ecacee1ed742f89be18b632228f0c5f58093fb3bc417ba65bac7135f45369d15e6f58e78a4c3237d853c754c1c69bc2b855a3254e33a706a55a4f97967194aab5ac92529f2ed294f96d050a51e1951c06634e746a43ea38a6a50574a7464d36a1523ef4a504fe28eed69a45a728fd7773fb347ecf1fb41cbac7c60f87be001f033e39cb66d278c7c01e2ad34f847c37e2ad6ae57ed6efab69929b5b5d2bc41b83456be28f0f4f36932ddb7d8357b37465b84cb13c2b9367755e36851f618fe5e59a953e5551b7ce9548f32e59a9b935385aee4d3ba573e63159be75914a1879d7962308a5a5e769463fdd92bc9c5ff002c9dd777768f14f0af87be1a59f8a1340f1068775f0cbe22dbabc171a6ebfa5c1e1af12c66432c375a87876ff485b6d33c4506a2d95bbbad0ef3c5b65aa5a792756b4ba2b6aabd9927097f65e3638bc560232ab0bfb1ab52946954a315fc6e49534d4d556a9f3f2b95d423cd7fb3b6233ca38bc2a94210ad2b5a71556528a94adcbcf78b7a352b29455aced7e56cc3f1f7fc13d345b7d62ffe21fc2abef13f8475cbb4b8d667f157c2fbfd3f44f15dccd108a5bdd4f50f0cf93ff084fc40d2015c4da1b69fa5ebfa68f31a3b2d3e7bf5797f5fcbb26e12e2784a39a45616bd25a54a1653972e96a8af08cd2b5929c65c97768c6eb9bc3a5c458cca5aa52c3d3c4d1acda51c44a49524fa41d9c935a24d4d2969aab7bd85037ed3b6b0c36d1fed51f090c76f147021d53e1c98353290a08d4ea302ebd1ac37c5547dae208823b8f31022eddb5d72f0db831b6e39954516db8a5429e916f45fc75b2f2fb825c5f4212942585acdc64e2daa8acdc5d9b57a0dd9b5a5dfde7fffd5fe27f5cfbc0f7dae7f1c7ff587d3f0a5d5fa2fd4fd3f0dad369ece57d75d7fafeb439ac0da7e83b7fb47fa7f9e2bc6cc5b52766d5a71ebff004eff00af5f91f43828c5d14acbe35d3b2bf5bf6d7f4bdcb9a5c486f9948cab3421d7276babb61830cae5704e17b76c746f2ab4a4e8eef5badfa6bb69d2cb75e76d2c7af4285395485e3bfbcfcdab74d55b57d176bee7d69f0ff43d2592c8358dbb0678c9dc81bef38f507dcff0fe1c0af86cde8539427395db94b5bbba56edb5bcf75e9647f41f87346929538f22b46753a2d6d51ef68a4fd6cdf5ddc91fa0ff000d744d2a053345636e8eb1150427419c6471d401d793db22bf23cc22a35f992d5fe7ced36b4d1bddd925a5b43fa4214e10a50518a5a7456da17bfdfebf2bb462f8c752d412d35111ddcd1f97797491ed2b84558d8801195908e31cafe47057e3b1b294f16e326dc7da35cbcd2b35ed2d67670d2d27dfcad6b1ebe59564a974bb8c5df5befdefe495b6f2d6e7eabffc11f7c21e11f1045e3af11f883c2be1cf1078862d4e1d12df5bd7b45d3f5abfb5d3bfb30caf0da3ea705dc36ad2891e2926821499e0630f9a10ed5ebc1d3a6b189f245db130e4e65cea9a950bca34d4b9b9149a4e5caef2f7799b518c63f99f88b8ac4470f4e11ab384249ce51849c54a4a4e3ef72bd74d52778df5495cbfe2fd3acfe047fc144b52f09fc1f8e5f00786b571a45eea3a1e897b7ffd997371a85e4b71744da5f5d5ec50c4f30de96d6c90db439c431440e1be7fc40a14f2dcdb0af02beafeda54555f66eca7cf1c4ca57bdfed51a724934a0f99c1479e7cff0006eb54c6f0b46a62a4eace139c63292574a2924ae945bb26f59395efadec91fd317c2cb2b2f197859349f15da5b78834bb84b89869faa5bc5736f6972bbfcabbd3f7279b617703aacd05c5a4b0c914c892230daa95fa5f84b8bc455c4aa552ace54f9a2941cbdd8eade9bdb56faf5b6a7f3b71b528d2846b42f1a9296b24ed7e5518abefb2ff0015df7bde3fcfa7fc1453e1afc3fd2fc1df12be24e9fe11d26cbe23f80bc6da0e9fe17f1f597db6c7c5d6505e6aad1486eb59b1bcb6b9d625892de216b26b1f6d6b5c32c2512570ff00d11e2765f827c138ca92c3529cd65b8b6a6e2b9a2de1aaa728c972c93b754dbebd8faef0d731c673e170feda4e8559c554a52f7a9c926b4e5973a57ebcad5f7d2c8fbd7fe09e3f11fc77e3ff00d9ef55f1378ebc51a8f8bfc4de155b08f4bf116be9657bab4f65e5abae97afcdf6448bc57a64470b05a78a21d6120548c42c9e546c9fc239462ab4a9f3395dc2a28c6ee4fdc56b42529373aa977ace737a3726ec7d4718d3a70c4ca14e9c69c24e578c15926927cd15af23efcad2ec8cdd4bc8f02fedc9f177c23e16b58749f0b69ff0bf43f887a7e876ed722df4cf18ea46d6eb52d6747bd370dabe86da84f7d3c97363a2ea361a6676f93630e1f77dfe5785a10ce26a34a318bc2d3adc892b2ab395e738cbe38b9f36aa2d434ba839394a5f095d29654aa3f8f9a51e65a7ba946c9a5a3b6f7926d68b5dcfb43e3ffc2ef873e3af0b8d37c7be08f0cf8d9469fac450ddebfa55b1beb398784f4bd696ff004d9f4c5d38695a82de5f4bbaef4d4b579d111ae44d7066b897ec2b51a325888ce8d39ae49fc508b7a45bbab5aceeb74e2f57dd1f3fc2d88aeb328f2d6a90fde413e593d573b5adef7dbadadd13b5cfe61bc4da7da7c3e8effc73e098dbc2fe30b2f12de69f67e22d16596c75386ded2ffcb877cd0baadeb88d02b9d463ba5979322b124b7e339ec9e1b00f13417b2ad4eb3e49c1ca1caa7898a9a6a2e2a4a6be3e64f9ec9bb34a47f43ce9c6b5054eaa5387d5fda3525169cadd9a7657d6d168fe8d3f649d7752f1d7833c23ff0009acc9e2ab5f1bdb6a969e30d3b5a821b9d37c48c912341a86a7668b144faadaba2bda6a300b7bab665062917036e98094aad5c2fb57ed1546fda464938d469d94a51d9c96ea4acefb25b1f92e3af0c7c5536e9f257a6e0e2da946d2d9754ba5af66b46926d1c2fec55e2af13f89fc4be3cf0af897c41aaf88bc3de1df1b789fc37a4e9bafdd36b42d749d3b52960b3852f752fb56a6b2c500587ed497cb72f1aa2bc8de5a1afa5e0bc4d79e3aad39d59ce14b195a8c14e4e5ee52a8e30bb97349b4adab779595da3978c61096129c9c22a52a519b9455bde71d745cabff0049f47f147edff887e07f0778f3e1d6b1a978bbc37a5eb9a8f8462bc97c31a8dd472c7a9687269b3b3d9bd8ea56b2c17f988c68bfbf9e6ca2ec394252bfa52546957c9e53ab08ca54e83e476d55e1193b3d5ad52eabce5d4fc8f26a95238aaf15525caea524e3ba6af3def7efd2ddba267cf9fb2078cbc51ac6a36fa0ea9addfea1a34b71a8aa69f7931b84b596d2e33697563732eebeb1bbb5f3a5104f6b791ba2bb296236ad7e49c35ccf31c7c1d49b8c6a55495ef6b4edebd7a72f7bbb5e5f63c534a10c3e1a715695936d25fcab7f5ff81b1f7bdc388ee278cdb69b318e6910cb73a2e8d73712ed765f327b89ac9a69e67c6e966959a495cb3c8c5d896fae94e49b4a4ec9b4bd13b1f24ab4924b960edd5d3d5fafbeb5f97dc7ffd9</string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>oil, olive</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tablespoon</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>leek</string>
-				<key>DIRECTION</key>
-				<string>thinly sliced</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>zucchini</string>
-				<key>DIRECTION</key>
-				<string>sliced</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>potato</string>
-				<key>DIRECTION</key>
-				<string>sliced</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>carrot</string>
-				<key>DIRECTION</key>
-				<string>sliced</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>celery</string>
-				<key>DIRECTION</key>
-				<string>sliced</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>0.5</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>beans, green</string>
-				<key>DIRECTION</key>
-				<string>cut into 2cm lengths</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>g</string>
-				<key>QUANTITY</key>
-				<string>125</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>oregano</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tomato, tinned</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>can</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>stock</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>4</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>chickpeas</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>can</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>pasta, risoni</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>0.5</string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Chickpea &amp; Risoni Soup (original)</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array>
-			<dict>
-				<key>AMOUNT</key>
-				<integer>15</integer>
-				<key>AMOUNT_2</key>
-				<integer>0</integer>
-				<key>TIME_TYPE_ID</key>
-				<integer>9</integer>
-				<key>TIME_UNIT_2_ID</key>
-				<integer>2</integer>
-				<key>TIME_UNIT_ID</key>
-				<integer>2</integer>
-			</dict>
-			<dict>
-				<key>AMOUNT</key>
-				<integer>35</integer>
-				<key>AMOUNT_2</key>
-				<integer>0</integer>
-				<key>TIME_TYPE_ID</key>
-				<integer>5</integer>
-				<key>TIME_UNIT_2_ID</key>
-				<integer>2</integer>
-				<key>TIME_UNIT_ID</key>
-				<integer>2</integer>
-			</dict>
-		</array>
-		<key>PUBLICATION_PAGE</key>
-		<string></string>
-		<key>SERVINGS</key>
-		<integer>4</integer>
-		<key>SOURCE</key>
-		<string>http://www.sanitarium.co.nz</string>
 		<key>SUMMARY</key>
 		<string></string>
 		<key>TYPE</key>
@@ -5139,11 +4371,11 @@ minutes.
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Chickpea &amp; Risoni Soup (SPS)</string>
+		<string>Chickpea &amp; Risoni Soup</string>
 		<key>NOTE</key>
 		<string>Risoni is a small rice-shaped pasta, which can be found in the pasta section of the 
 supermarket. Can be substituted with any small shaped pasta. 
@@ -5451,7 +4683,7 @@ not try it this week?</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -5690,7 +4922,7 @@ Mix and serve</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches, Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -5961,7 +5193,7 @@ Mix and serve</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -6265,7 +5497,7 @@ Mix and serve</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -6607,7 +5839,7 @@ Chill for 4+ hours before serving (48hrs max).</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Desserts</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -7221,7 +6453,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -7798,7 +7030,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -8943,7 +8175,7 @@ Serve with noodles</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Desserts</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -9232,7 +8464,7 @@ Serve with cooked rice</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -9553,7 +8785,7 @@ Add pasta and lentils and oregano</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -9983,7 +9215,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -10263,7 +9495,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -10582,7 +9814,7 @@ Use any vegetables of your choice to replace what is in the recipe.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string>dinner</string>
+		<string>Weekend Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -10741,7 +9973,7 @@ Serve topped with grated cheese</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -10948,7 +10180,7 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -11218,7 +10450,7 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -11427,7 +10659,7 @@ Stir in cilantro and serve.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -12011,7 +11243,7 @@ Stir in cilantro and serve.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -12482,7 +11714,7 @@ Roll
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -12808,285 +12040,6 @@ Sprinkle with seeds</string>
 				<key>MEASUREMENT</key>
 				<string>g</string>
 				<key>QUANTITY</key>
-				<string>250</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>lentils, red</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>g</string>
-				<key>QUANTITY</key>
-				<string>100</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>stock</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>ml</string>
-				<key>QUANTITY</key>
-				<string>600</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tomato, tinned</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tin</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cinnamon</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>stick</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>salt &amp; pepper</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>beans, three bean mix</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tin</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>onion, spring</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bunch</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>egg</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>6</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>parsley, dried</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>teaspoons</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>coriander, dried</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>teaspoons</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Mixed Grain Pilaf (original)</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array/>
-		<key>PUBLICATION_PAGE</key>
-		<string>Pg20</string>
-		<key>SERVINGS</key>
-		<integer>4</integer>
-		<key>SOURCE</key>
-		<string>Quick &amp; Simple veg</string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
-		<integer>-1</integer>
-		<key>COURSE_ID</key>
-		<integer>0</integer>
-		<key>COURSE_NAME</key>
-		<string>--</string>
-		<key>CUISINE_ID</key>
-		<integer>-1</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string>1. Fry the spring onions in oil until soft.
-
-2. Lightly beat the eggs with the herbs, salt &amp; pepper. 
-
-3. Pour the eggs over the onions to make an omellete. Slice when cooked.
-
-4. Heat oil in pan, add garlic &amp; tumeric then stir in rice and lentils.
-
-5. Add stock, tinned tomatoes &amp; cinnamon stick. Add salt &amp; pepper. Bring to the boil. Simmer covered for 20 min.
-
-6. Stir in the tin of beans. Leave for 2-3 min.
-
-7. Remove the cinnamon stick. Mix the egg slices into the rice mixture.</string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>oil, olive</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1/4</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>garlic</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>teaspoons</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tumeric</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>teaspoon</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>rice, basmati</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>g</string>
-				<key>QUANTITY</key>
 				<string>200</string>
 			</dict>
 			<dict>
@@ -13251,11 +12204,11 @@ Sprinkle with seeds</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Mixed Grain Pilaf (SPS)</string>
+		<string>Mixed Grain Pilaf</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -13268,245 +12221,6 @@ Sprinkle with seeds</string>
 		<integer>4</integer>
 		<key>SOURCE</key>
 		<string>Quick &amp; Simple veg</string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
-		<integer>-1</integer>
-		<key>COURSE_ID</key>
-		<integer>2</integer>
-		<key>COURSE_NAME</key>
-		<string>Main</string>
-		<key>CUISINE_ID</key>
-		<integer>17</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string>1. Heat oil and stir fry the onion, capsicum and garlic until soft
-
-2. Add remaining ingredients and heat through.
-
-3. Serve over corn chips or baked potatoes</string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>oil, olive</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tablespoon</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>onion, brown</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>capsicum, green</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>garlic</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>teaspoons</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>water</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>0.5</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tomato, tinned</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tomato, paste</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>sachet</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>con carne mix</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>beans, red kidney</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tin</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>nutmeat</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tin</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>corn chips</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bag</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cheese, cottage</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Nutmeat con-carne (original)</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array/>
-		<key>PUBLICATION_PAGE</key>
-		<string>Pg 51</string>
-		<key>SERVINGS</key>
-		<integer>0</integer>
-		<key>SOURCE</key>
-		<string>HFF</string>
 		<key>SUMMARY</key>
 		<string></string>
 		<key>TYPE</key>
@@ -13729,11 +12443,11 @@ Sprinkle with seeds</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
-		<string>Nutmeat con-carne (SPS)</string>
+		<string>Nutmeat con-carne</string>
 		<key>NOTE</key>
 		<string></string>
 		<key>NUTRITION</key>
@@ -14026,7 +12740,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 			</dict>
 			<dict>
 				<key>DESCRIPTION</key>
-				<string>capsicum, greem</string>
+				<string>capsicum, green</string>
 				<key>DIRECTION</key>
 				<string></string>
 				<key>INCLUDED_RECIPE_ID</key>
@@ -14106,7 +12820,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -14328,7 +13042,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -14700,7 +13414,7 @@ Can eat immediately, or refrigerate for 1-2 hours and serve cold.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -14979,7 +13693,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -15151,321 +13865,6 @@ Add sprouts, coriander, peanuts and noodles</string>
 		<integer>0</integer>
 		<key>SOURCE</key>
 		<string>Tararua booklet</string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
-		<integer>-1</integer>
-		<key>COURSE_ID</key>
-		<integer>0</integer>
-		<key>COURSE_NAME</key>
-		<string>--</string>
-		<key>CUISINE_ID</key>
-		<integer>-1</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string></string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>crisps</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bag</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>crisps</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bag</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>crackers, rice</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>box</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>crackers, cream</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>box</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>dip</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>pottle</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>hummus</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>pottle</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cheese, edam</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cheese, brie</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>olives, green stuffed</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>pottle</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>capsicum, stuffed</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>pottle</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>wine, white</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bottle</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>wine, red</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bottle</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>beer</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bottle</string>
-				<key>QUANTITY</key>
-				<string>12</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>softdrink</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bottle</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>m&amp;ms</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bag</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>fruit, dried sticks</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>bag</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>quiche, mini</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>box</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Party, Firework</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array/>
-		<key>PUBLICATION_PAGE</key>
-		<string></string>
-		<key>SERVINGS</key>
-		<integer>0</integer>
-		<key>SOURCE</key>
-		<string></string>
 		<key>SUMMARY</key>
 		<string></string>
 		<key>TYPE</key>
@@ -15709,7 +14108,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -15884,327 +14283,6 @@ Mix.</string>
 	</dict>
 	<dict>
 		<key>AFFILIATE_ID</key>
-		<integer>101</integer>
-		<key>CATEGORIES</key>
-		<array>
-			<dict>
-				<key>CATEGORY_ID</key>
-				<integer>41</integer>
-				<key>ITEM_TYPE_ID</key>
-				<integer>102</integer>
-				<key>NAME</key>
-				<string>Pies</string>
-				<key>USER_ADDED</key>
-				<false/>
-			</dict>
-		</array>
-		<key>COURSE_ID</key>
-		<integer>0</integer>
-		<key>COURSE_NAME</key>
-		<string>--</string>
-		<key>CUISINE_ID</key>
-		<integer>-1</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string>Peel and thinly slice the pears and place in an uncooked pie shell. In a bowl, mix the sugar, salt, cornstarch, and lemon juice from the first mixture and pour over the pears in the pie shell. For the topping, if using graham crackers crumbs, place 3 crackers in ziploc bag; pulverize to meal with rolling pin. In a bowl mix the ingredients from the second mixture with your hands. Combine well and pat on top of the pie to form a crust. Optinal: brush egg white on the shell before filling. Bake at 375℉ for 15 minutes. Reduce heat to 350℉ and bake for 45 more minutes or until golden brown and juice bubbles through the top. Serve alone or with ice cream or top with whipped cream.  </string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>average pears</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>6</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>unbaked pie crust - 9 inch</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>First Mixture</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<true/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>sugar</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1/4</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>salt</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>1/8</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cornstarch</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tbsp</string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>lemon juice</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tbsp</string>
-				<key>QUANTITY</key>
-				<string>1.5</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>Second Mixture</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<true/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>granulated sugar</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1/4</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>brown sugar</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1/4</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cinnamon</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>1/2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>ginger</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>1/2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>mace</string>
-				<key>DIRECTION</key>
-				<string>nutmeg could be substituted</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tsp</string>
-				<key>QUANTITY</key>
-				<string>1/4</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>flour</string>
-				<key>DIRECTION</key>
-				<string>or ¼ c flour and ¼ c graham cracker crumbs</string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1/2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>butter</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>1/4</string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Pear Pie</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array>
-			<dict>
-				<key>AMOUNT</key>
-				<integer>30</integer>
-				<key>AMOUNT_2</key>
-				<integer>0</integer>
-				<key>TIME_TYPE_ID</key>
-				<integer>9</integer>
-				<key>TIME_UNIT_2_ID</key>
-				<integer>2</integer>
-				<key>TIME_UNIT_ID</key>
-				<integer>2</integer>
-			</dict>
-			<dict>
-				<key>AMOUNT</key>
-				<integer>60</integer>
-				<key>AMOUNT_2</key>
-				<integer>0</integer>
-				<key>TIME_TYPE_ID</key>
-				<integer>5</integer>
-				<key>TIME_UNIT_2_ID</key>
-				<integer>2</integer>
-				<key>TIME_UNIT_ID</key>
-				<integer>2</integer>
-			</dict>
-		</array>
-		<key>PUBLICATION_PAGE</key>
-		<string></string>
-		<key>SERVINGS</key>
-		<integer>8</integer>
-		<key>SOURCE</key>
-		<string>RealCajunRecipes.com</string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
 		<integer>-1</integer>
 		<key>COURSE_ID</key>
 		<integer>0</integer>
@@ -16368,7 +14446,7 @@ Mix.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -16573,7 +14651,7 @@ Bake at 240C for 10 minutes </string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -16735,7 +14813,7 @@ Serve with salad.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -16858,7 +14936,7 @@ Serve with salad.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -17013,7 +15091,7 @@ Serve with salad.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -17520,7 +15598,7 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>1</integer>
 		<key>NAME</key>
@@ -17739,7 +15817,7 @@ This recipe is great served either hot or cold, and makes a tasty picnic dish.
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -18557,7 +16635,7 @@ NOTE: If the top browns too fast, cover the dish with foil.
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -18714,7 +16792,7 @@ Bake 200˚C for 25-30 minutes.</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -18973,7 +17051,7 @@ Add pasta and cheese</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -19158,7 +17236,7 @@ Add pasta and cheese</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -19550,7 +17628,7 @@ Just before serving, stir in the lime juice, cilantro and green onion. </string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -19707,7 +17785,7 @@ Onion goes in at the same time as the tofu.
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -19836,7 +17914,7 @@ Onion goes in at the same time as the tofu.
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -19853,203 +17931,6 @@ Onion goes in at the same time as the tofu.
 		<integer>0</integer>
 		<key>SOURCE</key>
 		<string></string>
-		<key>SUMMARY</key>
-		<string></string>
-		<key>TYPE</key>
-		<integer>102</integer>
-		<key>URL</key>
-		<string></string>
-		<key>YIELD</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>AFFILIATE_ID</key>
-		<integer>-1</integer>
-		<key>COURSE_ID</key>
-		<integer>2</integer>
-		<key>COURSE_NAME</key>
-		<string>Main</string>
-		<key>CUISINE_ID</key>
-		<integer>12</integer>
-		<key>DIFFICULTY</key>
-		<integer>0</integer>
-		<key>DIRECTIONS</key>
-		<string>Heat oil, add onion, cook 5 min till soft
-
-Add rice, cook 5 min, increase heat to high, add wine, reduce heat and simmer
-
-Add 2-3 cups of stock, simmer while stirring until all liquid is absorbed
-
-Keep adding stock till finished
-
-Still in tuna, spinach and tomato
-
-Season with salt and pepper, serve with cheese</string>
-		<key>INGREDIENTS</key>
-		<array>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>oil, olive</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>tablespoons</string>
-				<key>QUANTITY</key>
-				<string>3</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>onion, brown</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>rice, arborio</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cup</string>
-				<key>QUANTITY</key>
-				<string>2</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>wine, white</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>milliliters</string>
-				<key>QUANTITY</key>
-				<string>150</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>stock</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>cups</string>
-				<key>QUANTITY</key>
-				<string>5.5</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>cheese, parmesan</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>g</string>
-				<key>QUANTITY</key>
-				<string>60</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tomato</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string></string>
-				<key>QUANTITY</key>
-				<string>6</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>spinach, frozen</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>g</string>
-				<key>QUANTITY</key>
-				<string>100</string>
-			</dict>
-			<dict>
-				<key>DESCRIPTION</key>
-				<string>tuna</string>
-				<key>DIRECTION</key>
-				<string></string>
-				<key>INCLUDED_RECIPE_ID</key>
-				<integer>-1</integer>
-				<key>IS_DIVIDER</key>
-				<false/>
-				<key>IS_MAIN</key>
-				<false/>
-				<key>MEASUREMENT</key>
-				<string>g</string>
-				<key>QUANTITY</key>
-				<string>425</string>
-			</dict>
-		</array>
-		<key>KEYWORDS</key>
-		<string></string>
-		<key>MEASUREMENT_SYSTEM</key>
-		<integer>0</integer>
-		<key>NAME</key>
-		<string>Tuna Risotto</string>
-		<key>NOTE</key>
-		<string></string>
-		<key>NUTRITION</key>
-		<string></string>
-		<key>PREP_TIMES</key>
-		<array/>
-		<key>PUBLICATION_PAGE</key>
-		<string>Pg 59</string>
-		<key>SERVINGS</key>
-		<integer>4</integer>
-		<key>SOURCE</key>
-		<string>Food Issue 11</string>
 		<key>SUMMARY</key>
 		<string></string>
 		<key>TYPE</key>
@@ -20500,7 +18381,7 @@ Grill, turning until browned</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -20735,7 +18616,7 @@ Grill, turning until browned</string>
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekend Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -21476,7 +19357,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Dinners</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -21587,7 +19468,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 			</dict>
 			<dict>
 				<key>DESCRIPTION</key>
-				<string>capsicum, greem</string>
+				<string>capsicum, green</string>
 				<key>DIRECTION</key>
 				<string></string>
 				<key>INCLUDED_RECIPE_ID</key>
@@ -21994,7 +19875,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -22045,7 +19926,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 		<array>
 			<dict>
 				<key>DESCRIPTION</key>
-				<string>quinoa, cooked</string>
+				<string>quinoa</string>
 				<key>DIRECTION</key>
 				<string></string>
 				<key>INCLUDED_RECIPE_ID</key>
@@ -22055,9 +19936,9 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 				<key>IS_MAIN</key>
 				<false/>
 				<key>MEASUREMENT</key>
-				<string>cups</string>
+				<string>g</string>
 				<key>QUANTITY</key>
-				<string>2</string>
+				<string>100</string>
 			</dict>
 			<dict>
 				<key>DESCRIPTION</key>
@@ -22269,7 +20150,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 			</dict>
 		</array>
 		<key>KEYWORDS</key>
-		<string></string>
+		<string>Weekday Lunches</string>
 		<key>MEASUREMENT_SYSTEM</key>
 		<integer>0</integer>
 		<key>NAME</key>
@@ -22286,6 +20167,193 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 		<integer>0</integer>
 		<key>SOURCE</key>
 		<string>Pinterest</string>
+		<key>SUMMARY</key>
+		<string></string>
+		<key>TYPE</key>
+		<integer>102</integer>
+		<key>URL</key>
+		<string></string>
+		<key>YIELD</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>AFFILIATE_ID</key>
+		<integer>-1</integer>
+		<key>COURSE_ID</key>
+		<integer>0</integer>
+		<key>COURSE_NAME</key>
+		<string>--</string>
+		<key>CUISINE_ID</key>
+		<integer>-1</integer>
+		<key>DIFFICULTY</key>
+		<integer>0</integer>
+		<key>DIRECTIONS</key>
+		<string></string>
+		<key>INGREDIENTS</key>
+		<array>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>biscuits</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string>pack</string>
+				<key>QUANTITY</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>oat berries</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>banana</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>milk</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string>liters</string>
+				<key>QUANTITY</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>bread</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string>loaf</string>
+				<key>QUANTITY</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>cereal</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string>box</string>
+				<key>QUANTITY</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>icecream</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string>tub</string>
+				<key>QUANTITY</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>bircher</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string>box</string>
+				<key>QUANTITY</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>DESCRIPTION</key>
+				<string>rolled oats</string>
+				<key>DIRECTION</key>
+				<string></string>
+				<key>INCLUDED_RECIPE_ID</key>
+				<integer>-1</integer>
+				<key>IS_DIVIDER</key>
+				<false/>
+				<key>IS_MAIN</key>
+				<false/>
+				<key>MEASUREMENT</key>
+				<string>bag</string>
+				<key>QUANTITY</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<key>KEYWORDS</key>
+		<string></string>
+		<key>MEASUREMENT_SYSTEM</key>
+		<integer>0</integer>
+		<key>NAME</key>
+		<string>Weekly Items</string>
+		<key>NOTE</key>
+		<string></string>
+		<key>NUTRITION</key>
+		<string></string>
+		<key>PREP_TIMES</key>
+		<array/>
+		<key>PUBLICATION_PAGE</key>
+		<string></string>
+		<key>SERVINGS</key>
+		<integer>0</integer>
+		<key>SOURCE</key>
+		<string></string>
 		<key>SUMMARY</key>
 		<string></string>
 		<key>TYPE</key>

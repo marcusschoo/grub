@@ -6,6 +6,12 @@ class Ingredient:
         self.unit = unit
         #validate unit against product measure
 
+    def __repr__(self):
+        return '%s%s%s' % \
+        ('%g ' % self.amount if self.amount else '', \
+         '%s ' % self.unit if self.unit else '', \
+         self.product.name)
+
 class Product:
 
     sanitised_name_map = {
@@ -98,6 +104,7 @@ class Product:
         if not self.name:
             raise ValueError("%s is invalid product name." % name)
         self.id = None
+        self.category = None
 
     @staticmethod
     def get_sanitised_name(name):
