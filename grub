@@ -7,6 +7,7 @@ from grub_api.database import Database
 from grub_api.category import Category
 from grub_api.text_interface import TextInterface
 from grub_api.utils import Heading
+from grub_api.product import Ingredient
 
 def add_category(name, grub_db):
     grub_category = Category(name)
@@ -84,20 +85,20 @@ elif args.shopping_list:
 
     ti = TextInterface()
     ti.append(Heading('Recipes'))
-    required_ingredients = {}
+    required_ingredients = {} # maps product_name to map of units to ingredient
     for r in selected_recipes:
         ti.append("%s\n" % r)
         for i in r.ingredients:
             if i.product.name not in required_ingredients:
                 required_ingredients[i.product.name] = {}
             if i.unit not in required_ingredients[i.product.name]:
-                required_ingredients[i.product.name][i.unit] = 0
-            required_ingredients[i.product.name][i.unit] += i.amount if i.amount else 0
+                required_ingredients[i.product.name][i.unit] = Ingredient(i.product, 0, i.unit)
+            required_ingredients[i.product.name][i.unit].amount += i.amount if i.amount else 0
 
     ti.append(Heading('Shopping List %s' % datetime.date.today()))
-    for p, v in required_ingredients.items():
-        for u, a in v.items():
-            ti.append('%s%s%s' % ('%g ' % a if a else '', '%s ' % u if u else '', p))
+    for p in required_ingredients.values():
+        for i in p.values():
+            ti.append('%s' % i)
     ti.run()
 
 grub_db.save(args.grub_output)
