@@ -15,50 +15,57 @@ def add_category(name, grub_db):
 
 argparser = argparse.ArgumentParser(description="Command line to interact with the Grub database.")
 argparser.add_argument('grub_input', help='The grub file to read from')
-argparser.add_argument('grub_output', help='The grub file to write to')
 argparser.add_argument('-c','--category_edit', dest='edit_categories', action='store_true',
                        help='Edit the existing categories')
 argparser.add_argument('-C','--category_new', dest='new_category', action='store',
                        help='Create a new category.')
 argparser.add_argument('-s','--shopping_list', dest='shopping_list', action='store_true',
                        help='Generate a shopping list')
+argparser.add_argument('-o','--output_path', dest='output_path', action='store',
+                       help='Specifies output path')
 
 args = argparser.parse_args()
 
 grub_db = Database(file_path=args.grub_input)
 
 if args.edit_categories:
-    all_categories = grub_db.categories
     ti = TextInterface()
-    for c in all_categories:
-        ti.append("#%s" % c.name)
-    ti.append("")
-    ti.append("=================================")
+    for i in xrange(len(grub_db.categories)):
+        c = grub_db.categories[i]
+        ti.append("%d=%s" % (i+1, c.name))
 
-    category_prefix = "-" * len(all_categories)
-    for c in all_categories:
-        for r in c.recipes:
-            ti.append(category_prefix + r.name)
+    ti.append('=' * 60)
+
+    for r in grub_db.recipes:
+        prefix = ''
+        for i in xrange(len(grub_db.categories)):
+            c = grub_db.categories[i]
+            if r in c.recipes:
+                prefix += str(i+1)
+            else:
+                prefix += '-'
+        ti.append( '%s %s' % (prefix, r.name))
     
     ti.run()
-    input_categories = []
-    for line in ti.get_line():
-        if line.startswith("#"):
-            input_categories.append(line[1:])
 
-    print input_categories
+    # input_categories = []
+    # for line in ti.get_line():
+    #     if line.startswith("#"):
+    #         input_categories.append(line[1:])
 
-    for i in range(len(input_categories)):
-        if i < len(all_categories):
-            if not input_categories[i]:
-                print "Category %s deleted" % all_categories[i].name
-                #TODO_ delete category 
-            elif input_categories[i] != all_categories[i].name:
-                print "Category %s renamed to %s" % (all_categories[i].name, input_categories[i])
-                #TODO_ Update category
-        else:
-            print "New Category %s found" % input_categories[i] 
-            add_category(input_categories[i], grub_db)
+    # print input_categories
+
+    # for i in range(len(input_categories)):
+    #     if i < len(grub_db.categories):
+    #         if not input_categories[i]:
+    #             print "Category %s deleted" % grub_db.categories[i].name
+    #             #TODO_ delete category 
+    #         elif input_categories[i] != grub_db.categories[i].name:
+    #             print "Category %s renamed to %s" % (grub_db.categories[i].name, input_categories[i])
+    #             #TODO_ Update category
+    #     else:
+    #         print "New Category %s found" % input_categories[i] 
+    #         add_category(input_categories[i], grub_db)
     
 elif args.new_category:
     add_category(args.new_category, grub_db)
@@ -101,4 +108,7 @@ elif args.shopping_list:
             ti.append('%s' % i)
     ti.run()
 
-grub_db.save(args.grub_output)
+if args.output_path:
+    grub_db.save(args.output_path)
+else:
+    grub_db.save(args.grub_input)
