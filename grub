@@ -48,24 +48,28 @@ if args.edit_categories:
     
     ti.run()
 
-    # input_categories = []
-    # for line in ti.get_line():
-    #     if line.startswith("#"):
-    #         input_categories.append(line[1:])
+    deleted_categories = []
+    for line in ti.get_line():
+        if line.startswith('==='):
+            break
+        tokens = line.split('=')
+        if len(tokens) == 2:
+            index = int(tokens[0]) - 1
+            name = tokens[1]
+            if index < len(grub_db.categories):
+                if name:
+                    if name != grub_db.categories[index].name:
+                        print 'Updating %s to %s' % (grub_db.categories[index].name, name)
+                        grub_db.categories[index].name = name
+                else:
+                    print 'Removing %s' % grub_db.categories[index].name
+                    deleted_categories.append(grub_db.categories[index].name)
+            else:
+                raise Exception('Category index out of range (%d)' % index)
+        else:
+            raise Exception('Category name invalid format: %s' % line)
 
-    # print input_categories
-
-    # for i in range(len(input_categories)):
-    #     if i < len(grub_db.categories):
-    #         if not input_categories[i]:
-    #             print "Category %s deleted" % grub_db.categories[i].name
-    #             #TODO_ delete category 
-    #         elif input_categories[i] != grub_db.categories[i].name:
-    #             print "Category %s renamed to %s" % (grub_db.categories[i].name, input_categories[i])
-    #             #TODO_ Update category
-    #     else:
-    #         print "New Category %s found" % input_categories[i] 
-    #         add_category(input_categories[i], grub_db)
+    grub_db.categories = [c for c in grub_db.categories if c.name not in deleted_categories]
     
 elif args.new_category:
     add_category(args.new_category, grub_db)
