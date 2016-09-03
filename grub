@@ -5,6 +5,7 @@ import datetime
 
 from grub_api.database import Database
 from grub_api.category import Category
+from grub_api.recipe import Recipe
 from grub_api.text_interface import TextInterface
 from grub_api.utils import Heading
 from grub_api.product import Ingredient
@@ -23,10 +24,16 @@ argparser.add_argument('-s','--shopping_list', dest='shopping_list', action='sto
                        help='Generate a shopping list')
 argparser.add_argument('-o','--output_path', dest='output_path', action='store',
                        help='Specifies output path')
+argparser.add_argument('-R','--recipe_new', dest='recipe_new', action='store_true',
+                       help='Create a new recipe.')
+argparser.add_argument('-r','--recipe_edit', dest='recipe_edit', action='store',
+                       help='Edit a recipe.')
 
 args = argparser.parse_args()
 
 grub_db = Database(file_path=args.grub_input)
+if not args.output_path:
+    grub_db.save(args.grub_input + '.backup')
 
 if args.edit_categories:
     ti = TextInterface()
@@ -49,28 +56,43 @@ if args.edit_categories:
     ti.run()
 
     deleted_categories = []
+    processing_categories = True
+    # clear all categories
+    for c in grub_db.categories:
+        c.recipes = []
     for line in ti.get_line():
+        # check if we are switching from processing categories to recipes
         if line.startswith('==='):
-            break
-        tokens = line.split('=')
-        if len(tokens) == 2:
-            index = int(tokens[0]) - 1
-            name = tokens[1]
-            if index < len(grub_db.categories):
-                if name:
-                    if name != grub_db.categories[index].name:
-                        print 'Updating %s to %s' % (grub_db.categories[index].name, name)
-                        grub_db.categories[index].name = name
+            processing_categories = False
+            continue
+        if processing_categories:
+            tokens = line.split('=')
+            if len(tokens) == 2:
+                index = int(tokens[0]) - 1
+                name = tokens[1]
+                if index < len(grub_db.categories):
+                    if name:
+                        if name != grub_db.categories[index].name:
+                            print 'Updating %s to %s' % (grub_db.categories[index].name, name)
+                            grub_db.categories[index].name = name
+                    else:
+                        print 'Removing %s' % grub_db.categories[index].name
+                        deleted_categories.append(grub_db.categories[index].name)
                 else:
-                    print 'Removing %s' % grub_db.categories[index].name
-                    deleted_categories.append(grub_db.categories[index].name)
+                    raise Exception('Category index out of range (%d)' % index)
             else:
-                raise Exception('Category index out of range (%d)' % index)
-        else:
-            raise Exception('Category name invalid format: %s' % line)
+                raise Exception('Category name invalid format: %s' % line)
+        elif not deleted_categories:
+            # process recipes only if no categories were deleted
+            recipe = grub_db.find_recipe_by_name(line[len(grub_db.categories)+1:])
+            if not recipe:
+                print 'recipe not found: %s' % line[len(grub_db.categories)+1:]
+            for i in xrange(0, len(grub_db.categories)):
+                if line[i] != '-':
+                    grub_db.categories[i].recipes.append(recipe)
 
     grub_db.categories = [c for c in grub_db.categories if c.name not in deleted_categories]
-    
+
 elif args.new_category:
     add_category(args.new_category, grub_db)
 
@@ -110,6 +132,16 @@ elif args.shopping_list:
     for p in required_ingredients.values():
         for i in p.values():
             ti.append('%s' % i)
+    ti.run()
+
+elif args.recipe_new:
+    ti = TextInterface()
+    ti.append('%s' % Recipe.get_recipe_template())
+    ti.run()
+
+elif args.recipe_edit:
+    ti = TextInterface()
+    ti.append('%s' % grub_db.find_recipe_by_name(args.recipe_edit))
     ti.run()
 
 if args.output_path:

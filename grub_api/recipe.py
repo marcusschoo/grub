@@ -1,4 +1,6 @@
 from grub_api.utils import SubHeading
+from grub_api.product import Ingredient
+from grub_api.product import Product
 
 class Recipe:
 
@@ -16,3 +18,12 @@ class Recipe:
         values.extend(['%s' % i for i in self.ingredients])
         values.extend(['', '%s' % self.directions.encode('utf8')])
         return '\n'.join(values)
+
+    @staticmethod
+    def get_recipe_template():
+        n = 'Recipe Name'
+        l = 'Recipe Location'
+        d = 'First Recipe Direction\nSecond Recipe Direction'
+        p = [Product('Product A'), Product('Product B')]
+        i = [Ingredient(a,1,'unit') for a in p]
+        return Recipe(n, location=l, directions=d, ingredients=i)
