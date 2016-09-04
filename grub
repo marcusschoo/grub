@@ -9,10 +9,95 @@ from grub_api.recipe import Recipe
 from grub_api.text_interface import TextInterface
 from grub_api.utils import Heading
 from grub_api.product import Ingredient
+from grub_api.product import Product
+
+def generate_shopping_list(grub_db):
+    all_categories = grub_db.categories
+    all_recipe_names = set([r.name for r in grub_db.recipes])
+    recipes_in_categories = set()
+    ti = TextInterface()
+    for c in all_categories:
+        ti.append('\n%s' % Heading(c.name))
+        for r in sorted(c.recipes, key=lambda r: r.name):
+            ti.append('- %s' % r.name)
+            recipes_in_categories.add(r.name)
+    ti.append('\nOther Recipes\n')
+    for n in sorted(all_recipe_names - recipes_in_categories):
+        ti.append('- %s' % n)
+    ti.run()
+
+    selected_recipes = []
+    for line in ti.get_line():
+        if line.startswith('Y '):
+            selected_recipes.append(grub_db.find_recipe_by_name(line[2:]))
+
+    ti = TextInterface()
+    ti.append(Heading('Recipes'))
+    required_ingredients = {} # maps product_name to map of units to ingredient
+    for r in selected_recipes:
+        ti.append("%s\n" % r)
+        for i in r.ingredients:
+            if i.product.name not in required_ingredients:
+                required_ingredients[i.product.name] = {}
+            if i.unit not in required_ingredients[i.product.name]:
+                required_ingredients[i.product.name][i.unit] = Ingredient(i.product, 0, i.unit)
+            required_ingredients[i.product.name][i.unit].amount += i.amount if i.amount else 0
+
+    ti.append(Heading('Shopping List %s' % datetime.date.today()))
+    for p in required_ingredients.values():
+        for i in p.values():
+            ti.append('%s' % i)
+    ti.run()
 
 def add_category(name, grub_db):
     grub_category = Category(name)
     grub_db.add_category(grub_category)
+
+def parse_ingredient(as_string, grub_db):
+    a = None
+    u = None
+    p = None
+    if as_string[0].isupper():
+        p = grub_db.find_product_by_name(as_string.lower())
+    else:
+        t = as_string.split(' ', 1)
+        a = float(t[0])
+        if t[1][0].isupper():
+            p = grub_db.find_product_by_name(t[1].lower())
+        else:
+            t = t[1].split(' ', 1)
+            u = t[0]
+            p = grub_db.find_product_by_name(t[1].lower())
+    return Ingredient(p, amount=a, unit=u) if p else None
+
+def parse_recipe(as_string_list, recipe, grub_db):
+    l = None
+    n = as_string_list[0]
+    first_i = 3
+    if as_string_list[3].startswith("Location:"):
+        l = as_string_list[3][10:]
+        first_i = 5
+    
+    last_i = first_i
+    while as_string_list[last_i]:
+        last_i += 1
+    
+    i = []
+    missing_ingredients = []
+    for idx in xrange(first_i, last_i):
+        ingredient = parse_ingredient(as_string_list[idx], grub_db)
+        if ingredient:
+            i.append(ingredient)
+        else:
+            missing_ingredients.append(as_string_list[idx])
+    d = '\n'.join(as_string_list[last_i+1:])
+
+    if missing_ingredients:
+        print '\n'.join(missing_ingredients)
+    recipe.name = n
+    recipe.directions = d
+    recipe.location = l
+    recipe.ingredients = i
 
 argparser = argparse.ArgumentParser(description="Command line to interact with the Grub database.")
 argparser.add_argument('grub_input', help='The grub file to read from')
@@ -28,6 +113,8 @@ argparser.add_argument('-R','--recipe_new', dest='recipe_new', action='store_tru
                        help='Create a new recipe.')
 argparser.add_argument('-r','--recipe_edit', dest='recipe_edit', action='store',
                        help='Edit a recipe.')
+argparser.add_argument('-P','--product_new', dest='new_product', action='store',
+                       help='Create a new product.')
 
 args = argparser.parse_args()
 
@@ -43,7 +130,7 @@ if args.edit_categories:
 
     ti.append('=' * 60)
 
-    for r in grub_db.recipes:
+    for r in sorted(grub_db.recipes, key=lambda r: r.name):
         prefix = ''
         for i in xrange(len(grub_db.categories)):
             c = grub_db.categories[i]
@@ -97,52 +184,36 @@ elif args.new_category:
     add_category(args.new_category, grub_db)
 
 elif args.shopping_list:
-    all_categories = grub_db.categories
-    all_recipe_names = set([r.name for r in grub_db.recipes])
-    recipes_in_categories = set()
-    ti = TextInterface()
-    for c in all_categories:
-        ti.append('\n%s' % Heading(c.name))
-        for r in sorted(c.recipes, key=lambda r: r.name):
-            ti.append('- %s' % r.name)
-            recipes_in_categories.add(r.name)
-    ti.append('\nOther Recipes\n')
-    for n in sorted(all_recipe_names - recipes_in_categories):
-        ti.append('- %s' % n)
-    ti.run()
-
-    selected_recipes = []
-    for line in ti.get_line():
-        if line.startswith('Y '):
-            selected_recipes.append(grub_db.find_recipe_by_name(line[2:]))
-
-    ti = TextInterface()
-    ti.append(Heading('Recipes'))
-    required_ingredients = {} # maps product_name to map of units to ingredient
-    for r in selected_recipes:
-        ti.append("%s\n" % r)
-        for i in r.ingredients:
-            if i.product.name not in required_ingredients:
-                required_ingredients[i.product.name] = {}
-            if i.unit not in required_ingredients[i.product.name]:
-                required_ingredients[i.product.name][i.unit] = Ingredient(i.product, 0, i.unit)
-            required_ingredients[i.product.name][i.unit].amount += i.amount if i.amount else 0
-
-    ti.append(Heading('Shopping List %s' % datetime.date.today()))
-    for p in required_ingredients.values():
-        for i in p.values():
-            ti.append('%s' % i)
-    ti.run()
+    generate_shopping_list(grub_db)
 
 elif args.recipe_new:
+    current_recipe = Recipe.get_recipe_template()
     ti = TextInterface()
-    ti.append('%s' % Recipe.get_recipe_template())
+    ti.append('%s' % current_recipe)
     ti.run()
+    parse_recipe(list(ti.get_line()), current_recipe, grub_db)
+
+    if grub_db.find_recipe_by_name(current_recipe.name):
+        print "Recipe with name %s already exists." % current_recipe.name
+    else:
+        grub_db.add_recipe(current_recipe)
 
 elif args.recipe_edit:
-    ti = TextInterface()
-    ti.append('%s' % grub_db.find_recipe_by_name(args.recipe_edit))
-    ti.run()
+    current_recipe = grub_db.find_recipe_by_name(args.recipe_edit)
+    if not current_recipe:
+        print "Recipe '%s' not found." % args.recipe_edit
+    else:    
+        recipe_text = '%s' % current_recipe
+        ti = TextInterface()
+        ti.append(recipe_text)
+        ti.run()
+        parse_recipe(list(ti.get_line()), current_recipe, grub_db)
+
+elif args.new_product:
+    if grub_db.find_product_by_name(args.new_product):
+        print "Product '%s' already exists" % args.new_product
+    else:
+        grub_db.add_product(Product(args.new_product))
 
 if args.output_path:
     grub_db.save(args.output_path)

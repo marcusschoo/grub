@@ -16,7 +16,11 @@ class Recipe:
         if self.location:
             values.append('Location: %s\n' % self.location)
         values.extend(['%s' % i for i in self.ingredients])
-        values.extend(['', '%s' % self.directions.encode('utf8')])
+        if isinstance(self.directions, unicode):
+            directions = '%s' % self.directions.encode('utf8')
+        else:
+            directions = self.directions
+        values.extend(['', directions])
         return '\n'.join(values)
 
     @staticmethod

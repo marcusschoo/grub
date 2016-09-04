@@ -156,8 +156,8 @@ class Database:
         
         return categories[0] if categories else None
 
-    def update_recipe(self, recipe):
-        raise NotImplementedError('Updating recipe not supported')
+    # def update_recipe(self, recipe):
+    #     self.id_to_recipe_map[recipe.id] = recipe
         
     def add_recipe(self, recipe):
         existing_recipe = self.find_recipe_by_id(recipe.id)

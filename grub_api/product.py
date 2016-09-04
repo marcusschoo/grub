@@ -3,14 +3,21 @@ class Ingredient:
     def __init__(self, product, amount=None, unit=None):
         self.product = product
         self.amount = amount
-        self.unit = unit
+        if unit:
+            self.unit = unit.strip().lower()
+        else:
+            self.unit = None
         #validate unit against product measure
 
     def __repr__(self):
         return '%s%s%s' % \
         ('%g ' % self.amount if self.amount else '', \
          '%s ' % self.unit if self.unit else '', \
-         self.product.name)
+         self.product.name.title())
+
+    # def toString(self):
+    #     return '%g:%s:%s' % (self.amount, self.unit, self.product.name)
+
 
 class Product:
 
