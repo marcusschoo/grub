@@ -115,6 +115,8 @@ argparser.add_argument('-r','--recipe_edit', dest='recipe_edit', action='store',
                        help='Edit a recipe.')
 argparser.add_argument('-P','--product_new', dest='new_product', action='store',
                        help='Create a new product.')
+argparser.add_argument('-w','--weekly', dest='edit_weekly_items', action='store_true',
+                       help='Edit the existing weekly items')
 
 args = argparser.parse_args()
 
@@ -214,6 +216,21 @@ elif args.new_product:
         print "Product '%s' already exists" % args.new_product
     else:
         grub_db.add_product(Product(args.new_product))
+
+elif args.edit_weekly_items:
+    ti = TextInterface()
+    for i in grub_db.weekly_items:
+        ti.append("%s" % i)
+
+    weekly_items = []
+    ti.run() 
+    for line in ti.get_line():
+        i = parse_ingredient(line, grub_db)
+        if not i:
+            print "Unable to parse ingredient %s" % line
+        else:
+            weekly_items.append(i)
+    grub_db.weekly_items = weekly_items
 
 if args.output_path:
     grub_db.save(args.output_path)

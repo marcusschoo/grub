@@ -23,17 +23,21 @@ class Database:
     PRODUCT_ID_KEY = 'PRODUCT_ID'
     INGREDIENT_AMOUNT_KEY = 'INGREDIENT_AMOUNT'
     INGREDIENT_UNIT_KEY = 'INGREDIENT_UNIT'
+    WEEKLY_ITEMS_KEY = 'WEEKLY_ITEMS'
     
     def __init__(self, file_path):
         self.id_to_product_map = {}
         self.id_to_recipe_map = {}
         self.categories = []
+        self.weekly_items = []
 
         if os.path.exists(file_path):
             db = plistlib.readPlist(file_path)
             self._deserialise_products(db[Database.PRODUCTS_KEY])
             self._deserialise_recipes(db[Database.RECIPES_KEY])
             self._deserialise_categories(db[Database.CATEGORIES_KEY])
+            if Database.WEEKLY_ITEMS_KEY in db:
+                self._deserialise_weekly_items(db[Database.WEEKLY_ITEMS_KEY])
 
     @property
     def recipes(self):
@@ -65,7 +69,7 @@ class Database:
                         i.get(Database.INGREDIENT_AMOUNT_KEY, None),
                         i.get(Database.INGREDIENT_UNIT_KEY, None)))
             self.id_to_recipe_map[grub_recipe.id] = grub_recipe
-
+    
     def _deserialise_categories(self, category_data):
         for c in category_data:
             grub_category = Category(c[Database.CATEGORY_NAME_KEY])
@@ -76,6 +80,14 @@ class Database:
                 else:
                     raise KeyError('Recipe in category %s not found.' % grub_category.name)
             self.categories.append(grub_category)
+
+    def _deserialise_weekly_items(self, weekly_items_data):
+        for i in weekly_items_data:
+            grub_product = self.find_product_by_id(i[Database.PRODUCT_ID_KEY])
+            if grub_product:
+                self.weekly_items.append(Ingredient(grub_product,
+                                         i.get(Database.INGREDIENT_AMOUNT_KEY, None),
+                                         i.get(Database.INGREDIENT_UNIT_KEY, None)))
 
     def _serialise_products(self):
         product_list = []
@@ -119,12 +131,25 @@ class Database:
             category_data[Database.CATEGORY_RECIPES_KEY] = recipe_ids
             category_list.append(category_data)
         return category_list
-        
+   
+    def _serialise_weekly_items(self):
+        weekly_items = []
+        for i in self.weekly_items:
+            data = {Database.PRODUCT_ID_KEY: i.product.id}
+            if i.amount:
+                data[Database.INGREDIENT_AMOUNT_KEY] = i.amount
+            if i.unit:
+                data[Database.INGREDIENT_UNIT_KEY] = i.unit
+            weekly_items.append(data)
+
+        return weekly_items
+
     def save(self, file_path):
         db = {}
         db[Database.CATEGORIES_KEY] = self._serialise_categories()
         db[Database.RECIPES_KEY] = self._serialise_recipes()
         db[Database.PRODUCTS_KEY] = self._serialise_products()
+        db[Database.WEEKLY_ITEMS_KEY] = self._serialise_weekly_items()
 
         plistlib.writePlist(db, file_path)
 
