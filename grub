@@ -33,16 +33,23 @@ def generate_shopping_list(grub_db):
 
     ti = TextInterface()
     ti.append(Heading('Recipes'))
-    required_ingredients = {} # maps product_name to map of units to ingredient
-    for r in selected_recipes:
-        ti.append("%s\n" % r)
-        for i in r.ingredients:
+    # maps product_name to map of units to ingredient
+    required_ingredients = {}
+
+    def add_ingredients(ingredients):
+        for i in ingredients:
             if i.product.name not in required_ingredients:
                 required_ingredients[i.product.name] = {}
             if i.unit not in required_ingredients[i.product.name]:
                 required_ingredients[i.product.name][i.unit] = Ingredient(i.product, 0, i.unit)
             required_ingredients[i.product.name][i.unit].amount += i.amount if i.amount else 0
 
+    for r in selected_recipes:
+        ti.append("%s\n" % r)
+        add_ingredients(r.ingredients)
+        
+    add_ingredients(grub_db.weekly_items)
+    
     ti.append(Heading('Shopping List %s' % datetime.date.today()))
     for p in required_ingredients.values():
         for i in p.values():
