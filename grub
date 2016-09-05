@@ -71,7 +71,7 @@ def parse_ingredient(as_string, grub_db):
     return Ingredient(p, amount=a, unit=u) if p else None
 
 def parse_recipe(as_string_list, recipe, grub_db):
-    l = None
+    l = ''
     n = as_string_list[0]
     first_i = 3
     if as_string_list[3].startswith("Location:"):
@@ -94,6 +94,7 @@ def parse_recipe(as_string_list, recipe, grub_db):
 
     if missing_ingredients:
         print '\n'.join(missing_ingredients)
+
     recipe.name = n
     recipe.directions = d
     recipe.location = l
