@@ -11,6 +11,21 @@ from grub_api.utils import Heading
 from grub_api.product import Ingredient
 from grub_api.product import Product
 
+def convert_quantity(amount, unit):
+    multiplier = {
+    'kg':(1000,'g'),
+    'cup':(250,'ml'),
+    'pinch':(1.25,'ml'),
+    'tbsp':(15,'ml'),
+    'tsp':(5,'ml'),
+    'l':(1000,'ml')
+    }
+    _amount, _unit = (amount, unit)
+    if _unit in multiplier:
+        _amount = _amount * multiplier[_unit][0]
+        _unit = multiplier[_unit][1]
+    return _amount, _unit
+
 def generate_shopping_list(grub_db):
     all_categories = grub_db.categories
     all_recipe_names = set([r.name for r in grub_db.recipes])
@@ -40,9 +55,10 @@ def generate_shopping_list(grub_db):
         for i in ingredients:
             if i.product.name not in required_ingredients:
                 required_ingredients[i.product.name] = {}
-            if i.unit not in required_ingredients[i.product.name]:
-                required_ingredients[i.product.name][i.unit] = Ingredient(i.product, 0, i.unit)
-            required_ingredients[i.product.name][i.unit].amount += i.amount if i.amount else 0
+            _amount, _unit = convert_quantity(i.amount if i.amount else 0, i.unit)
+            if _unit not in required_ingredients[i.product.name]:
+                required_ingredients[i.product.name][_unit] = Ingredient(i.product, 0, _unit)
+            required_ingredients[i.product.name][_unit].amount += _amount
 
     for r in selected_recipes:
         ti.append("%s\n" % r)
@@ -103,7 +119,7 @@ def parse_recipe(as_string_list, recipe, grub_db):
         print '\n'.join(missing_ingredients)
 
     recipe.name = n
-    recipe.directions = d
+    recipe.directions = d.decode('utf8')
     recipe.location = l
     recipe.ingredients = i
 
@@ -123,8 +139,12 @@ argparser.add_argument('-r','--recipe_edit', dest='recipe_edit', action='store',
                        help='Edit a recipe.')
 argparser.add_argument('-P','--product_new', dest='new_product', action='store',
                        help='Create a new product.')
+argparser.add_argument('-a','--product_search', dest='search_product', action='store',
+                       help='Search for a product.')
 argparser.add_argument('-w','--weekly', dest='edit_weekly_items', action='store_true',
                        help='Edit the existing weekly items')
+argparser.add_argument('-u','--sanitise_units', dest='sanitise_units', action='store_true',
+                       help='Clean up unit strings')
 
 args = argparser.parse_args()
 
@@ -239,6 +259,67 @@ elif args.edit_weekly_items:
         else:
             weekly_items.append(i)
     grub_db.weekly_items = weekly_items
+
+elif args.sanitise_units:
+    # n = {}
+    n = []
+    for r in grub_db.recipes:
+        for i in r.ingredients:
+            if i.product.name == 'garlic' and i.unit == 'tsp':
+                i.unit = 'clove'
+            if i.unit == 'cups' or i.unit == 'cup(s)':
+                i.unit = 'cup'
+            elif i.unit == 'tins' or i.unit == 'tin(s)' or i.unit == 'can':
+                i.unit = 'tin'
+            elif i.unit == 'grams':
+                i.unit = 'g'
+            elif i.unit == 'liters' or i.unit == 'liter':
+                i.unit = 'l'
+            elif i.unit == 'milliliters':
+                i.unit = 'ml'
+            elif i.unit == 'packet' or i.unit == 'package' or i.unit == 'pack(s)':
+                i.unit = 'pack'
+            elif i.unit == 'pffft':
+                i.unit = 'pfft'
+            elif i.unit == 'sheet(s)' or i.unit == 'sheets':
+                i.unit = 'sheet'
+            elif i.unit == 'tablespoon' or i.unit == 'tablespoons':
+                i.unit = 'tbsp'
+            elif i.unit == 'teaspoon' or i.unit == 'teaspoons':
+                i.unit = 'tsp'
+            elif i.unit == 'large':
+                i.unit = None
+            elif i.unit == 'small':
+                i.unit = 'pottle'
+            ''' Print out recipe using given product '''
+            # if i.product.name == 'quinoa':
+            #     print r.name
+            #     print '  -> %s' % i
+            ''' Print out recipe using given unit '''
+            # if i.unit == 'box':
+            #     print r
+            if not i.unit:
+                continue
+            # if i.product.name not in n:
+                # n[i.product.name] = set()
+            # n[i.product.name].add(i.unit)
+            n.append(i.unit)
+    n = list(set(n))
+    n = sorted(n)
+    print 'Num Unique Units', len(n)
+    print '\n'.join(n)
+
+    ''' Print out product name and each unit '''
+    # for p, i_set in n.items():
+    #     if len(i_set) > 1:
+    #         print p
+    #         for i in i_set:
+    #             print '  -> %s' % i
+
+elif args.search_product:
+    for p in grub_db.products:
+        if args.search_product.lower() in p.name.lower():
+            print p.name
 
 if args.output_path:
     grub_db.save(args.output_path)

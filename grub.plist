@@ -177,6 +177,12 @@
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
+			<string>15c0c104-3631-4dae-ae9a-801dba842f1f</string>
+			<key>PRODUCT_NAME</key>
+			<string>basil, fresh</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
 			<string>5d4f03b1-051d-47a8-8cd2-d2a4454c8534</string>
 			<key>PRODUCT_NAME</key>
 			<string>bay leaf</string>
@@ -816,6 +822,12 @@
 			<string>c84dcba2-4ac2-46a1-a06e-beeec3330041</string>
 			<key>PRODUCT_NAME</key>
 			<string>lentils, red</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>c24f2d22-c55a-4176-922f-774509cd271c</string>
+			<key>PRODUCT_NAME</key>
+			<string>lentils, tinned</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
@@ -1515,7 +1527,7 @@ Mix and serve with cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>package</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>46dea5cf-dcd3-441f-94ab-8088622c3636</string>
 				</dict>
@@ -1523,7 +1535,7 @@ Mix and serve with cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -1590,7 +1602,7 @@ Mix and serve with cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>a206ee67-0b7d-4fef-9cbf-7c87f879c53f</string>
 				</dict>
@@ -1608,9 +1620,9 @@ Mix and serve with cheese</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>150.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>punnet</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>d6640955-acff-4550-a656-6d476b659422</string>
 				</dict>
@@ -1618,7 +1630,7 @@ Mix and serve with cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>small</string>
+					<string>pottle</string>
 					<key>PRODUCT_ID</key>
 					<string>922da47c-2b81-4b7a-88c1-ddeb32db349c</string>
 				</dict>
@@ -1647,7 +1659,7 @@ Mix and serve with cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -1661,15 +1673,13 @@ Mix and serve with cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>b8b4e8d1-201c-4d27-8f01-405fc0199823</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>5.0</real>
-					<key>INGREDIENT_UNIT</key>
-					<string>large</string>
 					<key>PRODUCT_ID</key>
 					<string>7e664ff8-03b8-498d-94bd-b77632835828</string>
 				</dict>
@@ -1807,7 +1817,7 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -1888,7 +1898,7 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -1902,7 +1912,7 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -1924,7 +1934,7 @@ Blend the chilli, pine nuts, vinegar, 100g tomatoes, 1 tablespoon olive oil and 
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>can</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
@@ -1970,8 +1980,6 @@ Chop ingredients finely and mix well</string>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
-					<key>INGREDIENT_UNIT</key>
-					<string>large</string>
 					<key>PRODUCT_ID</key>
 					<string>2cb89c82-9abf-4957-97fd-6e7a318403a9</string>
 				</dict>
@@ -2013,7 +2021,7 @@ Chop ingredients finely and mix well</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>pffft</string>
+					<string>pfft</string>
 					<key>PRODUCT_ID</key>
 					<string>484ee3f3-4966-4f0c-83d5-4d384af4e1f4</string>
 				</dict>
@@ -2021,7 +2029,7 @@ Chop ingredients finely and mix well</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
 				</dict>
@@ -2095,7 +2103,7 @@ Mix to serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -2103,7 +2111,7 @@ Mix to serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>package</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 				</dict>
@@ -2155,7 +2163,7 @@ Mix to serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -2171,7 +2179,7 @@ Mix to serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e54af7ab-1081-4b2d-830e-07185a03e44d</string>
 				</dict>
@@ -2179,7 +2187,7 @@ Mix to serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>7bc0f5cd-e6ec-4c2d-827b-630a9b3d46f4</string>
 				</dict>
@@ -2281,7 +2289,7 @@ Mix to serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>pfft</string>
 					<key>PRODUCT_ID</key>
 					<string>d5a92037-b9b3-4adc-b9d4-3663fba194e1</string>
 				</dict>
@@ -2299,9 +2307,9 @@ Mix to serve</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>2.0</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>sachet</string>
 					<key>PRODUCT_ID</key>
 					<string>98f8b74d-1f47-4c0a-ae93-d0fe68f5f509</string>
 				</dict>
@@ -2333,7 +2341,7 @@ Mix to serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>box</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>ce8c7324-de73-4c2f-85db-eb3a5857845b</string>
 				</dict>
@@ -2453,7 +2461,7 @@ Stir through the feta and nuts.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -2579,7 +2587,7 @@ Bake for 20-25 minutes until the biscuit crust is golden.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>aee07a60-3f68-4fa8-82d8-f90f651c0111</string>
 				</dict>
@@ -2689,7 +2697,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -2697,7 +2705,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
 				</dict>
@@ -2705,7 +2713,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>ba13825c-f9e8-4512-9e6b-b4e8c5f7f1ed</string>
 				</dict>
@@ -2713,7 +2721,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
 				</dict>
@@ -2721,7 +2729,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>12f7b398-f60f-4072-945d-7c7744254efb</string>
 				</dict>
@@ -2731,13 +2739,13 @@ Serve over chilli.
 					<key>INGREDIENT_UNIT</key>
 					<string>tin</string>
 					<key>PRODUCT_ID</key>
-					<string>472b3969-0c1a-4998-bcda-969059028b0e</string>
+					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>450.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -2757,7 +2765,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
 				</dict>
@@ -2765,7 +2773,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>484ee3f3-4966-4f0c-83d5-4d384af4e1f4</string>
 				</dict>
@@ -2810,7 +2818,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
 				</dict>
@@ -2830,7 +2838,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>a206ee67-0b7d-4fef-9cbf-7c87f879c53f</string>
 				</dict>
@@ -2838,7 +2846,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>b5e783fb-4acb-4ecf-98dc-354bd877c5db</string>
 				</dict>
@@ -2890,9 +2898,9 @@ Serve over chilli.
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>0.5</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cup</string>
+					<string>pottle</string>
 					<key>PRODUCT_ID</key>
 					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
 				</dict>
@@ -2966,7 +2974,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tbsp</string>
+					<string>sachet</string>
 					<key>PRODUCT_ID</key>
 					<string>98f8b74d-1f47-4c0a-ae93-d0fe68f5f509</string>
 				</dict>
@@ -2990,7 +2998,7 @@ Serve over chilli.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>package</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>ce8c7324-de73-4c2f-85db-eb3a5857845b</string>
 				</dict>
@@ -3057,7 +3065,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e37ce90f-832a-452f-a3af-78aa4f39b77c</string>
 				</dict>
@@ -3071,7 +3079,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -3079,7 +3087,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>df5d6d4d-f988-40a3-a85c-1f04b9a0ca1f</string>
 				</dict>
@@ -3131,7 +3139,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>681b7cd0-5fac-46d6-98f6-6b8a5ce4d5a3</string>
 				</dict>
@@ -3139,7 +3147,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20981f16-1c53-45c0-9ffe-ce90ba180064</string>
 				</dict>
@@ -3153,9 +3161,9 @@ Serve with noodles</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>2.0</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cakes</string>
+					<string>cake</string>
 					<key>PRODUCT_ID</key>
 					<string>46787d7a-fef4-4b97-ae8e-0556b2239141</string>
 				</dict>
@@ -3312,7 +3320,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -3360,7 +3368,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>can</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
@@ -3376,7 +3384,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>can</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
 				</dict>
@@ -3415,7 +3423,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -3423,7 +3431,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -3431,7 +3439,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>6409d8a4-e025-40b1-9c59-dedc60e9d74e</string>
 				</dict>
@@ -3439,7 +3447,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
 				</dict>
@@ -3447,7 +3455,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
 				</dict>
@@ -3471,7 +3479,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
 				</dict>
@@ -3479,7 +3487,7 @@ minutes.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>package</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>ce8c7324-de73-4c2f-85db-eb3a5857845b</string>
 				</dict>
@@ -3568,7 +3576,7 @@ Mix and serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -3576,7 +3584,7 @@ Mix and serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>d4865796-3fa6-4104-b4b9-4bb241d8f3d9</string>
 				</dict>
@@ -3646,8 +3654,6 @@ Mix and serve</string>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
-					<key>INGREDIENT_UNIT</key>
-					<string>large</string>
 					<key>PRODUCT_ID</key>
 					<string>2cb89c82-9abf-4957-97fd-6e7a318403a9</string>
 				</dict>
@@ -3759,7 +3765,7 @@ Mix and serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>ba13825c-f9e8-4512-9e6b-b4e8c5f7f1ed</string>
 				</dict>
@@ -3767,7 +3773,7 @@ Mix and serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.25</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>3aadf8c6-0ecb-4f94-9526-7c816466859f</string>
 				</dict>
@@ -3851,7 +3857,7 @@ Mix and serve</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>pffft</string>
+					<string>pfft</string>
 					<key>PRODUCT_ID</key>
 					<string>484ee3f3-4966-4f0c-83d5-4d384af4e1f4</string>
 				</dict>
@@ -3882,7 +3888,7 @@ pour onto a tray and put in the fridge to set
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>a39b349a-987e-411d-9d58-4610378e31d0</string>
 				</dict>
@@ -3981,7 +3987,7 @@ Chill for 4+ hours before serving (48hrs max).</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>300.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>57da66b8-e8a3-4036-8dc0-546a3e059ff6</string>
 				</dict>
@@ -3995,7 +4001,7 @@ Chill for 4+ hours before serving (48hrs max).</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>37.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>49634093-56c6-4a7d-adc7-7cb0d6f50246</string>
 				</dict>
@@ -4003,7 +4009,7 @@ Chill for 4+ hours before serving (48hrs max).</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.6</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>57044e58-75bd-4ce4-9ef1-377b7db89c7a</string>
 				</dict>
@@ -4098,7 +4104,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>681b7cd0-5fac-46d6-98f6-6b8a5ce4d5a3</string>
 				</dict>
@@ -4106,7 +4112,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>b5e783fb-4acb-4ecf-98dc-354bd877c5db</string>
 				</dict>
@@ -4164,7 +4170,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>57044e58-75bd-4ce4-9ef1-377b7db89c7a</string>
 				</dict>
@@ -4212,7 +4218,7 @@ Blend flour, soy sauce and add. Heat through.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>b6dfe506-7928-4e9a-affe-3b0d26ac53f4</string>
 				</dict>
@@ -4332,7 +4338,7 @@ bread and serve with mango chutney.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>37e8be8b-3f04-4c18-9a6c-39d384d78790</string>
 				</dict>
@@ -4340,7 +4346,7 @@ bread and serve with mango chutney.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
 				</dict>
@@ -4386,7 +4392,7 @@ bread and serve with mango chutney.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>ac9873cb-624c-4b4e-8ded-9e720874e93f</string>
 				</dict>
@@ -4431,7 +4437,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tins</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
 				</dict>
@@ -4445,7 +4451,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -4453,7 +4459,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>ba902b5a-57d6-41b6-ae0a-5422cb1dbbae</string>
 				</dict>
@@ -4461,7 +4467,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>750ea4a8-f3ca-46fe-978d-37a43913acf3</string>
 				</dict>
@@ -4469,7 +4475,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>a69d252f-2918-4439-81df-9c86f4689288</string>
 				</dict>
@@ -4501,7 +4507,7 @@ Serve with lebanese salad in pita breads with egg and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -4639,15 +4645,15 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>300.0</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>grams</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 				</dict>
@@ -4661,7 +4667,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -4669,7 +4675,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>df5d6d4d-f988-40a3-a85c-1f04b9a0ca1f</string>
 				</dict>
@@ -4677,7 +4683,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
 				</dict>
@@ -4685,7 +4691,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>100.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>grams</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>2c9c153f-5266-478f-acfd-ab174946e710</string>
 				</dict>
@@ -4715,7 +4721,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>grams</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>110d692e-8927-4241-ab50-8aebd1bd2caf</string>
 				</dict>
@@ -4729,9 +4735,9 @@ Serve with noodles</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>2.0</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cakes</string>
+					<string>cake</string>
 					<key>PRODUCT_ID</key>
 					<string>46787d7a-fef4-4b97-ae8e-0556b2239141</string>
 				</dict>
@@ -4796,7 +4802,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>a84fcd68-b59c-4a00-8a3a-a88f37b4ff3f</string>
 				</dict>
@@ -4804,7 +4810,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>ec191ada-cc36-49d5-b08f-9798bfd52ec9</string>
 				</dict>
@@ -4837,7 +4843,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>375.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>grams</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>ef0c63a8-86e3-4bf0-9436-2d6227e19b13</string>
 				</dict>
@@ -4851,7 +4857,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>225.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>grams</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>cd6fa82b-3876-4b76-a81b-63677ca1e9ea</string>
 				</dict>
@@ -4879,7 +4885,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>a8129906-8622-45c6-becf-191c49ddb0bf</string>
 				</dict>
@@ -4887,7 +4893,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>176a1501-7bc3-4332-9513-a4030d60f4df</string>
 				</dict>
@@ -4895,7 +4901,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.25</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>0746bcdd-8e15-452b-82fe-396e388c0094</string>
 				</dict>
@@ -4903,7 +4909,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tub</string>
+					<string>pottle</string>
 					<key>PRODUCT_ID</key>
 					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
 				</dict>
@@ -4986,7 +4992,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
 				</dict>
@@ -5002,7 +5008,7 @@ Serve with noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>49634093-56c6-4a7d-adc7-7cb0d6f50246</string>
 				</dict>
@@ -5051,7 +5057,7 @@ Serve with cooked rice</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -5071,7 +5077,7 @@ Serve with cooked rice</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -5079,7 +5085,7 @@ Serve with cooked rice</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>6409d8a4-e025-40b1-9c59-dedc60e9d74e</string>
 				</dict>
@@ -5095,7 +5101,7 @@ Serve with cooked rice</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e54af7ab-1081-4b2d-830e-07185a03e44d</string>
 				</dict>
@@ -5200,7 +5206,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -5270,7 +5276,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -5327,7 +5333,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>11f84a43-efa1-46e4-88a2-ace0a74d159b</string>
 				</dict>
@@ -5341,7 +5347,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>f7f9a267-4891-4db0-ab22-b9c7116652e0</string>
 				</dict>
@@ -5349,7 +5355,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.3</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>aa03ea76-318e-4a8b-9ce9-0865139d1600</string>
 				</dict>
@@ -5357,7 +5363,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.3</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>ba902b5a-57d6-41b6-ae0a-5422cb1dbbae</string>
 				</dict>
@@ -5365,7 +5371,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.25</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -5373,7 +5379,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>d4865796-3fa6-4104-b4b9-4bb241d8f3d9</string>
 				</dict>
@@ -5381,7 +5387,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>c5140462-eeaa-45d0-98e5-bb29c464ec39</string>
 				</dict>
@@ -5389,7 +5395,7 @@ Add pasta and lentils and oregano</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
 				</dict>
@@ -5420,9 +5426,9 @@ For dressing whisk together oil, vinegar and oregano.</string>
 			<array>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>200.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cup</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>3b3e5d1c-ed47-4549-9e43-411b759fa314</string>
 				</dict>
@@ -5472,7 +5478,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>44bd803d-a470-4048-8482-a20e193615e2</string>
 				</dict>
@@ -5480,7 +5486,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>c5140462-eeaa-45d0-98e5-bb29c464ec39</string>
 				</dict>
@@ -5516,7 +5522,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -5524,7 +5530,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>986f955f-a3fe-4d01-9701-a5b2aba8a2b5</string>
 				</dict>
@@ -5552,7 +5558,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>can</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>2e1afdce-b8fb-439f-88f7-884732497730</string>
 				</dict>
@@ -5588,7 +5594,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>60ccb831-00d2-4d69-b97f-09acb08c6cc6</string>
 				</dict>
@@ -5596,7 +5602,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20981f16-1c53-45c0-9ffe-ce90ba180064</string>
 				</dict>
@@ -5604,7 +5610,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>681b7cd0-5fac-46d6-98f6-6b8a5ce4d5a3</string>
 				</dict>
@@ -5649,9 +5655,9 @@ For dressing whisk together oil, vinegar and oregano.</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>4.0</real>
+					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>ec191ada-cc36-49d5-b08f-9798bfd52ec9</string>
 				</dict>
@@ -5659,7 +5665,7 @@ For dressing whisk together oil, vinegar and oregano.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -5761,9 +5767,9 @@ Serve topped with grated cheese</string>
 			<array>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>0.5</real>
+					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>packet</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>ef0c63a8-86e3-4bf0-9436-2d6227e19b13</string>
 				</dict>
@@ -5948,7 +5954,7 @@ Combine hummus, yoghurt, chilli and cumin.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -6045,7 +6051,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>8.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -6081,7 +6087,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.25</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>b500b263-f40e-417f-bddf-74a52858bd8b</string>
 				</dict>
@@ -6089,7 +6095,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tins</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
@@ -6192,7 +6198,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>6.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>sheets</string>
+					<string>sheet</string>
 					<key>PRODUCT_ID</key>
 					<string>29b9c6aa-89a1-4a58-aeed-2573a85c4688</string>
 				</dict>
@@ -6255,7 +6261,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -6281,7 +6287,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -6295,7 +6301,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>176a1501-7bc3-4332-9513-a4030d60f4df</string>
 				</dict>
@@ -6303,7 +6309,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>liter</string>
+					<string>l</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -6349,7 +6355,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e54af7ab-1081-4b2d-830e-07185a03e44d</string>
 				</dict>
@@ -6361,7 +6367,7 @@ Stir in cilantro and serve.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
 				</dict>
@@ -6417,9 +6423,9 @@ Stir in cilantro and serve.</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
-			<string>Heat oil in a saucepan and saute onion, capsicum &amp; courgette until soft. 
+			<string>Heat oil in a saucepan and saute onion, capsicum &amp; courgette until soft.
 
-Add mushrooms and saut for 1 minute. 
+Add mushrooms and saut for 1 minute.
 
 Stir through pasta sauce, butter beans, basil &amp; salt. Heat through.
 
@@ -6435,7 +6441,7 @@ Bake in a moderate oven 180°C for 30 minutes or until crumble is crisp.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -6467,9 +6473,9 @@ Bake in a moderate oven 180°C for 30 minutes or until crumble is crisp.
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>700.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>jar</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>b97235b5-8890-4daf-ad27-28387ab90701</string>
 				</dict>
@@ -6584,7 +6590,7 @@ Roll
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>packet</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>ce8c7324-de73-4c2f-85db-eb3a5857845b</string>
 				</dict>
@@ -6651,7 +6657,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -6665,7 +6671,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>package</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 				</dict>
@@ -6673,7 +6679,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>d4865796-3fa6-4104-b4b9-4bb241d8f3d9</string>
 				</dict>
@@ -6697,7 +6703,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>150.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -6754,7 +6760,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -6762,7 +6768,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>cc58a9d0-c955-4580-ad85-1f2395c7b2c1</string>
 				</dict>
@@ -6836,7 +6842,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e54af7ab-1081-4b2d-830e-07185a03e44d</string>
 				</dict>
@@ -6844,7 +6850,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
 				</dict>
@@ -6869,7 +6875,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -6889,7 +6895,7 @@ Sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -6947,9 +6953,9 @@ Sprinkle with seeds</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>2.0</real>
+					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>be5c42cd-bd94-4c35-8644-c79dddf52063</string>
 				</dict>
@@ -7118,7 +7124,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>7faa3a37-d9fc-447a-8d70-90f3208944c5</string>
 				</dict>
@@ -7178,7 +7184,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tins</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
@@ -7194,7 +7200,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -7204,7 +7210,7 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 					<key>INGREDIENT_UNIT</key>
 					<string>bunch</string>
 					<key>PRODUCT_ID</key>
-					<string>e54af7ab-1081-4b2d-830e-07185a03e44d</string>
+					<string>ba902b5a-57d6-41b6-ae0a-5422cb1dbbae</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
@@ -7419,9 +7425,9 @@ Add sprouts, coriander, peanuts and noodles</string>
 			<array>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>375.0</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>g</string>
+					<string>cake</string>
 					<key>PRODUCT_ID</key>
 					<string>46787d7a-fef4-4b97-ae8e-0556b2239141</string>
 				</dict>
@@ -7429,7 +7435,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>packet</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 				</dict>
@@ -7441,7 +7447,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -7550,7 +7556,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>49634093-56c6-4a7d-adc7-7cb0d6f50246</string>
 				</dict>
@@ -7558,7 +7564,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e37ce90f-832a-452f-a3af-78aa4f39b77c</string>
 				</dict>
@@ -7670,7 +7676,7 @@ Add sprouts, coriander, peanuts and noodles</string>
 					<key>INGREDIENT_UNIT</key>
 					<string>tin</string>
 					<key>PRODUCT_ID</key>
-					<string>b500b263-f40e-417f-bddf-74a52858bd8b</string>
+					<string>c24f2d22-c55a-4176-922f-774509cd271c</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
@@ -7694,9 +7700,9 @@ Add sprouts, coriander, peanuts and noodles</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>handful</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e54af7ab-1081-4b2d-830e-07185a03e44d</string>
 				</dict>
@@ -7747,7 +7753,7 @@ Mix.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -7771,7 +7777,7 @@ Mix.</string>
 					<key>INGREDIENT_UNIT</key>
 					<string>tin</string>
 					<key>PRODUCT_ID</key>
-					<string>472b3969-0c1a-4998-bcda-969059028b0e</string>
+					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
 			</array>
 			<key>RECIPE_LOCATION</key>
@@ -7794,7 +7800,7 @@ Mix.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -7802,7 +7808,7 @@ Mix.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>ac5dea01-5b13-4940-b290-e1ecdc3bdb86</string>
 				</dict>
@@ -7810,15 +7816,15 @@ Mix.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>6.0</real>
+					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>dac4bf30-c3e1-40c7-a542-077d5eb179ef</string>
 				</dict>
@@ -7826,7 +7832,7 @@ Mix.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>56324f0d-080f-4e5d-a76d-86217d84e333</string>
 				</dict>
@@ -7842,7 +7848,7 @@ Mix.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>3a5c0f15-4c22-4d28-ba3b-d79315023829</string>
 				</dict>
@@ -7967,15 +7973,13 @@ Serve with salad.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>e5902a31-033c-4948-82d9-5a5b4a29a067</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
-					<key>INGREDIENT_UNIT</key>
-					<string>large</string>
 					<key>PRODUCT_ID</key>
 					<string>2cb89c82-9abf-4957-97fd-6e7a318403a9</string>
 				</dict>
@@ -8162,7 +8166,7 @@ Serve with berries
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
 				</dict>
@@ -8186,7 +8190,7 @@ Serve with berries
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>aee07a60-3f68-4fa8-82d8-f90f651c0111</string>
 				</dict>
@@ -8241,9 +8245,9 @@ Toss ¼-⅓ cup Eta Lite &amp; Free French Dressing through the roasted vegetabl
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>0.5</real>
+					<real>100.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cup</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>3b3e5d1c-ed47-4549-9e43-411b759fa314</string>
 				</dict>
@@ -8255,7 +8259,7 @@ Toss ¼-⅓ cup Eta Lite &amp; Free French Dressing through the roasted vegetabl
 					<key>INGREDIENT_AMOUNT</key>
 					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>a5140480-d2a1-4327-9ae8-4ba1525e6882</string>
 				</dict>
@@ -8312,7 +8316,7 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -8332,7 +8336,7 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>a8129906-8622-45c6-becf-191c49ddb0bf</string>
 				</dict>
@@ -8387,7 +8391,7 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>fa364973-ed0d-4499-adaa-9b9bcc627200</string>
 				</dict>
@@ -8395,7 +8399,7 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
 				</dict>
@@ -8411,7 +8415,7 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.25</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -8419,7 +8423,7 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>0ed27ae4-fca0-41ce-99e4-8531aae39d17</string>
 				</dict>
@@ -8431,11 +8435,11 @@ Add vegetables to the pastry base, crumble feta over the top and bake for a furt
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
-			<string>1. Cook noodles as per instructions on packet without flavouring. 
-2. Heat oil in frypan and cook soy fillets until golden on both sides. 
-Remove from heat and slice. Add onion, capsicum and saute until soft. 
-Stir through beans and saute for 1 minute. 
-3. Add satay sauce, soy fillets, drained noodles and heat through. 
+			<string>1. Cook noodles as per instructions on packet without flavouring.
+2. Heat oil in frypan and cook soy fillets until golden on both sides.
+Remove from heat and slice. Add onion, capsicum and saute until soft.
+Stir through beans and saute for 1 minute.
+3. Add satay sauce, soy fillets, drained noodles and heat through.
 </string>
 			<key>RECIPE_ID</key>
 			<string>4f64ba3b-6178-4d9d-939f-560f1de3c110</string>
@@ -8445,7 +8449,7 @@ Stir through beans and saute for 1 minute.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>packet</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>39bd893e-9afe-497c-b925-0d885cf4da9b</string>
 				</dict>
@@ -8453,7 +8457,7 @@ Stir through beans and saute for 1 minute.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -8461,7 +8465,7 @@ Stir through beans and saute for 1 minute.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tin</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>ad5baf08-d1c2-4044-b3be-fd9d70fa8067</string>
 				</dict>
@@ -8587,7 +8591,7 @@ Add sauce</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -8641,7 +8645,7 @@ Add sauce</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>36c077c1-beba-4b47-ad5a-5a424b49ad4a</string>
 				</dict>
@@ -8649,7 +8653,7 @@ Add sauce</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>packet</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 				</dict>
@@ -8657,7 +8661,7 @@ Add sauce</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>681b7cd0-5fac-46d6-98f6-6b8a5ce4d5a3</string>
 				</dict>
@@ -8679,7 +8683,7 @@ Add sauce</string>
 
 4. Pipe the mixture into the cannelloni tubes and lay them in a 20cm x 25cm oven dish.
 
-5. Spread the tomato sauce over the cannelloni. Scatter over most of the basil, lay the mozzarella slices on top, drizzle with extra-virgin olive oil and season. 
+5. Spread the tomato sauce over the cannelloni. Scatter over most of the basil, lay the mozzarella slices on top, drizzle with extra-virgin olive oil and season.
 
 6. Bake for 35–40 minutes or till the top is golden and the pasta tender
 
@@ -8732,7 +8736,7 @@ NOTE: If the top browns too fast, cover the dish with foil.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tins</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
@@ -8748,7 +8752,7 @@ NOTE: If the top browns too fast, cover the dish with foil.
 					<key>INGREDIENT_UNIT</key>
 					<string>bunch</string>
 					<key>PRODUCT_ID</key>
-					<string>a8129906-8622-45c6-becf-191c49ddb0bf</string>
+					<string>15c0c104-3631-4dae-ae9a-801dba842f1f</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
@@ -8827,9 +8831,9 @@ Bake 200˚C for 25-30 minutes.</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tub</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>1eb607a4-3e04-427c-a32a-c727e2f714ab</string>
 				</dict>
@@ -8886,7 +8890,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -8900,7 +8904,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -8908,7 +8912,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
 				</dict>
@@ -8956,7 +8960,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>a8129906-8622-45c6-becf-191c49ddb0bf</string>
 				</dict>
@@ -8992,7 +8996,7 @@ Add pasta and cheese</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
-			<string>1. Heat the oil in a pan, and cook the red onion and garlic over a medium heat for a few minutes until transparent. 
+			<string>1. Heat the oil in a pan, and cook the red onion and garlic over a medium heat for a few minutes until transparent.
 
 2. Add the spinach, and cook for a further 1-2 minutes until wilted. Remove from the heat and leave to cool for a couple of minutes.
 
@@ -9015,7 +9019,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>pffft</string>
+					<string>pfft</string>
 					<key>PRODUCT_ID</key>
 					<string>d5a92037-b9b3-4adc-b9d4-3663fba194e1</string>
 				</dict>
@@ -9051,9 +9055,9 @@ Add pasta and cheese</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>pottle</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>1eb607a4-3e04-427c-a32a-c727e2f714ab</string>
 				</dict>
@@ -9067,7 +9071,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>6.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>sheets</string>
+					<string>sheet</string>
 					<key>PRODUCT_ID</key>
 					<string>e4811cec-fd8a-4546-8a34-81aa690b3ea3</string>
 				</dict>
@@ -9090,9 +9094,9 @@ Add pasta and cheese</string>
 			<array>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>8.0</real>
+					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>ounces</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>dac4bf30-c3e1-40c7-a542-077d5eb179ef</string>
 				</dict>
@@ -9108,7 +9112,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -9116,7 +9120,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>986f955f-a3fe-4d01-9701-a5b2aba8a2b5</string>
 				</dict>
@@ -9124,7 +9128,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>cd5fdc11-c755-4381-a772-4020107aa2eb</string>
 				</dict>
@@ -9132,7 +9136,7 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>cd6fa82b-3876-4b76-a81b-63677ca1e9ea</string>
 				</dict>
@@ -9146,9 +9150,9 @@ Add pasta and cheese</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>0.25</real>
+					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cup</string>
+					<string>bunch</string>
 					<key>PRODUCT_ID</key>
 					<string>1ffe3876-0649-44d3-b17c-eea8bbaa5597</string>
 				</dict>
@@ -9183,7 +9187,7 @@ Just before serving, stir in the lime juice, cilantro and green onion. </string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>can</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>5bb6e1ad-3b9f-44ef-b5e9-365a2c19df93</string>
 				</dict>
@@ -9215,7 +9219,7 @@ Just before serving, stir in the lime juice, cilantro and green onion. </string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>packet</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 				</dict>
@@ -9229,7 +9233,7 @@ Just before serving, stir in the lime juice, cilantro and green onion. </string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>838d10dd-c1da-4ebd-8505-32c0c29b0a60</string>
 				</dict>
@@ -9274,7 +9278,7 @@ Onion goes in at the same time as the tofu.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>package</string>
+					<string>pack</string>
 					<key>PRODUCT_ID</key>
 					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 				</dict>
@@ -9282,7 +9286,7 @@ Onion goes in at the same time as the tofu.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>6b2f07ef-7ba8-4a57-b0ad-444a5a48363c</string>
 				</dict>
@@ -9314,7 +9318,7 @@ Onion goes in at the same time as the tofu.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>6d4e4ad3-cc4a-4a41-b9c7-64e6b9e9893d</string>
 				</dict>
@@ -9420,7 +9424,7 @@ Serve with rice.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -9428,7 +9432,7 @@ Serve with rice.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
 				</dict>
@@ -9436,7 +9440,7 @@ Serve with rice.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>ba13825c-f9e8-4512-9e6b-b4e8c5f7f1ed</string>
 				</dict>
@@ -9446,13 +9450,13 @@ Serve with rice.</string>
 					<key>INGREDIENT_UNIT</key>
 					<string>tin</string>
 					<key>PRODUCT_ID</key>
-					<string>472b3969-0c1a-4998-bcda-969059028b0e</string>
+					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>250.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -9460,7 +9464,7 @@ Serve with rice.</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>176a1501-7bc3-4332-9513-a4030d60f4df</string>
 				</dict>
@@ -9556,11 +9560,11 @@ Grill, turning until browned</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>250.0</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>g</string>
+					<string>punnet</string>
 					<key>PRODUCT_ID</key>
-					<string>472b3969-0c1a-4998-bcda-969059028b0e</string>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
@@ -9647,7 +9651,7 @@ Grill, turning until browned</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tsp</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -9696,7 +9700,7 @@ pan and cook patties on each side until golden brown.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 				</dict>
@@ -9738,7 +9742,7 @@ pan and cook patties on each side until golden brown.
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>d86af606-ab48-459d-9451-9a33f48a5122</string>
 				</dict>
@@ -9803,7 +9807,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>150.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>grams</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>cd6fa82b-3876-4b76-a81b-63677ca1e9ea</string>
 				</dict>
@@ -9811,7 +9815,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -9819,7 +9823,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>df5d6d4d-f988-40a3-a85c-1f04b9a0ca1f</string>
 				</dict>
@@ -9835,7 +9839,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>681b7cd0-5fac-46d6-98f6-6b8a5ce4d5a3</string>
 				</dict>
@@ -9843,7 +9847,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
 				</dict>
@@ -9851,7 +9855,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20981f16-1c53-45c0-9ffe-ce90ba180064</string>
 				</dict>
@@ -9859,7 +9863,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>9c811918-490f-4b6a-a59b-777ccc422ade</string>
 				</dict>
@@ -9867,7 +9871,7 @@ Add sauces, sprinkle with seeds</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>986f955f-a3fe-4d01-9701-a5b2aba8a2b5</string>
 				</dict>
@@ -9898,7 +9902,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>d86af606-ab48-459d-9451-9a33f48a5122</string>
 				</dict>
@@ -9906,7 +9910,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoons</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>484ee3f3-4966-4f0c-83d5-4d384af4e1f4</string>
 				</dict>
@@ -9914,7 +9918,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
 				</dict>
@@ -9928,7 +9932,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoons</string>
+					<string>clove</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
@@ -9944,7 +9948,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>ba13825c-f9e8-4512-9e6b-b4e8c5f7f1ed</string>
 				</dict>
@@ -9952,7 +9956,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>teaspoon</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
 				</dict>
@@ -9986,7 +9990,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tablespoon</string>
+					<string>tbsp</string>
 					<key>PRODUCT_ID</key>
 					<string>20981f16-1c53-45c0-9ffe-ce90ba180064</string>
 				</dict>
@@ -10073,7 +10077,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tins</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
@@ -10146,7 +10150,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>700.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>milliliters</string>
+					<string>ml</string>
 					<key>PRODUCT_ID</key>
 					<string>b97235b5-8890-4daf-ad27-28387ab90701</string>
 				</dict>
@@ -10168,7 +10172,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>9.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>sheets</string>
+					<string>sheet</string>
 					<key>PRODUCT_ID</key>
 					<string>29b9c6aa-89a1-4a58-aeed-2573a85c4688</string>
 				</dict>
@@ -10210,7 +10214,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>dd3f85fd-8c27-4069-9adc-e5d7c2712ff9</string>
 				</dict>
@@ -10218,7 +10222,7 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.25</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
 				</dict>
@@ -10230,15 +10234,15 @@ Serve with scrambled egg, avocado, sour cream, olives, cheese and/or hot sauce.<
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
-			<string>Heat olive oil in a large pot over medium-high heat. 
+			<string>Heat olive oil in a large pot over medium-high heat.
 
-Once oil is hot add onion and saute until tender, about 4 minutes, adding in garlic during last 30 seconds of sauteing. 
+Once oil is hot add onion and saute until tender, about 4 minutes, adding in garlic during last 30 seconds of sauteing.
 
-Add in tinned tomatoes, cooked quinoa, stock (start with 1 1/2 cups then add more later if desired), chili powder, cumin, paprika, coriander, cayenne pepper and season with salt and pepper to taste. 
+Add in tinned tomatoes, cooked quinoa, stock (start with 1 1/2 cups then add more later if desired), chili powder, cumin, paprika, coriander, cayenne pepper and season with salt and pepper to taste.
 
 Bring mixture just to a boil, then reduce heat to a simmer, cover pot and allow to simmer 30 minutes.
 
-Add in all beans, corn, coriander and lime and cook until heated through. </string>
+Add in all beans, corn, coriander and lime and cook until heated through.</string>
 			<key>RECIPE_ID</key>
 			<string>4c8a8c71-eb50-4936-938b-9c211b2c537b</string>
 			<key>RECIPE_INGREDIENTS</key>
@@ -10269,7 +10273,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>tins</string>
+					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 				</dict>
@@ -10277,7 +10281,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 					<key>INGREDIENT_AMOUNT</key>
 					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 				</dict>
@@ -10333,7 +10337,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 					<key>INGREDIENT_AMOUNT</key>
 					<real>1.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cups</string>
+					<string>cup</string>
 					<key>PRODUCT_ID</key>
 					<string>38b94793-fffb-422a-a9f9-2d148bd4c48d</string>
 				</dict>
@@ -10341,7 +10345,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 					<key>INGREDIENT_AMOUNT</key>
 					<real>0.5</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cup</string>
+					<string>bunch</string>
 					<key>PRODUCT_ID</key>
 					<string>17781163-16cc-43e3-b237-b43a3120cadb</string>
 				</dict>
@@ -10386,7 +10390,7 @@ Add in all beans, corn, coriander and lime and cook until heated through. </stri
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>liters</string>
+					<string>l</string>
 					<key>PRODUCT_ID</key>
 					<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
 				</dict>
@@ -10526,7 +10530,7 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 			<key>INGREDIENT_AMOUNT</key>
 			<real>4.0</real>
 			<key>INGREDIENT_UNIT</key>
-			<string>liters</string>
+			<string>l</string>
 			<key>PRODUCT_ID</key>
 			<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
 		</dict>
