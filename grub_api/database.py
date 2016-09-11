@@ -47,6 +47,10 @@ class Database:
     def recipe_ids(self):
         return self.id_to_recipe_map.keys()
 
+    @property
+    def products(self):
+        return self.id_to_product_map.values()
+
     def _deserialise_products(self, product_data):
         for p in product_data:
             try:
