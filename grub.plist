@@ -765,6 +765,12 @@
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
+			<string>33e7394b-95f5-4c82-9696-c3a42949c825</string>
+			<key>PRODUCT_NAME</key>
+			<string>juice, orange</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
 			<string>1606d6bb-b71e-4621-b75b-f71c675c8371</string>
 			<key>PRODUCT_NAME</key>
 			<string>kapiti vanilla yoghurt</string>
@@ -1497,6 +1503,12 @@
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
+			<string>4c558127-28a6-4c53-8a8b-78c59ba2149f</string>
+			<key>PRODUCT_NAME</key>
+			<string>yoghurt, fruit</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
 			<string>a84fcd68-b59c-4a00-8a3a-a88f37b4ff3f</string>
 			<key>PRODUCT_NAME</key>
 			<string>yoghurt, plain</string>
@@ -1506,6 +1518,27 @@
 			<string>37988310-67f8-4723-9238-fe90d11c3353</string>
 			<key>PRODUCT_NAME</key>
 			<string>zucchini</string>
+		</dict>
+	</array>
+	<key>PRODUCT_CATEGORIES</key>
+	<array>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Bulk Foods</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Fresh Produce</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Tins</string>
 		</dict>
 	</array>
 	<key>RECIPES</key>
@@ -10533,6 +10566,22 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 			<string>l</string>
 			<key>PRODUCT_ID</key>
 			<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
+		</dict>
+		<dict>
+			<key>INGREDIENT_AMOUNT</key>
+			<real>1.0</real>
+			<key>INGREDIENT_UNIT</key>
+			<string>l</string>
+			<key>PRODUCT_ID</key>
+			<string>33e7394b-95f5-4c82-9696-c3a42949c825</string>
+		</dict>
+		<dict>
+			<key>INGREDIENT_AMOUNT</key>
+			<real>2.0</real>
+			<key>INGREDIENT_UNIT</key>
+			<string>tub</string>
+			<key>PRODUCT_ID</key>
+			<string>4c558127-28a6-4c53-8a8b-78c59ba2149f</string>
 		</dict>
 		<dict>
 			<key>INGREDIENT_AMOUNT</key>
