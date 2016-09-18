@@ -16,6 +16,9 @@ class Ingredient:
         #validate unit against product measure
 
     def __repr__(self):
+        if self.unit == 'ml' and self.amount >= 1000:
+            self.unit = 'l'
+            self.amount /= 1000
         return '%s%s%s' % \
         ('%g ' % self.amount if self.amount else '', \
          '%s ' % self.unit if self.unit else '', \
