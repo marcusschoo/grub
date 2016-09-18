@@ -8,6 +8,7 @@ from grub_api.category import Category
 from grub_api.recipe import Recipe
 from grub_api.text_interface import TextInterface
 from grub_api.utils import Heading
+from grub_api.utils import SubHeading
 from grub_api.product import Ingredient
 from grub_api.product import Product
 from grub_api.product import ProductCategory
@@ -54,12 +55,14 @@ def generate_shopping_list(grub_db):
 
     def add_ingredients(ingredients):
         for i in ingredients:
-            if i.product.name not in required_ingredients:
-                required_ingredients[i.product.name] = {}
+            if i.product.category not in required_ingredients:
+                required_ingredients[i.product.category] = {}
+            if i.product.name not in required_ingredients[i.product.category]:
+                required_ingredients[i.product.category][i.product.name] = {}
             _amount, _unit = convert_quantity(i.amount if i.amount else 0, i.unit)
-            if _unit not in required_ingredients[i.product.name]:
-                required_ingredients[i.product.name][_unit] = Ingredient(i.product, 0, _unit)
-            required_ingredients[i.product.name][_unit].amount += _amount
+            if _unit not in required_ingredients[i.product.category][i.product.name]:
+                required_ingredients[i.product.category][i.product.name][_unit] = Ingredient(i.product, 0, _unit)
+            required_ingredients[i.product.category][i.product.name][_unit].amount += _amount
 
     for r in selected_recipes:
         ti.append("%s\n" % r)
@@ -68,9 +71,11 @@ def generate_shopping_list(grub_db):
     add_ingredients(grub_db.weekly_items)
     
     ti.append(Heading('Shopping List %s' % datetime.date.today()))
-    for p in required_ingredients.values():
-        for i in p.values():
-            ti.append('%s' % i)
+    for k,v in required_ingredients.items():
+        ti.append('### %s' % k.name if k else "### Others")
+        for p in v.values():
+            for i in p.values():
+                ti.append('%s' % i)
     ti.run()
 
 def add_category(name, grub_db):
