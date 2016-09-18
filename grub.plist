@@ -110,48 +110,64 @@
 	<key>PRODUCTS</key>
 	<array>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>39bd893e-9afe-497c-b925-0d885cf4da9b</string>
 			<key>PRODUCT_NAME</key>
 			<string>2 minute noodles</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>064714d3-b02a-4a35-94b9-9f7c09a71e51</string>
 			<key>PRODUCT_NAME</key>
 			<string>70% chocolate</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>c114c635-acbc-49e5-a29f-75d3a35e5c35</string>
 			<key>PRODUCT_NAME</key>
 			<string>apples</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>5038fd1d-ed98-4eb4-a6bd-c0ab010cca17</string>
 			<key>PRODUCT_NAME</key>
 			<string>asparagus</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>0d586cc8-149b-4985-8731-29df3f3ba155</string>
 			<key>PRODUCT_NAME</key>
 			<string>avocado</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>938cfb0a-ef1d-472c-8661-07450312aae3</string>
 			<key>PRODUCT_NAME</key>
 			<string>baby potato</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>b8b4e8d1-201c-4d27-8f01-405fc0199823</string>
 			<key>PRODUCT_NAME</key>
 			<string>baby spinach</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>d8d1e117-6965-4740-bbaf-5683f4700c50</string>
 			<key>PRODUCT_NAME</key>
@@ -164,84 +180,112 @@
 			<string>bamboo skewers</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>a89b8caa-8c3e-42a9-9477-66820166f2da</string>
 			<key>PRODUCT_NAME</key>
 			<string>banana</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>a8129906-8622-45c6-becf-191c49ddb0bf</string>
 			<key>PRODUCT_NAME</key>
 			<string>basil</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>15c0c104-3631-4dae-ae9a-801dba842f1f</string>
 			<key>PRODUCT_NAME</key>
 			<string>basil, fresh</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>5d4f03b1-051d-47a8-8cd2-d2a4454c8534</string>
 			<key>PRODUCT_NAME</key>
 			<string>bay leaf</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>47b53a07-376d-409c-9e3a-e798ab601b12</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, baked</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>d44c09af-9d4c-42d7-af73-a189b8c7c2d7</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, black</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>936f898a-ba66-4fc8-af7c-1e9e44bec7c8</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, black eye</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>19590980-e7a2-4666-b579-d34bda92e875</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, butter</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>2c9c153f-5266-478f-acfd-ab174946e710</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, green</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>e406c45f-15fb-4826-a083-13cc647a815e</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, mexican</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>c6bd40e3-f705-470b-bcd6-d2a174467ca1</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, red kidney</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>d9f91398-e028-4935-9bc8-ab1618b600ca</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, soy</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>fc1b6772-b9e0-45cd-b59a-80226f65de90</string>
 			<key>PRODUCT_NAME</key>
 			<string>beans, three bean mix</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>17e7bce3-1641-4264-b33e-996e96cad1d5</string>
 			<key>PRODUCT_NAME</key>
@@ -254,78 +298,104 @@
 			<string>bee pollen</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>aee07a60-3f68-4fa8-82d8-f90f651c0111</string>
 			<key>PRODUCT_NAME</key>
 			<string>berries</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>738e7bf0-5ac7-4909-89bc-263fa292f8c9</string>
 			<key>PRODUCT_ID</key>
 			<string>cacd5b04-6166-4cec-af84-c03033845df0</string>
 			<key>PRODUCT_NAME</key>
 			<string>bircher</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>edb64968-3db5-49e4-af8b-8a9c70dcdbeb</string>
 			<key>PRODUCT_ID</key>
 			<string>c8d49847-d4d7-4f57-8cb3-89429bb5564b</string>
 			<key>PRODUCT_NAME</key>
 			<string>biscuits</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>9bd04c63-a18f-400b-9538-a0df87f5d2a5</string>
 			<key>PRODUCT_NAME</key>
 			<string>black pepper</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>d6640955-acff-4550-a656-6d476b659422</string>
 			<key>PRODUCT_NAME</key>
 			<string>blueberries</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>95422d9f-ab77-4235-b3f4-980789a08565</string>
 			<key>PRODUCT_NAME</key>
 			<string>bok choy</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>95b7826c-a922-4ddd-93b6-c85018c5c0a4</string>
 			<key>PRODUCT_ID</key>
 			<string>70ce2543-825d-429e-93ba-dcabd91c56cb</string>
 			<key>PRODUCT_NAME</key>
 			<string>bread</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>750ea4a8-f3ca-46fe-978d-37a43913acf3</string>
 			<key>PRODUCT_NAME</key>
 			<string>breadcrumbs</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>95b7826c-a922-4ddd-93b6-c85018c5c0a4</string>
 			<key>PRODUCT_ID</key>
 			<string>efbf6db3-5d9d-4302-b5c4-536824c35500</string>
 			<key>PRODUCT_NAME</key>
 			<string>breadrolls</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>cd5fdc11-c755-4381-a772-4020107aa2eb</string>
 			<key>PRODUCT_NAME</key>
 			<string>broccoli</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>dbe474dc-6fab-454f-a021-499df5b99490</string>
 			<key>PRODUCT_NAME</key>
 			<string>burghul</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>90d6d382-767a-4172-99ee-7e49a3704eb8</string>
 			<key>PRODUCT_NAME</key>
 			<string>butter</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>fda0709d-2962-4116-9031-35fadbc86aca</string>
 			<key>PRODUCT_NAME</key>
@@ -344,168 +414,224 @@
 			<string>cacao powder</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>1755e0de-6b02-48e1-b0ab-d6f2cfd44572</string>
 			<key>PRODUCT_NAME</key>
 			<string>cannelloni</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>3a5c0f15-4c22-4d28-ba3b-d79315023829</string>
 			<key>PRODUCT_NAME</key>
 			<string>capers</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>387e1e0b-97d4-406d-be43-4be62820cecd</string>
 			<key>PRODUCT_NAME</key>
 			<string>capsicum, green</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>4cadf393-461f-4380-b752-26d0abbc8ce7</string>
 			<key>PRODUCT_NAME</key>
 			<string>capsicum, red</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>bb2689f0-9abb-44b4-ab9c-2c0fdebccd5f</string>
 			<key>PRODUCT_NAME</key>
 			<string>capsicum, yellow</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>52027fbd-cdb5-477d-84a3-eff7caf92d8b</string>
 			<key>PRODUCT_NAME</key>
 			<string>carrots</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>7652023f-e096-4024-bfcc-89bbb0802bd2</string>
 			<key>PRODUCT_NAME</key>
 			<string>cauliflower</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>a4677ce2-a48a-44af-b54d-314e068bb528</string>
 			<key>PRODUCT_NAME</key>
 			<string>celery</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>738e7bf0-5ac7-4909-89bc-263fa292f8c9</string>
 			<key>PRODUCT_ID</key>
 			<string>0ad45d46-6857-4584-8336-8d7bd6b5c6e3</string>
 			<key>PRODUCT_NAME</key>
 			<string>cereal</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>fdb06d8b-70e2-4053-bb70-44243c784d78</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, brie</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>be5c42cd-bd94-4c35-8644-c79dddf52063</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, cottage</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>dd3f85fd-8c27-4069-9adc-e5d7c2712ff9</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, edam</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>aa03ea76-318e-4a8b-9ce9-0865139d1600</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, feta</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>1b2f95f1-4673-48dd-b520-6bc855080254</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, halloumi</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>66aafc0c-d700-495e-8f6a-9683dc66047e</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, haloumi</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>938c4e9f-a013-4979-8141-4f818f698bd9</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, mozzarella balls</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, parmesan</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>1eb607a4-3e04-427c-a32a-c727e2f714ab</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, ricotta</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>708b52e2-1311-451d-9d57-0abddb576757</string>
 			<key>PRODUCT_NAME</key>
 			<string>cherries</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>ac9873cb-624c-4b4e-8ded-9e720874e93f</string>
 			<key>PRODUCT_NAME</key>
 			<string>chickpea flour</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
 			<key>PRODUCT_NAME</key>
 			<string>chickpeas</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
 			<key>PRODUCT_NAME</key>
 			<string>chilli</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>0746bcdd-8e15-452b-82fe-396e388c0094</string>
 			<key>PRODUCT_NAME</key>
 			<string>chilli paste</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>ba13825c-f9e8-4512-9e6b-b4e8c5f7f1ed</string>
 			<key>PRODUCT_NAME</key>
 			<string>chilli powder</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>7faa3a37-d9fc-447a-8d70-90f3208944c5</string>
 			<key>PRODUCT_NAME</key>
 			<string>chives</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>ef6d73e4-2b24-4977-97cd-ff85ec581a8f</string>
 			<key>PRODUCT_NAME</key>
 			<string>chocolate chunks</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>0c390ef1-7a2a-4d3e-abeb-0fc42a5ea969</string>
 			<key>PRODUCT_NAME</key>
 			<string>chocolate, dark</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>ac363937-0cd3-4675-9a0f-890a38b161c8</string>
 			<key>PRODUCT_NAME</key>
@@ -518,210 +644,280 @@
 			<string>cocoa nibs</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>5bb6e1ad-3b9f-44ef-b5e9-365a2c19df93</string>
 			<key>PRODUCT_NAME</key>
 			<string>coconut milk</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>07f6ca62-3670-45b8-ad99-cd678bf2e51e</string>
 			<key>PRODUCT_NAME</key>
 			<string>con carne mix</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>17781163-16cc-43e3-b237-b43a3120cadb</string>
 			<key>PRODUCT_NAME</key>
 			<string>coriander, fresh</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>12f7b398-f60f-4072-945d-7c7744254efb</string>
 			<key>PRODUCT_NAME</key>
 			<string>coriander, ground</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
 			<key>PRODUCT_NAME</key>
 			<string>coriander, leaves</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>170a8800-8cb4-4e21-bc2d-bbbb0daec62c</string>
 			<key>PRODUCT_NAME</key>
 			<string>corn chips</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>b5e783fb-4acb-4ecf-98dc-354bd877c5db</string>
 			<key>PRODUCT_NAME</key>
 			<string>corn starch</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>38b94793-fffb-422a-a9f9-2d148bd4c48d</string>
 			<key>PRODUCT_NAME</key>
 			<string>corn, frozen</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>2e1afdce-b8fb-439f-88f7-884732497730</string>
 			<key>PRODUCT_NAME</key>
 			<string>corn, whole baby sweet</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>57da66b8-e8a3-4036-8dc0-546a3e059ff6</string>
 			<key>PRODUCT_NAME</key>
 			<string>cream</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>922da47c-2b81-4b7a-88c1-ddeb32db349c</string>
 			<key>PRODUCT_NAME</key>
 			<string>cream, double</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
 			<key>PRODUCT_NAME</key>
 			<string>cream, sour</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>482a77af-f5e2-4e7f-8869-fb30797eeb4f</string>
 			<key>PRODUCT_NAME</key>
 			<string>crisps</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>f324fbff-611d-467f-b1bf-27592875f223</string>
 			<key>PRODUCT_NAME</key>
 			<string>cucumber</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
 			<key>PRODUCT_NAME</key>
 			<string>cumin, ground</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>b9b1d51d-aae2-402f-9812-26ba6fd08e7d</string>
 			<key>PRODUCT_NAME</key>
 			<string>curry powder</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>7bc0f5cd-e6ec-4c2d-827b-630a9b3d46f4</string>
 			<key>PRODUCT_NAME</key>
 			<string>dill, dried</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>77f15f96-6c0d-4ba5-9e7e-43c2e46846f6</string>
 			<key>PRODUCT_ID</key>
 			<string>1d56b6ee-b024-465b-a4b2-5173390033f1</string>
 			<key>PRODUCT_NAME</key>
 			<string>egg whites</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>77f15f96-6c0d-4ba5-9e7e-43c2e46846f6</string>
 			<key>PRODUCT_ID</key>
 			<string>9834ff15-e46a-4743-b9bb-b21b138bb60a</string>
 			<key>PRODUCT_NAME</key>
 			<string>egg yolks</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>5f968a05-504d-4f14-9bd6-bda7f42a5c0b</string>
 			<key>PRODUCT_NAME</key>
 			<string>eggplant</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>77f15f96-6c0d-4ba5-9e7e-43c2e46846f6</string>
 			<key>PRODUCT_ID</key>
 			<string>7e664ff8-03b8-498d-94bd-b77632835828</string>
 			<key>PRODUCT_NAME</key>
 			<string>eggs</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>a5140480-d2a1-4327-9ae8-4ba1525e6882</string>
 			<key>PRODUCT_NAME</key>
 			<string>eta lite &amp; free french dressing</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>a69d252f-2918-4439-81df-9c86f4689288</string>
 			<key>PRODUCT_NAME</key>
 			<string>flour, gluten</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>537ad5ce-a8cc-410d-b8d8-d7b7c2d3dcb2</string>
 			<key>PRODUCT_NAME</key>
 			<string>flour, plain</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>fad72794-4d27-46ab-9a9f-94f06ffff0f3</string>
 			<key>PRODUCT_NAME</key>
 			<string>flour, self raising</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>95b7826c-a922-4ddd-93b6-c85018c5c0a4</string>
 			<key>PRODUCT_ID</key>
 			<string>dc400482-bd46-49a1-a15e-6f64fabcc145</string>
 			<key>PRODUCT_NAME</key>
 			<string>foccacia</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>16e20f37-cae9-46c4-b4d3-d1f3a9a98970</string>
 			<key>PRODUCT_NAME</key>
 			<string>fruit, fresh</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>ce769536-7c02-4c91-8b3e-9c5fa06d026f</string>
 			<key>PRODUCT_NAME</key>
 			<string>garam masala</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 			<key>PRODUCT_NAME</key>
 			<string>garlic</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>df5d6d4d-f988-40a3-a85c-1f04b9a0ca1f</string>
 			<key>PRODUCT_NAME</key>
 			<string>ginger</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>7b4c7784-2989-4807-beaa-708f57d95fc2</string>
 			<key>PRODUCT_NAME</key>
 			<string>green curry paste</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>09286208-accf-4c45-b80c-49056bc32c9b</string>
 			<key>PRODUCT_NAME</key>
 			<string>hazelnuts</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>315e9385-62a9-429d-abce-7db0537956e7</string>
 			<key>PRODUCT_NAME</key>
 			<string>himalayan crystal salt</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
 			<key>PRODUCT_NAME</key>
 			<string>honey</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>71afaeb2-1e36-40bc-b440-1020810c5c2e</string>
 			<key>PRODUCT_NAME</key>
@@ -734,138 +930,184 @@
 			<string>ice</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>5427b88d-b58c-4cb1-b0a7-70d211fe8619</string>
 			<key>PRODUCT_NAME</key>
 			<string>icecream</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>7a837ede-363e-4402-99ae-4b0df4e79bd2</string>
 			<key>PRODUCT_NAME</key>
 			<string>icing sugar</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>0ed27ae4-fca0-41ce-99e4-8531aae39d17</string>
 			<key>PRODUCT_NAME</key>
 			<string>juice, apple</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>d4865796-3fa6-4104-b4b9-4bb241d8f3d9</string>
 			<key>PRODUCT_NAME</key>
 			<string>juice, lemon</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>484ee3f3-4966-4f0c-83d5-4d384af4e1f4</string>
 			<key>PRODUCT_NAME</key>
 			<string>juice, lime</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>33e7394b-95f5-4c82-9696-c3a42949c825</string>
 			<key>PRODUCT_NAME</key>
 			<string>juice, orange</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>1606d6bb-b71e-4621-b75b-f71c675c8371</string>
 			<key>PRODUCT_NAME</key>
 			<string>kapiti vanilla yoghurt</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>37e8be8b-3f04-4c18-9a6c-39d384d78790</string>
 			<key>PRODUCT_NAME</key>
 			<string>korma curry paste</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>f200ea5b-d1ee-4178-89c6-fedc54e34e80</string>
 			<key>PRODUCT_NAME</key>
 			<string>kumara</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>29b9c6aa-89a1-4a58-aeed-2573a85c4688</string>
 			<key>PRODUCT_NAME</key>
 			<string>lasagne</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>2bd3a752-ac3a-46e8-af30-71cc06d41312</string>
 			<key>PRODUCT_NAME</key>
 			<string>leek</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
 			<key>PRODUCT_NAME</key>
 			<string>lemon</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>e7ad97a4-2c44-4998-a46c-8b9cba93cc8a</string>
 			<key>PRODUCT_NAME</key>
 			<string>lemon grass</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>0ca719fa-2c87-4583-9485-fec2ad456fc3</string>
 			<key>PRODUCT_NAME</key>
 			<string>lemon zest</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>b500b263-f40e-417f-bddf-74a52858bd8b</string>
 			<key>PRODUCT_NAME</key>
 			<string>lentils, brown</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>c84dcba2-4ac2-46a1-a06e-beeec3330041</string>
 			<key>PRODUCT_NAME</key>
 			<string>lentils, red</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>c24f2d22-c55a-4176-922f-774509cd271c</string>
 			<key>PRODUCT_NAME</key>
 			<string>lentils, tinned</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
 			<key>PRODUCT_NAME</key>
 			<string>lettuce</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>9c950777-6afb-42cc-9692-49accedb7b9a</string>
 			<key>PRODUCT_NAME</key>
 			<string>lime</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>ecca30b5-3e88-4d06-878a-4efd0ba133ea</string>
 			<key>PRODUCT_NAME</key>
 			<string>margarine</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
 			<key>PRODUCT_NAME</key>
 			<string>milk</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>c5ffb714-92c8-48a8-a0e4-e582166f8c99</string>
 			<key>PRODUCT_NAME</key>
 			<string>mint leaves</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>e459083f-9145-4bf5-a986-e48de8dcf714</string>
 			<key>PRODUCT_NAME</key>
@@ -878,330 +1120,440 @@
 			<string>mocha</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>95b7826c-a922-4ddd-93b6-c85018c5c0a4</string>
 			<key>PRODUCT_ID</key>
 			<string>e4a88ed4-4194-4fac-ba2e-56aeda8f1a28</string>
 			<key>PRODUCT_NAME</key>
 			<string>muffin</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>cd6fa82b-3876-4b76-a81b-63677ca1e9ea</string>
 			<key>PRODUCT_NAME</key>
 			<string>mushrooms</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>167423fa-131b-45cf-8811-cfabf8fd4b47</string>
 			<key>PRODUCT_NAME</key>
 			<string>mushrooms, portabello</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>fa364973-ed0d-4499-adaa-9b9bcc627200</string>
 			<key>PRODUCT_NAME</key>
 			<string>mustard, whole grain</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>46787d7a-fef4-4b97-ae8e-0556b2239141</string>
 			<key>PRODUCT_NAME</key>
 			<string>noodles</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>4c1faa5f-c940-45d0-ad2c-e27d2d9b787f</string>
 			<key>PRODUCT_NAME</key>
 			<string>noodles, egg</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>43650b5c-4289-4eb0-bbb9-51ee1eea80c8</string>
 			<key>PRODUCT_NAME</key>
 			<string>nut, cashew</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>7af65546-afcb-4d0e-989d-5f250b75333a</string>
 			<key>PRODUCT_NAME</key>
 			<string>nut, macadamia</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>ede0f9bc-cf39-4236-a2b3-3cbcf4f685ef</string>
 			<key>PRODUCT_NAME</key>
 			<string>nut, pine</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>c06b0ef4-0a25-41c9-a20e-9fd75ec27054</string>
 			<key>PRODUCT_NAME</key>
 			<string>nutmeg</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>f0c1a6b6-f9cf-4413-af05-5a7da93136f6</string>
 			<key>PRODUCT_NAME</key>
 			<string>oat berries</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>e37ce90f-832a-452f-a3af-78aa4f39b77c</string>
 			<key>PRODUCT_NAME</key>
 			<string>oil, canola</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
 			<key>PRODUCT_NAME</key>
 			<string>oil, olive</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>6b2f07ef-7ba8-4a57-b0ad-444a5a48363c</string>
 			<key>PRODUCT_NAME</key>
 			<string>oil, peanut</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>d5a92037-b9b3-4adc-b9d4-3663fba194e1</string>
 			<key>PRODUCT_NAME</key>
 			<string>oil, rice bran</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>986f955f-a3fe-4d01-9701-a5b2aba8a2b5</string>
 			<key>PRODUCT_NAME</key>
 			<string>oil, sesame</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>12236955-041f-46b6-87bc-22fbfe68e62e</string>
 			<key>PRODUCT_NAME</key>
 			<string>olives, black</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>5de54b1d-3cf6-431d-934e-51ec654368fb</string>
 			<key>PRODUCT_NAME</key>
 			<string>olives, green</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>f7f9a267-4891-4db0-ab22-b9c7116652e0</string>
 			<key>PRODUCT_NAME</key>
 			<string>olives, kalamata</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>8e4b602e-5c16-4eb5-aaea-6e340f23ad76</string>
 			<key>PRODUCT_NAME</key>
 			<string>onion, brown</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>b97a5e76-3620-4917-943f-d5111f0c53b8</string>
 			<key>PRODUCT_NAME</key>
 			<string>onion, red</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>1ffe3876-0649-44d3-b17c-eea8bbaa5597</string>
 			<key>PRODUCT_NAME</key>
 			<string>onion, spring</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>ad34e260-8c0a-43f8-adf1-9fc4d32306a3</string>
 			<key>PRODUCT_NAME</key>
 			<string>orange</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>c5140462-eeaa-45d0-98e5-bb29c464ec39</string>
 			<key>PRODUCT_NAME</key>
 			<string>oregano</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>6409d8a4-e025-40b1-9c59-dedc60e9d74e</string>
 			<key>PRODUCT_NAME</key>
 			<string>paprika</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>e54af7ab-1081-4b2d-830e-07185a03e44d</string>
 			<key>PRODUCT_NAME</key>
 			<string>parsley, dried</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>ba902b5a-57d6-41b6-ae0a-5422cb1dbbae</string>
 			<key>PRODUCT_NAME</key>
 			<string>parsley, fresh</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>11d64ec2-103c-4f22-948f-da9926e96a6e</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>b97235b5-8890-4daf-ad27-28387ab90701</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta sauce</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>46dea5cf-dcd3-441f-94ab-8088622c3636</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta, agnolloti</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>182f2e1a-d1e9-4193-a7bd-9f2690265844</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta, fettuccine</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>accee911-593f-4768-b833-82ac282a948c</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta, orzo</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>dac4bf30-c3e1-40c7-a542-077d5eb179ef</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta, penne</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>0813cb1b-db66-413e-b9c7-75d42c25473f</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta, risoni</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>37a4c795-6e8f-4594-af5c-0290b3773b97</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta, spaghetti</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>ef0c63a8-86e3-4bf0-9436-2d6227e19b13</string>
 			<key>PRODUCT_NAME</key>
 			<string>pasta, spiral</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>e4811cec-fd8a-4546-8a34-81aa690b3ea3</string>
 			<key>PRODUCT_NAME</key>
 			<string>pastry, filo</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>d32e5102-3078-4737-8bca-d55ea15d4674</string>
 			<key>PRODUCT_NAME</key>
 			<string>pastry, puff</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>3be0b191-1a6b-4252-aa52-3feee6bcb4ec</string>
 			<key>PRODUCT_NAME</key>
 			<string>pastry, short</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>a17822e6-6592-412e-9029-9aae16c848d7</string>
 			<key>PRODUCT_NAME</key>
 			<string>peanut sauce</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>797d461b-f576-493a-82af-8db1236b9faa</string>
 			<key>PRODUCT_NAME</key>
 			<string>peanuts</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>cb9a839e-465b-4121-a127-c643819fcc92</string>
 			<key>PRODUCT_NAME</key>
 			<string>pear</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>838d10dd-c1da-4ebd-8505-32c0c29b0a60</string>
 			<key>PRODUCT_NAME</key>
 			<string>peas, frozen</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>059ee5f1-3111-4719-83d2-dcc4575f9168</string>
 			<key>PRODUCT_NAME</key>
 			<string>pineapple</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>94f281cb-119f-4849-8c25-13afe3e42681</string>
 			<key>PRODUCT_NAME</key>
 			<string>pizza base</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>c6d99de9-5d56-435d-8a07-2ba9207f6994</string>
 			<key>PRODUCT_NAME</key>
 			<string>pomegranite dressing</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>2cb89c82-9abf-4957-97fd-6e7a318403a9</string>
 			<key>PRODUCT_NAME</key>
 			<string>potato</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>102272f8-820b-46a2-8455-15cdf1cc9b79</string>
 			<key>PRODUCT_NAME</key>
 			<string>prunes</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>e5902a31-033c-4948-82d9-5a5b4a29a067</string>
 			<key>PRODUCT_NAME</key>
 			<string>pumpkin</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>827a259e-29b3-4f66-857f-7d3f9f0036b9</string>
 			<key>PRODUCT_NAME</key>
 			<string>pumpkin seeds</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>3b3e5d1c-ed47-4549-9e43-411b759fa314</string>
 			<key>PRODUCT_NAME</key>
 			<string>quinoa</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>c334b68d-2ba0-433f-a64a-5de19eba5870</string>
 			<key>PRODUCT_NAME</key>
 			<string>raisins, sultanas</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>e847de63-6e1d-46e0-9038-7ade4d6ea73d</string>
 			<key>PRODUCT_NAME</key>
 			<string>red curry paste</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>d86af606-ab48-459d-9451-9a33f48a5122</string>
 			<key>PRODUCT_NAME</key>
 			<string>rice</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>7b837327-bb98-49ac-a836-7d0463fc533f</string>
 			<key>PRODUCT_NAME</key>
@@ -1214,48 +1566,64 @@
 			<string>rice paper sheets</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>60ccb831-00d2-4d69-b97f-09acb08c6cc6</string>
 			<key>PRODUCT_NAME</key>
 			<string>rice, arborio</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>36c077c1-beba-4b47-ad5a-5a424b49ad4a</string>
 			<key>PRODUCT_NAME</key>
 			<string>rice, basmati</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>6d20ce55-fd51-459d-8f97-27676623cff0</string>
 			<key>PRODUCT_NAME</key>
 			<string>rice, brown</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>9e5fc913-4a8e-4872-9898-99b2042cec5f</string>
 			<key>PRODUCT_NAME</key>
 			<string>rice, medium white</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>11f84a43-efa1-46e4-88a2-ace0a74d159b</string>
 			<key>PRODUCT_NAME</key>
 			<string>rocket leaves</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>738e7bf0-5ac7-4909-89bc-263fa292f8c9</string>
 			<key>PRODUCT_ID</key>
 			<string>871f9c7e-24b3-4e3f-8ca3-e760f2525210</string>
 			<key>PRODUCT_NAME</key>
 			<string>rolled oats</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>12458058-d78a-4ee9-bdf3-bc98bba6e587</string>
 			<key>PRODUCT_NAME</key>
 			<string>salsa</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>3aadf8c6-0ecb-4f94-9526-7c816466859f</string>
 			<key>PRODUCT_NAME</key>
@@ -1268,210 +1636,280 @@
 			<string>salt &amp; pepper</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>b6dfe506-7928-4e9a-affe-3b0d26ac53f4</string>
 			<key>PRODUCT_NAME</key>
 			<string>salt, sea</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>6d4e4ad3-cc4a-4a41-b9c7-64e6b9e9893d</string>
 			<key>PRODUCT_NAME</key>
 			<string>sauce, bbq</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>8ef252d2-f0f0-480d-8838-d8c7964fb182</string>
 			<key>PRODUCT_NAME</key>
 			<string>sauce, satay</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>681b7cd0-5fac-46d6-98f6-6b8a5ce4d5a3</string>
 			<key>PRODUCT_NAME</key>
 			<string>sauce, soy</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>20981f16-1c53-45c0-9ffe-ce90ba180064</string>
 			<key>PRODUCT_NAME</key>
 			<string>sauce, sweet chilli</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>bb774640-8e85-4338-a242-69e176ca1bbb</string>
 			<key>PRODUCT_NAME</key>
 			<string>sauce, teryaki</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>ad5baf08-d1c2-4044-b3be-fd9d70fa8067</string>
 			<key>PRODUCT_NAME</key>
 			<string>sausages</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>9c811918-490f-4b6a-a59b-777ccc422ade</string>
 			<key>PRODUCT_NAME</key>
 			<string>seeds, seseme</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
 			<string>38d21fda-7c20-4c19-9ff9-ecdd715a1a39</string>
 			<key>PRODUCT_NAME</key>
 			<string>seeds, sunflower</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>542965b0-01ad-4c94-b127-c83bd2142975</string>
 			<key>PRODUCT_NAME</key>
 			<string>snow pea sprouts</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>56324f0d-080f-4e5d-a76d-86217d84e333</string>
 			<key>PRODUCT_NAME</key>
 			<string>spinach, fresh</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>110d692e-8927-4241-ab50-8aebd1bd2caf</string>
 			<key>PRODUCT_NAME</key>
 			<string>spinach, frozen</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
 			<key>PRODUCT_NAME</key>
 			<string>stock</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>49634093-56c6-4a7d-adc7-7cb0d6f50246</string>
 			<key>PRODUCT_NAME</key>
 			<string>sugar</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>94363d05-dd04-4b01-95fa-4322d1e41869</string>
 			<key>PRODUCT_NAME</key>
 			<string>sugar, brown</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>a206ee67-0b7d-4fef-9cbf-7c87f879c53f</string>
 			<key>PRODUCT_NAME</key>
 			<string>sugar, caster</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ee220779-42b4-4e21-ab01-b690051615da</string>
 			<key>PRODUCT_ID</key>
 			<string>68c73bc3-174c-4303-8942-370a21c488d7</string>
 			<key>PRODUCT_NAME</key>
 			<string>tequila</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>176a1501-7bc3-4332-9513-a4030d60f4df</string>
 			<key>PRODUCT_NAME</key>
 			<string>thyme</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
 			<key>PRODUCT_NAME</key>
 			<string>tofu</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>cd50142e-23be-4116-a179-976f82641fb7</string>
 			<key>PRODUCT_NAME</key>
 			<string>tofu mince</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>74084484-a375-446b-9a86-880f365c43d7</string>
 			<key>PRODUCT_NAME</key>
 			<string>tomato, cherry</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>98f8b74d-1f47-4c0a-ae93-d0fe68f5f509</string>
 			<key>PRODUCT_NAME</key>
 			<string>tomato, paste</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>032c6a3f-123c-41bb-9176-ff1ea4e8c78d</string>
 			<key>PRODUCT_NAME</key>
 			<string>tomato, semi dried</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>b6a3d814-bf42-430f-9959-24701b399172</string>
 			<key>PRODUCT_NAME</key>
 			<string>tomato, tinned</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>472b3969-0c1a-4998-bcda-969059028b0e</string>
 			<key>PRODUCT_NAME</key>
 			<string>tomatoes</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>95b7826c-a922-4ddd-93b6-c85018c5c0a4</string>
 			<key>PRODUCT_ID</key>
 			<string>ce8c7324-de73-4c2f-85db-eb3a5857845b</string>
 			<key>PRODUCT_NAME</key>
 			<string>tortillas</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ee220779-42b4-4e21-ab01-b690051615da</string>
 			<key>PRODUCT_ID</key>
 			<string>7e25b6d7-9873-4479-a826-963b897fa8b6</string>
 			<key>PRODUCT_NAME</key>
 			<string>triple sec</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>cc58a9d0-c955-4580-ad85-1f2395c7b2c1</string>
 			<key>PRODUCT_NAME</key>
 			<string>tumeric</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>57044e58-75bd-4ce4-9ef1-377b7db89c7a</string>
 			<key>PRODUCT_NAME</key>
 			<string>vanilla essence</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>fe5cbace-8e75-4219-9ef2-733bc333fbdb</string>
 			<key>PRODUCT_NAME</key>
 			<string>vanilla pod</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>71d8d1c0-2eca-4cbf-a824-3ac2785ca068</string>
 			<key>PRODUCT_NAME</key>
 			<string>vegetable soup mix</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
 			<string>6dc15093-ecf3-45d4-bbed-74ed792236ef</string>
 			<key>PRODUCT_NAME</key>
 			<string>vegetables, frozen mixed</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>8ee3aeda-47b1-47c0-820e-b0721e130038</string>
 			<key>PRODUCT_NAME</key>
 			<string>vinegar, apple cider</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>ac5dea01-5b13-4940-b290-e1ecdc3bdb86</string>
 			<key>PRODUCT_NAME</key>
 			<string>vinegar, balsamic</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>44bd803d-a470-4048-8482-a20e193615e2</string>
 			<key>PRODUCT_NAME</key>
@@ -1484,36 +1922,48 @@
 			<string>water</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
 			<string>80c18139-53d3-49ea-8c9f-76336cd56d4b</string>
 			<key>PRODUCT_NAME</key>
 			<string>wattie's italian style cannellini beans</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>738e7bf0-5ac7-4909-89bc-263fa292f8c9</string>
 			<key>PRODUCT_ID</key>
 			<string>8cfeccc6-899d-4f4f-b92b-1679b5778bca</string>
 			<key>PRODUCT_NAME</key>
 			<string>wheat-bix</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>04d3a1b9-f2fc-4874-87f8-ef42267ce9f1</string>
 			<key>PRODUCT_ID</key>
 			<string>06742c32-22b1-48cb-8f75-a57badf5fca2</string>
 			<key>PRODUCT_NAME</key>
 			<string>wine, white</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>4c558127-28a6-4c53-8a8b-78c59ba2149f</string>
 			<key>PRODUCT_NAME</key>
 			<string>yoghurt, fruit</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>a84fcd68-b59c-4a00-8a3a-a88f37b4ff3f</string>
 			<key>PRODUCT_NAME</key>
 			<string>yoghurt, plain</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>37988310-67f8-4723-9238-fe90d11c3353</string>
 			<key>PRODUCT_NAME</key>
@@ -1524,15 +1974,75 @@
 	<array>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
+			<string>95b7826c-a922-4ddd-93b6-c85018c5c0a4</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Bakery</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Baking</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>04d3a1b9-f2fc-4874-87f8-ef42267ce9f1</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Beer And Wine</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>edb64968-3db5-49e4-af8b-8a9c70dcdbeb</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Biscuits</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
 			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_CATEGORY_NAME</key>
 			<string>Bulk Foods</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
+			<string>738e7bf0-5ac7-4909-89bc-263fa292f8c9</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Cereal</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>77f15f96-6c0d-4ba5-9e7e-43c2e46846f6</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Eggs</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Freezer</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
 			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_CATEGORY_NAME</key>
 			<string>Fresh Produce</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Fridge</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ee220779-42b4-4e21-ab01-b690051615da</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Spirits</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
+			<key>PRODUCT_CATEGORY_NAME</key>
+			<string>Spreads</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
