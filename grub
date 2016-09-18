@@ -335,13 +335,13 @@ elif args.edit_product_categories:
         pc_map[grub_db.product_categories[i]] = i+1
 
     ti = TextInterface()
-    for k,v in pc_map.items():
+    for k,v in sorted(pc_map.items(), key=lambda i:i[1]):
         ti.append("%d=%s" % (v, k.name))
 
     ti.append('=' * 60)
 
-    # for p in sorted(grub_db.products, key=lambda p:p.category.name if p.category else ""):
-    for p in grub_db.products:
+    for p in sorted(grub_db.products, key=lambda p:pc_map[p.category] if p.category else 0):
+    # for p in grub_db.products:
         pc_num = "-"
         if p.category:
             pc_num = pc_map[p.category]
