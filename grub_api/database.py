@@ -6,6 +6,7 @@ from grub_api.product import Product
 from grub_api.category import Category
 from grub_api.recipe import Recipe
 from grub_api.product import Ingredient
+from grub_api.product import ProductCategory
 
 class Database:
     
@@ -24,21 +25,27 @@ class Database:
     INGREDIENT_AMOUNT_KEY = 'INGREDIENT_AMOUNT'
     INGREDIENT_UNIT_KEY = 'INGREDIENT_UNIT'
     WEEKLY_ITEMS_KEY = 'WEEKLY_ITEMS'
-    
+    PRODUCT_CATEGORIES_KEY = 'PRODUCT_CATEGORIES'
+    PRODUCT_CATEGORY_NAME_KEY = 'PRODUCT_CATEGORY_NAME'
+    PRODUCT_CATEGORY_ID_KEY = 'PRODUCT_CATEGORY_ID'
+        
     def __init__(self, file_path):
         self.id_to_product_map = {}
         self.id_to_recipe_map = {}
         self.categories = []
         self.weekly_items = []
+        self.id_to_product_category_map = {}
 
         if os.path.exists(file_path):
             db = plistlib.readPlist(file_path)
+            if Database.PRODUCT_CATEGORIES_KEY in db:
+                self._deserialise_product_categories(db[Database.PRODUCT_CATEGORIES_KEY])
             self._deserialise_products(db[Database.PRODUCTS_KEY])
             self._deserialise_recipes(db[Database.RECIPES_KEY])
             self._deserialise_categories(db[Database.CATEGORIES_KEY])
             if Database.WEEKLY_ITEMS_KEY in db:
                 self._deserialise_weekly_items(db[Database.WEEKLY_ITEMS_KEY])
-
+                
     @property
     def recipes(self):
         return self.id_to_recipe_map.values()
@@ -51,14 +58,17 @@ class Database:
     def products(self):
         return self.id_to_product_map.values()
 
+    @property
+    def product_categories(self):
+        return self.id_to_product_category_map.values()
+
     def _deserialise_products(self, product_data):
         for p in product_data:
-            try:
-                grub_product = Product(p[Database.PRODUCT_NAME_KEY])
-                grub_product.id = p[Database.PRODUCT_ID_KEY]
-                self.id_to_product_map[grub_product.id] = grub_product
-            except:
-                pass
+            grub_product = Product(p[Database.PRODUCT_NAME_KEY])
+            grub_product.id = p[Database.PRODUCT_ID_KEY]
+            if Database.PRODUCT_CATEGORY_ID_KEY in p:
+                grub_product.category = self.find_product_category_by_id(p[Database.PRODUCT_CATEGORY_ID_KEY])
+            self.id_to_product_map[grub_product.id] = grub_product
 
     def _deserialise_recipes(self, recipe_data):
         for r in recipe_data:
@@ -93,12 +103,21 @@ class Database:
                                          i.get(Database.INGREDIENT_AMOUNT_KEY, None),
                                          i.get(Database.INGREDIENT_UNIT_KEY, None)))
 
+    def _deserialise_product_categories(self, data):
+        for c in data:
+            grub_product_category = ProductCategory(c[Database.PRODUCT_CATEGORY_NAME_KEY])
+            grub_product_category.id = c[Database.PRODUCT_CATEGORY_ID_KEY]
+            self.id_to_product_category_map[grub_product_category.id] = grub_product_category
+
     def _serialise_products(self):
         product_list = []
         for p in sorted(self.id_to_product_map.values(), key=lambda p: p.name):
             product_data = {}
             product_data[Database.PRODUCT_NAME_KEY] = p.name
             product_data[Database.PRODUCT_ID_KEY] = p.id
+            if p.category:
+                product_data[Database.PRODUCT_CATEGORY_ID_KEY] = p.category.id
+
             product_list.append(product_data)
         return product_list
 
@@ -148,12 +167,23 @@ class Database:
 
         return weekly_items
 
+    def _serialise_product_categories(self):
+        category_list = []
+        for category in sorted(self.id_to_product_category_map.values(), key=lambda category: category.name):
+            data = {}
+            data[Database.PRODUCT_CATEGORY_NAME_KEY] = category.name
+            data[Database.PRODUCT_CATEGORY_ID_KEY] = category.id
+            
+            category_list.append(data)
+        return category_list
+
     def save(self, file_path):
         db = {}
         db[Database.CATEGORIES_KEY] = self._serialise_categories()
         db[Database.RECIPES_KEY] = self._serialise_recipes()
         db[Database.PRODUCTS_KEY] = self._serialise_products()
         db[Database.WEEKLY_ITEMS_KEY] = self._serialise_weekly_items()
+        db[Database.PRODUCT_CATEGORIES_KEY] = self._serialise_product_categories()
 
         plistlib.writePlist(db, file_path)
 
@@ -162,6 +192,9 @@ class Database:
 
     def find_recipe_by_id(self, recipe_id):
         return self.id_to_recipe_map[recipe_id] if recipe_id in self.id_to_recipe_map else None
+
+    def find_product_category_by_id(self, product_category_id):
+        return self.id_to_product_category_map[product_category_id] if product_category_id in self.id_to_product_category_map else None
 
     def find_product_by_name(self, name):
         sanitised_name = Product.get_sanitised_name(name)
@@ -207,6 +240,13 @@ class Database:
         if existing_categories:
             raise RuntimeError("Category %s already exists" % category.name)
         self.categories.append(category)
+
+    def add_product_category(self, product_category):
+        existing_product_category = self.find_product_category_by_id(product_category.id)
+        if existing_product_category:
+            raise RuntimeError("The product category already exists")
+        product_category.id = str(uuid.uuid4())
+        self.id_to_product_category_map[product_category.id] = product_category
 
 
 

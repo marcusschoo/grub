@@ -10,6 +10,7 @@ from grub_api.text_interface import TextInterface
 from grub_api.utils import Heading
 from grub_api.product import Ingredient
 from grub_api.product import Product
+from grub_api.product import ProductCategory
 
 def convert_quantity(amount, unit):
     multiplier = {
@@ -145,6 +146,10 @@ argparser.add_argument('-w','--weekly', dest='edit_weekly_items', action='store_
                        help='Edit the existing weekly items')
 argparser.add_argument('-u','--sanitise_units', dest='sanitise_units', action='store_true',
                        help='Clean up unit strings')
+argparser.add_argument('-d','--product_category_edit', dest='edit_product_categories', action='store_true',
+                       help='Edit the existing product categories')
+argparser.add_argument('-D','--product_category_new', dest='new_product_category', action='store',
+                       help='Create a new product category.')
 
 args = argparser.parse_args()
 
@@ -320,6 +325,70 @@ elif args.search_product:
     for p in grub_db.products:
         if args.search_product.lower() in p.name.lower():
             print p.name
+
+elif args.new_product_category:
+    grub_db.add_product_category(ProductCategory(args.new_product_category))
+
+elif args.edit_product_categories:
+    pc_map = {}
+    for i in xrange(len(grub_db.product_categories)):
+        pc_map[grub_db.product_categories[i]] = i+1
+
+    ti = TextInterface()
+    for k,v in pc_map.items():
+        ti.append("%d=%s" % (v, k.name))
+
+    ti.append('=' * 60)
+
+    # for p in sorted(grub_db.products, key=lambda p:p.category.name if p.category else ""):
+    for p in grub_db.products:
+        pc_num = "-"
+        if p.category:
+            pc_num = pc_map[p.category]
+
+        ti.append("%s %s" % (pc_num, p.name))
+
+    ti.run()    
+
+    deleted_categories = []
+    processing_categories = True
+    
+    for line in ti.get_line():
+        # check if we are switching from processing categories to products
+        if line.startswith('==='):
+            processing_categories = False
+            continue
+
+        if processing_categories:
+            tokens = line.split('=')
+            if len(tokens) == 2:
+                index = int(tokens[0]) - 1
+                name = tokens[1]
+                if index < len(grub_db.product_categories):
+                    if name:
+                        if name != grub_db.product_categories[index].name:
+                            print 'Updating %s to %s' % (grub_db.product_categories[index].name, name)
+                            grub_db.product_categories[index].name = name
+                    else:
+                        print 'Removing %s' % grub_db.product_categories[index].name
+                        deleted_categories.append(grub_db.product_categories[index].name)
+                else:
+                    raise Exception('Category index out of range (%d)' % index)
+            else:
+                raise Exception('Category name invalid format: %s' % line)
+        elif not deleted_categories:
+            # process products only if no categories were deleted
+            pc_num, delimiter, product_name = line.partition(" ")
+            product = grub_db.find_product_by_name(product_name)
+            if not product:
+                print 'product not found: %s' % product_name
+            elif pc_num == '-':
+                product.category = None
+            else:
+                for k,v in pc_map.items():
+                    if v == int(pc_num):
+                        product.category = k
+                        break
 
 if args.output_path:
     grub_db.save(args.output_path)

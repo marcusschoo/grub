@@ -1,3 +1,9 @@
+class Store:
+
+    def __init__(self, name, product_categories):
+        self.name = name
+        self.product_categories = product_categories
+
 class Ingredient:
 
     def __init__(self, product, amount=None, unit=None):
@@ -17,6 +23,12 @@ class Ingredient:
 
     # def toString(self):
     #     return '%g:%s:%s' % (self.amount, self.unit, self.product.name)
+
+
+class ProductCategory:
+    def __init__(self, name):
+        self.name = name
+        self.id = None
 
 
 class Product:
@@ -106,12 +118,12 @@ class Product:
 "wholemeal flat rolls": "breadrolls" \
 }
     
-    def __init__(self, name):
+    def __init__(self, name, category=None):
         self.name = Product.get_sanitised_name(name)
         if not self.name:
             raise ValueError("%s is invalid product name." % name)
         self.id = None
-        self.category = None
+        self.category = category
 
     @staticmethod
     def get_sanitised_name(name):
