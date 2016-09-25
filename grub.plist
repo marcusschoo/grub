@@ -7680,8 +7680,8 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
 			<string>1. In a pot, heat the oil and sauté onion until translucent. Add carrots and garlic and sauté for 1 more minute.
-2. Add chopped tomatoes, lentils, tomato puree, sugar, spices and about 4 cups broth. Bring to boil and cook for about 15 minutes.
-3. Add spaghetti and simmer until the pasta is tender, about 15 minutes. Stir from time to time and add more broth while cooking to achieve consistency you like.
+2. Add chopped tomatoes, lentils, tomato puree, sugar, spices and about 3 cups broth. Bring to boil and cook for about 30 minutes.
+3. Boil spaghetti separately
 4. Serve with grated Parmesan cheese (optional).</string>
 			<key>RECIPE_ID</key>
 			<string>2fb55412-e3d8-4af6-9169-901b49cea075</string>
@@ -7743,9 +7743,17 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 					<key>INGREDIENT_AMOUNT</key>
 					<real>4.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>cup</string>
+					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>3.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>ec191ada-cc36-49d5-b08f-9798bfd52ec9</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
