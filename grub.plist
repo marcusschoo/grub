@@ -11076,10 +11076,6 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 			<string>c8d49847-d4d7-4f57-8cb3-89429bb5564b</string>
 		</dict>
 		<dict>
-			<key>PRODUCT_ID</key>
-			<string>f0c1a6b6-f9cf-4413-af05-5a7da93136f6</string>
-		</dict>
-		<dict>
 			<key>INGREDIENT_AMOUNT</key>
 			<real>7.0</real>
 			<key>PRODUCT_ID</key>
@@ -11140,14 +11136,6 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 			<string>box</string>
 			<key>PRODUCT_ID</key>
 			<string>cacd5b04-6166-4cec-af84-c03033845df0</string>
-		</dict>
-		<dict>
-			<key>INGREDIENT_AMOUNT</key>
-			<real>1.0</real>
-			<key>INGREDIENT_UNIT</key>
-			<string>bag</string>
-			<key>PRODUCT_ID</key>
-			<string>871f9c7e-24b3-4e3f-8ca3-e760f2525210</string>
 		</dict>
 	</array>
 </dict>
