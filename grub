@@ -143,6 +143,8 @@ argparser.add_argument('-R','--recipe_new', dest='recipe_new', action='store_tru
                        help='Create a new recipe.')
 argparser.add_argument('-r','--recipe_edit', dest='recipe_edit', action='store',
                        help='Edit a recipe.')
+argparser.add_argument('-x','--recipe_delete', dest='recipe_delete', action='store',
+                       help='Delete a recipe.')
 argparser.add_argument('-P','--product_new', dest='new_product', action='store',
                        help='Create a new product.')
 argparser.add_argument('-a','--product_search', dest='search_product', action='store',
@@ -249,6 +251,9 @@ elif args.recipe_edit:
         ti.run()
         parse_recipe(list(ti.get_line()), current_recipe, grub_db)
 
+elif args.recipe_delete:
+    grub_db.delete_recipe(args.recipe_delete)
+    
 elif args.new_product:
     if grub_db.find_product_by_name(args.new_product):
         print "Product '%s' already exists" % args.new_product

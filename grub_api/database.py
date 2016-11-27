@@ -218,9 +218,11 @@ class Database:
         
         return categories[0] if categories else None
 
-    # def update_recipe(self, recipe):
-    #     self.id_to_recipe_map[recipe.id] = recipe
-        
+    def delete_recipe(self, recipe_name):
+        recipe = self.find_recipe_by_name(recipe_name)
+        if recipe:
+            self.id_to_recipe_map.pop(recipe.id)
+
     def add_recipe(self, recipe):
         existing_recipe = self.find_recipe_by_id(recipe.id)
         if existing_recipe:
