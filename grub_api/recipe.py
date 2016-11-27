@@ -28,6 +28,6 @@ class Recipe:
         n = 'Recipe Name'
         l = 'Recipe Location'
         d = 'First Recipe Direction\nSecond Recipe Direction'
-        p = [Product('Product A'), Product('Product B')]
+        p = [Product('Product A (NOTE: Product needs to start with a capital letter)'), Product('Product B')]
         i = [Ingredient(a,1,'unit') for a in p]
         return Recipe(n, location=l, directions=d, ingredients=i)

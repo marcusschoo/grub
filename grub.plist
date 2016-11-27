@@ -81,6 +81,7 @@
 				<string>0c8bdc46-7e2a-46cf-8345-78f740252e31</string>
 				<string>3b9f0718-c2b3-49ff-9679-b5bc0f0879a3</string>
 				<string>766ca49a-af00-4f55-979f-295ae78a1821</string>
+				<string>bf3c32c0-9429-4a44-9735-55a4032c30f0</string>
 			</array>
 		</dict>
 		<dict>
@@ -88,6 +89,7 @@
 			<string>Weekend Lunches</string>
 			<key>CATEGORY_RECIPES</key>
 			<array>
+				<string>a66a5e7d-d27d-4da3-802c-cc3d62add5b9</string>
 				<string>8d050d4d-60b7-4f19-afb2-66c943930fc9</string>
 				<string>9deef84a-16c8-4f11-b7ca-9683faf5531f</string>
 				<string>dfc3a776-6a43-49b2-8704-c46b067a1395</string>
@@ -638,6 +640,8 @@
 			<string>cinnamon</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>70f1abfc-1b70-44c9-9a64-d939436ed097</string>
 			<key>PRODUCT_NAME</key>
@@ -813,6 +817,14 @@
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
+			<string>95b7826c-a922-4ddd-93b6-c85018c5c0a4</string>
+			<key>PRODUCT_ID</key>
+			<string>6a4af1a8-0f7e-41e0-8111-234ea140de71</string>
+			<key>PRODUCT_NAME</key>
+			<string>english muffins</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
 			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
 			<string>a5140480-d2a1-4327-9ae8-4ba1525e6882</string>
@@ -890,6 +902,14 @@
 			<string>7b4c7784-2989-4807-beaa-708f57d95fc2</string>
 			<key>PRODUCT_NAME</key>
 			<string>green curry paste</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
+			<key>PRODUCT_ID</key>
+			<string>9539b1be-5a1d-4424-8b15-0935ed0efa2c</string>
+			<key>PRODUCT_NAME</key>
+			<string>hashbrowns</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1142,6 +1162,14 @@
 			<string>167423fa-131b-45cf-8811-cfabf8fd4b47</string>
 			<key>PRODUCT_NAME</key>
 			<string>mushrooms, portabello</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
+			<key>PRODUCT_ID</key>
+			<string>58b87fe7-eb5f-4e7b-8e99-9d65892b7b4f</string>
+			<key>PRODUCT_NAME</key>
+			<string>mustard, english</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1630,6 +1658,8 @@
 			<string>salt</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>b7b6d807-5f24-4d6c-9a25-7c1c7113ef94</string>
 			<key>PRODUCT_NAME</key>
@@ -2125,6 +2155,25 @@ Mix and serve with cheese</string>
 			<string>Printed Sheet</string>
 			<key>RECIPE_NAME</key>
 			<string>Agnolloti</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>4 Hashbrowns
+6 Eggs
+Bread
+4 Tomatoes
+Asparagus
+Baby spinach
+1 pack Sausages</string>
+			<key>RECIPE_ID</key>
+			<string>a66a5e7d-d27d-4da3-802c-cc3d62add5b9</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Me</string>
+			<key>RECIPE_NAME</key>
+			<string>All Day Breakfast</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -9053,6 +9102,44 @@ Stir through beans and saute for 1 minute.
 			<string>http://www.sanitarium.co.nz</string>
 			<key>RECIPE_NAME</key>
 			<string>Satay Noodles</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Toast the english muffins
+Poach the eggs
+Assemble the schmuffin
+</string>
+			<key>RECIPE_ID</key>
+			<string>bf3c32c0-9429-4a44-9735-55a4032c30f0</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>pack</string>
+					<key>PRODUCT_ID</key>
+					<string>6a4af1a8-0f7e-41e0-8111-234ea140de71</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>6.0</real>
+					<key>PRODUCT_ID</key>
+					<string>7e664ff8-03b8-498d-94bd-b77632835828</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>dd3f85fd-8c27-4069-9adc-e5d7c2712ff9</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>58b87fe7-eb5f-4e7b-8e99-9d65892b7b4f</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string></string>
+			<key>RECIPE_NAME</key>
+			<string>Schmuffins</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
