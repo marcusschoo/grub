@@ -143,6 +143,8 @@ argparser.add_argument('-R','--recipe_new', dest='recipe_new', action='store_tru
                        help='Create a new recipe.')
 argparser.add_argument('-r','--recipe_edit', dest='recipe_edit', action='store',
                        help='Edit a recipe.')
+argparser.add_argument('-S','--search', dest='search', action='store',
+                       help='Search grub.')
 argparser.add_argument('-x','--recipe_delete', dest='recipe_delete', action='store',
                        help='Delete a recipe.')
 argparser.add_argument('-P','--product_new', dest='new_product', action='store',
@@ -250,6 +252,16 @@ elif args.recipe_edit:
         ti.append(recipe_text)
         ti.run()
         parse_recipe(list(ti.get_line()), current_recipe, grub_db)
+
+elif args.search:
+    print 'RECIPES:'
+    for recipe in grub_db.recipes:
+        if args.search.lower() in recipe.name.lower():
+            print '\t', recipe.name
+        else:
+            for ingredient in recipe.ingredients:
+                if args.search.lower() in ingredient.product.name.lower():
+                    print '\t', recipe.name, '( contains', ingredient.product.name, ')'
 
 elif args.recipe_delete:
     grub_db.delete_recipe(args.recipe_delete)
