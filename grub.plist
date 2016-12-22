@@ -2171,17 +2171,49 @@ Mix and serve with cheese</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
-			<string>4 Hashbrowns
-6 Eggs
-Bread
-4 Tomatoes
-Asparagus
-Baby spinach
-1 pack Sausages</string>
+			<string></string>
 			<key>RECIPE_ID</key>
 			<string>a66a5e7d-d27d-4da3-802c-cc3d62add5b9</string>
 			<key>RECIPE_INGREDIENTS</key>
 			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>9539b1be-5a1d-4424-8b15-0935ed0efa2c</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>6.0</real>
+					<key>PRODUCT_ID</key>
+					<string>7e664ff8-03b8-498d-94bd-b77632835828</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>70ce2543-825d-429e-93ba-dcabd91c56cb</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>472b3969-0c1a-4998-bcda-969059028b0e</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>5038fd1d-ed98-4eb4-a6bd-c0ab010cca17</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>b8b4e8d1-201c-4d27-8f01-405fc0199823</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>pack</string>
+					<key>PRODUCT_ID</key>
+					<string>ad5baf08-d1c2-4044-b3be-fd9d70fa8067</string>
+				</dict>
 			</array>
 			<key>RECIPE_LOCATION</key>
 			<string>Me</string>
