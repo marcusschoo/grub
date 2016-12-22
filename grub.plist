@@ -104,6 +104,7 @@
 				<string>2c35a073-ae70-414f-8e62-9428215a8cd7</string>
 				<string>0eba8e0d-5b78-460e-a446-08c7fd175ce4</string>
 				<string>fc43ba9a-1898-473e-9bd1-243877c8da6d</string>
+				<string>8f6eab66-6e9d-4200-8507-baf175869dc9</string>
 				<string>20c03c12-8c98-49b4-93d6-5a9b6d49428b</string>
 				<string>9804917f-3411-43f0-ab51-b9e6dc3635d9</string>
 			</array>
@@ -534,6 +535,12 @@
 			<string>66aafc0c-d700-495e-8f6a-9683dc66047e</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, haloumi</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>07b11707-db54-4a53-8fbc-8081b79a25f6</string>
+			<key>PRODUCT_NAME</key>
+			<string>cheese, mature cheddar</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1162,6 +1169,12 @@
 			<string>167423fa-131b-45cf-8811-cfabf8fd4b47</string>
 			<key>PRODUCT_NAME</key>
 			<string>mushrooms, portabello</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>b7925219-f278-41df-b80c-dcbe9d174eaa</string>
+			<key>PRODUCT_NAME</key>
+			<string>mustard, dijon</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -9718,6 +9731,119 @@ Add pasta and cheese</string>
 			<string>Pinterest</string>
 			<key>RECIPE_NAME</key>
 			<string>Spinach And Ricotta Strudel With Chickpeas</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash the spinach and put it in a large saucepan with just the water that clings to its leaves. Heat for 1-2 mins until gently wilted, then tip into a colander and allow to cool. Once cool, squeeze out the excess water and chop finely.
+
+Heat the oil in a frying pan and gently cook the onion for about 5 mins until softened. Stir in the garlic and chilli flakes, and cook for 1 min more. Tip into a bowl, add the spinach, courgettes, rice and cheese, and toss together.
+
+Beat the 2 large eggs with the mustard, a pinch of salt and a good grinding of black pepper. Add to the spinach mixture and mix well. Heat oven to 200C/180C fan/gas 6. Put a baking sheet in the oven to preheat. Cut the pastry in half and roll 1 piece out on a lightly floured work surface until you have a sheet that measures 32 x 17cm. Place in a 30 x 15cm tin and prick it well all over the base. Roll out the remaining piece of pastry to the same size.
+
+Spoon the spinach mixture into the pastry base. Beat together the milk and remaining medium egg, then brush the edges of the pastry with it. Lay the other sheet of pastry over the top and press down gently to seal. Brush the top with a little more beaten egg and sprinkle with the sesame seeds.
+
+Place the tin on the preheated baking tray and bake for 10 mins, then reduce the temperature to 160C/140C fan/gas 4 and bake for a further 30 mins until the pastry is golden. Leave to cool for 10 mins before cutting into squares.</string>
+			<key>RECIPE_ID</key>
+			<string>8f6eab66-6e9d-4200-8507-baf175869dc9</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>400.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>56324f0d-080f-4e5d-a76d-86217d84e333</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>8e4b602e-5c16-4eb5-aaea-6e340f23ad76</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>clove</string>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>300.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>37988310-67f8-4723-9238-fe90d11c3353</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>100.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>9e5fc913-4a8e-4872-9898-99b2042cec5f</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>100.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>07b11707-db54-4a53-8fbc-8081b79a25f6</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>3.0</real>
+					<key>PRODUCT_ID</key>
+					<string>7e664ff8-03b8-498d-94bd-b77632835828</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>b7925219-f278-41df-b80c-dcbe9d174eaa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>500.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>3be0b191-1a6b-4252-aa52-3feee6bcb4ec</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>9c811918-490f-4b6a-a59b-777ccc422ade</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>http://www.bbcgoodfood.com</string>
+			<key>RECIPE_NAME</key>
+			<string>Spinach, Cheese &amp; Onion Rice Torte</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
