@@ -8521,7 +8521,7 @@ Mix.</string>
 			<key>RECIPE_DIRECTIONS</key>
 			<string>Spread the pizza bases with tomato paste.
 Place chopped toppings on top, finish with beans and cheese.
-Bake at 240C for 10 minutes </string>
+Bake at 240C for 10 minutes</string>
 			<key>RECIPE_ID</key>
 			<string>0b2f1db2-cf62-4a50-95bd-923f3e68662a</string>
 			<key>RECIPE_INGREDIENTS</key>
@@ -8574,7 +8574,7 @@ Bake at 240C for 10 minutes </string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>2.0</real>
 					<key>INGREDIENT_UNIT</key>
 					<string>sachet</string>
 					<key>PRODUCT_ID</key>
