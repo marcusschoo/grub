@@ -45,9 +45,11 @@
 				<string>7299f3b2-c22f-47a2-9231-a42e5bab42e4</string>
 				<string>350f9205-23b6-4710-bcb5-051b49751811</string>
 				<string>4a41abdc-26dd-47e6-b7b2-916a0af6e9d8</string>
+				<string>3835044d-8aab-412f-9834-0620733d5212</string>
 				<string>b4442c11-7485-4e6e-b195-da712361b563</string>
 				<string>538a3ab7-c743-497f-8b43-a8975bd0fc39</string>
 				<string>e7493e7c-5593-48a6-bd4e-f056abceecdf</string>
+				<string>97200116-4e9a-4d20-9e58-1276655378ec</string>
 				<string>b323a2a2-b5a9-4b59-86e3-11369c17ae96</string>
 				<string>5d4d9eab-9b4a-49ef-a628-a1157a803f68</string>
 				<string>7caecc7d-e346-464e-a5a2-804e0fab0b89</string>
@@ -66,6 +68,7 @@
 				<string>74943d58-7938-48d1-a3a5-783f0496af56</string>
 				<string>c6ef6d80-0dbc-498d-b79f-6ad91637fbd4</string>
 				<string>0db9ba41-849a-41cf-9013-edcc28ac9fc0</string>
+				<string>dfd30b6a-64fc-4f0c-99bb-0cc83f39287d</string>
 				<string>a371b649-150f-40da-8ca7-b2145bf7cd0c</string>
 				<string>4a0b2b70-07c6-49e8-8e2d-515adc861488</string>
 				<string>4c8a8c71-eb50-4936-938b-9c211b2c537b</string>
@@ -93,6 +96,7 @@
 				<string>a66a5e7d-d27d-4da3-802c-cc3d62add5b9</string>
 				<string>8d050d4d-60b7-4f19-afb2-66c943930fc9</string>
 				<string>9deef84a-16c8-4f11-b7ca-9683faf5531f</string>
+				<string>e2b9384c-0c66-4b8c-90ac-b4e1df791324</string>
 				<string>dfc3a776-6a43-49b2-8704-c46b067a1395</string>
 				<string>2eb1d1dc-a270-4a43-8f1d-0b6ec49549fd</string>
 				<string>b323a2a2-b5a9-4b59-86e3-11369c17ae96</string>
@@ -296,6 +300,8 @@
 			<string>beansprouts</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>6ce1b44f-4efe-4551-af58-91344adacaae</string>
 			<key>PRODUCT_NAME</key>
@@ -3431,6 +3437,89 @@ Serve over chilli.
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Fry onion until soft. Add spices, water and beans.
+Simmer covered for 5 minutes.
+Mash a bit and continue cooking until water has evaporated.
+Heat tortillas.
+Fill tortillas.</string>
+			<key>RECIPE_ID</key>
+			<string>e2b9384c-0c66-4b8c-90ac-b4e1df791324</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>PRODUCT_ID</key>
+					<string>8e4b602e-5c16-4eb5-aaea-6e340f23ad76</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tspn</string>
+					<key>PRODUCT_ID</key>
+					<string>e1accb18-d641-4779-addb-c2e1ff9955e7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tspn</string>
+					<key>PRODUCT_ID</key>
+					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tin</string>
+					<key>PRODUCT_ID</key>
+					<string>d44c09af-9d4c-42d7-af73-a189b8c7c2d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.25</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>ec191ada-cc36-49d5-b08f-9798bfd52ec9</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>8.0</real>
+					<key>PRODUCT_ID</key>
+					<string>ce8c7324-de73-4c2f-85db-eb3a5857845b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>bag</string>
+					<key>PRODUCT_ID</key>
+					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>0d586cc8-149b-4985-8731-29df3f3ba155</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>jar</string>
+					<key>PRODUCT_ID</key>
+					<string>12458058-d78a-4ee9-bdf3-bc98bba6e587</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>web</string>
+			<key>RECIPE_NAME</key>
+			<string>Black Bean Tacos</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string></string>
 			<key>RECIPE_ID</key>
 			<string>1d359cef-fd6e-4ed0-9943-43124eeb1685</string>
@@ -4039,6 +4128,53 @@ minutes.
 			<string>http://www.sanitarium.co.nz</string>
 			<key>RECIPE_NAME</key>
 			<string>Chickpea &amp; Risoni Soup</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Cook quinoa
+Mix lettuce and chopped avocado together
+Cook chickpeas with teryaki sauce
+Mix chickpeas and quinoa together
+Serve layered in a bowl</string>
+			<key>RECIPE_ID</key>
+			<string>97200116-4e9a-4d20-9e58-1276655378ec</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>3b3e5d1c-ed47-4549-9e43-411b759fa314</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tin</string>
+					<key>PRODUCT_ID</key>
+					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>bag</string>
+					<key>PRODUCT_ID</key>
+					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>0d586cc8-149b-4985-8731-29df3f3ba155</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Google docs</string>
+			<key>RECIPE_NAME</key>
+			<string>Chickpea Bowl</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -10127,6 +10263,55 @@ Onion goes in at the same time as the tofu.
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>1 large Roasted sweet potato cubed, oiled, seasoned, bake 400F 20 min then 10 min.</string>
+			<key>RECIPE_ID</key>
+			<string>dfd30b6a-64fc-4f0c-99bb-0cc83f39287d</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>block</string>
+					<key>PRODUCT_ID</key>
+					<string>d41b0a7e-722e-40d4-bebb-f17461cd417d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cut</string>
+					<key>PRODUCT_ID</key>
+					<string>3b3e5d1c-ed47-4549-9e43-411b759fa314</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>0d586cc8-149b-4985-8731-29df3f3ba155</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>bag</string>
+					<key>PRODUCT_ID</key>
+					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>f200ea5b-d1ee-4178-89c6-fedc54e34e80</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Online</string>
+			<key>RECIPE_NAME</key>
+			<string>Tofu, Quinoa, And Avo Bowl</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>1/ Cook Penne
 
 2/ Saute zucchini, add beans, boil 2 minutes
@@ -11228,21 +11413,7 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 	<array>
 		<dict>
 			<key>INGREDIENT_AMOUNT</key>
-			<real>1.0</real>
-			<key>INGREDIENT_UNIT</key>
-			<string>pack</string>
-			<key>PRODUCT_ID</key>
-			<string>c8d49847-d4d7-4f57-8cb3-89429bb5564b</string>
-		</dict>
-		<dict>
-			<key>INGREDIENT_AMOUNT</key>
-			<real>7.0</real>
-			<key>PRODUCT_ID</key>
-			<string>a89b8caa-8c3e-42a9-9477-66820166f2da</string>
-		</dict>
-		<dict>
-			<key>INGREDIENT_AMOUNT</key>
-			<real>4.0</real>
+			<real>2.0</real>
 			<key>INGREDIENT_UNIT</key>
 			<string>l</string>
 			<key>PRODUCT_ID</key>
@@ -11250,19 +11421,11 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 		</dict>
 		<dict>
 			<key>INGREDIENT_AMOUNT</key>
-			<real>1.0</real>
-			<key>INGREDIENT_UNIT</key>
-			<string>l</string>
-			<key>PRODUCT_ID</key>
-			<string>33e7394b-95f5-4c82-9696-c3a42949c825</string>
-		</dict>
-		<dict>
-			<key>INGREDIENT_AMOUNT</key>
 			<real>2.0</real>
 			<key>INGREDIENT_UNIT</key>
 			<string>tub</string>
 			<key>PRODUCT_ID</key>
-			<string>4c558127-28a6-4c53-8a8b-78c59ba2149f</string>
+			<string>a84fcd68-b59c-4a00-8a3a-a88f37b4ff3f</string>
 		</dict>
 		<dict>
 			<key>INGREDIENT_AMOUNT</key>
@@ -11290,11 +11453,23 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 		</dict>
 		<dict>
 			<key>INGREDIENT_AMOUNT</key>
-			<real>1.0</real>
+			<real>3.0</real>
 			<key>INGREDIENT_UNIT</key>
-			<string>box</string>
+			<string>punnet</string>
 			<key>PRODUCT_ID</key>
-			<string>cacd5b04-6166-4cec-af84-c03033845df0</string>
+			<string>aee07a60-3f68-4fa8-82d8-f90f651c0111</string>
+		</dict>
+		<dict>
+			<key>INGREDIENT_AMOUNT</key>
+			<real>5.0</real>
+			<key>PRODUCT_ID</key>
+			<string>c114c635-acbc-49e5-a29f-75d3a35e5c35</string>
+		</dict>
+		<dict>
+			<key>INGREDIENT_AMOUNT</key>
+			<real>1.0</real>
+			<key>PRODUCT_ID</key>
+			<string>c8d49847-d4d7-4f57-8cb3-89429bb5564b</string>
 		</dict>
 	</array>
 </dict>
