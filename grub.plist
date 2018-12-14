@@ -52,6 +52,7 @@
 				<string>97200116-4e9a-4d20-9e58-1276655378ec</string>
 				<string>b323a2a2-b5a9-4b59-86e3-11369c17ae96</string>
 				<string>5d4d9eab-9b4a-49ef-a628-a1157a803f68</string>
+				<string>2c4e45b2-7fb5-461d-8db0-98a902aa01af</string>
 				<string>7caecc7d-e346-464e-a5a2-804e0fab0b89</string>
 				<string>8bcde196-cc03-4a1b-80a6-60227077be85</string>
 				<string>c9495000-a751-46df-a5d1-d4aef6969298</string>
@@ -60,6 +61,7 @@
 				<string>2cdb6efc-7ac1-446b-96b1-6937e64998a4</string>
 				<string>c3f56d3b-0051-4eb0-9d0c-b0eda5af4e1a</string>
 				<string>fc777716-a7cf-4b15-9b92-5c6876f834d1</string>
+				<string>711601dd-c831-4fd1-8142-afff49341158</string>
 				<string>80d0780c-9e7f-42ab-8a0d-127ee0a77a20</string>
 				<string>2fb55412-e3d8-4af6-9169-901b49cea075</string>
 				<string>dd7ee4c9-6111-470d-9551-5dae94001028</string>
@@ -102,6 +104,7 @@
 				<string>b323a2a2-b5a9-4b59-86e3-11369c17ae96</string>
 				<string>e9ac11cd-c172-4004-a25d-5b0353e19c3e</string>
 				<string>63610304-6bfc-4272-b9ed-e6eafdd993b4</string>
+				<string>711601dd-c831-4fd1-8142-afff49341158</string>
 				<string>946f837f-888b-4193-b7bc-fbd5df868944</string>
 				<string>0b2f1db2-cf62-4a50-95bd-923f3e68662a</string>
 				<string>61c78730-024f-4a90-ad56-01267359edf9</string>
@@ -544,6 +547,8 @@
 			<string>cheese, haloumi</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>07b11707-db54-4a53-8fbc-8081b79a25f6</string>
 			<key>PRODUCT_NAME</key>
@@ -1125,6 +1130,14 @@
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
+			<key>PRODUCT_ID</key>
+			<string>8cdc04e2-80d0-43a7-ad3e-34abbc25031f</string>
+			<key>PRODUCT_NAME</key>
+			<string>mediterranean spice blend</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
 			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
 			<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
@@ -1178,6 +1191,8 @@
 			<string>mushrooms, portabello</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
 			<string>b7925219-f278-41df-b80c-dcbe9d174eaa</string>
 			<key>PRODUCT_NAME</key>
@@ -1761,6 +1776,14 @@
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
+			<string>a1a0e660-984d-400a-a556-8a3843114b9e</string>
+			<key>PRODUCT_NAME</key>
+			<string>shallot</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
+			<key>PRODUCT_ID</key>
 			<string>542965b0-01ad-4c94-b127-c83bd2142975</string>
 			<key>PRODUCT_NAME</key>
 			<string>snow pea sprouts</string>
@@ -1884,6 +1907,14 @@
 			<string>472b3969-0c1a-4998-bcda-969059028b0e</string>
 			<key>PRODUCT_NAME</key>
 			<string>tomatoes</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_CATEGORY_ID</key>
+			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
+			<key>PRODUCT_ID</key>
+			<string>488623b3-8936-45ff-8868-0359d98de691</string>
+			<key>PRODUCT_NAME</key>
+			<string>tomatoes, roma</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -4291,14 +4322,6 @@ Serve layered in a bowl</string>
 					<key>PRODUCT_ID</key>
 					<string>dd3f85fd-8c27-4069-9adc-e5d7c2712ff9</string>
 				</dict>
-				<dict>
-					<key>INGREDIENT_AMOUNT</key>
-					<real>0.5</real>
-					<key>INGREDIENT_UNIT</key>
-					<string>cup</string>
-					<key>PRODUCT_ID</key>
-					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
-				</dict>
 			</array>
 			<key>RECIPE_LOCATION</key>
 			<string>Vege MIM (Pg 52)</string>
@@ -5001,6 +5024,97 @@ Blend flour, soy sauce and add. Heat through.</string>
 			<string></string>
 			<key>RECIPE_NAME</key>
 			<string>Cookie Fairy Cookies</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Bring a large pot of salted water to a boil. Quarter zucchini lengthwise, then cut crosswise into 0.25 inch think triangles. Halve and peel shallot, then thinly slice. Halve tomatoes lengthwise. Pick a few parsley leaves from stems for garnish, then finely chop the rest of the bunch.
+
+Heat a large drizzle of olive oil in a large pan over medium-high heat. Add zucchini and cook, tossing, until browned, 5-7 minutes. Add shallot, a pinch of chilli flakes (to taste), and a drizzle of olive oil. Cook, tossing, until shallot is softened, 2-3 minutes.
+
+Once water is boiling, add ravioli to pot. Cook until tender and floating to the top, about 4 minutes. Carefully scoop out and reserve 0.5 cup pasta water then drain.
+
+Once shallot is softened, stir tomatoes into pan, then reduce heat to low. Stir in sour cream, half the Parmesan, stock and 0.25 cup pasta cooking water. Season with salt, pepper, chopped parsley, and more chilli flakes (to taste).
+
+Add ravioli to pan, increase heat to medium, and gently toss to coat ravioli in sauce. Cook until sauce thickens slightly, 1-2 minutes. TIP: Add more pasta cooking water, if needed, to give sauce a loose consistency.
+
+Divide ravioli mixture between plates, then garnish with remaining Parmesan and reserved parsley leaves and serve.</string>
+			<key>RECIPE_ID</key>
+			<string>2c4e45b2-7fb5-461d-8db0-98a902aa01af</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>37988310-67f8-4723-9238-fe90d11c3353</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>a1a0e660-984d-400a-a556-8a3843114b9e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>15.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>ba902b5a-57d6-41b6-ae0a-5422cb1dbbae</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>0746bcdd-8e15-452b-82fe-396e388c0094</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>510.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>46dea5cf-dcd3-441f-94ab-8088622c3636</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>125.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Hello Fresh</string>
+			<key>RECIPE_NAME</key>
+			<string>Creamiest Mushroom Ravioli</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -7194,6 +7308,114 @@ Stir in cilantro and serve.</string>
 			<string>jamieoliver.com</string>
 			<key>RECIPE_NAME</key>
 			<string>Margarita</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Preheat oven to 232'C
+Bring medium pot to boil
+Half tomatoes then chop
+Half, peel and thinly slice shallot
+Stir together vinegar and 0.5tsp sugar in a medium bowl, add shallot and tomatoes, toss to coat
+Boil orzo for 6-8 minutes and drain
+Drain, rinse and pat drive chickpeas. Place on baking sheet, drizzle with olive oil, spice, 0.5 tsp paprika, salt and pepper. Roast for 8-10 minutes
+Chop mint leaves roughly. Stir with orzo and olive oil
+In a small bowl stir together sour cream, half the feta, 0.25 tsp paprika, 1 Tbsp water
+Once chickpeas are done stir into orzo
+Add rocket leave with drizzle of olive oil to shallot and tomato mixture and toss to coat
+To serve, layer orzo, rocket mixture, feta and dressing</string>
+			<key>RECIPE_ID</key>
+			<string>711601dd-c831-4fd1-8142-afff49341158</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>488623b3-8936-45ff-8868-0359d98de691</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>a1a0e660-984d-400a-a556-8a3843114b9e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>8ee3aeda-47b1-47c0-820e-b0721e130038</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>340.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>accee911-593f-4768-b833-82ac282a948c</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>800.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>8cdc04e2-80d0-43a7-ad3e-34abbc25031f</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.75</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>6409d8a4-e025-40b1-9c59-dedc60e9d74e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>14.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>c5ffb714-92c8-48a8-a0e4-e582166f8c99</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>aa03ea76-318e-4a8b-9ce9-0865139d1600</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>115.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>11f84a43-efa1-46e4-88a2-ace0a74d159b</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Hello Fresh</string>
+			<key>RECIPE_NAME</key>
+			<string>Mediterranean Chickpea Orzo</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -11421,7 +11643,7 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 		</dict>
 		<dict>
 			<key>INGREDIENT_AMOUNT</key>
-			<real>2.0</real>
+			<real>1.0</real>
 			<key>INGREDIENT_UNIT</key>
 			<string>tub</string>
 			<key>PRODUCT_ID</key>
@@ -11453,23 +11675,15 @@ Pour into well greased lamington tin, bake at 180'C for 30-40 min</string>
 		</dict>
 		<dict>
 			<key>INGREDIENT_AMOUNT</key>
-			<real>3.0</real>
-			<key>INGREDIENT_UNIT</key>
-			<string>punnet</string>
-			<key>PRODUCT_ID</key>
-			<string>aee07a60-3f68-4fa8-82d8-f90f651c0111</string>
-		</dict>
-		<dict>
-			<key>INGREDIENT_AMOUNT</key>
-			<real>5.0</real>
-			<key>PRODUCT_ID</key>
-			<string>c114c635-acbc-49e5-a29f-75d3a35e5c35</string>
-		</dict>
-		<dict>
-			<key>INGREDIENT_AMOUNT</key>
 			<real>1.0</real>
 			<key>PRODUCT_ID</key>
 			<string>c8d49847-d4d7-4f57-8cb3-89429bb5564b</string>
+		</dict>
+		<dict>
+			<key>INGREDIENT_AMOUNT</key>
+			<real>7.0</real>
+			<key>PRODUCT_ID</key>
+			<string>a89b8caa-8c3e-42a9-9477-66820166f2da</string>
 		</dict>
 	</array>
 </dict>

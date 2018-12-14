@@ -130,13 +130,14 @@ def parse_recipe(as_string_list, recipe, grub_db):
     recipe.ingredients = i
 
 argparser = argparse.ArgumentParser(description="Command line to interact with the Grub database.")
-argparser.add_argument('grub_input', help='The grub file to read from')
 argparser.add_argument('-c','--category_edit', dest='edit_categories', action='store_true',
                        help='Edit the existing categories')
 argparser.add_argument('-C','--category_new', dest='new_category', action='store',
                        help='Create a new category.')
 argparser.add_argument('-s','--shopping_list', dest='shopping_list', action='store_true',
                        help='Generate a shopping list')
+argparser.add_argument('-i','--input_path', dest='input_path', action='store',
+                       help='Specifies input path. grub.plist by default.')
 argparser.add_argument('-o','--output_path', dest='output_path', action='store',
                        help='Specifies output path')
 argparser.add_argument('-R','--recipe_new', dest='recipe_new', action='store_true',
@@ -162,9 +163,12 @@ argparser.add_argument('-D','--product_category_new', dest='new_product_category
 
 args = argparser.parse_args()
 
-grub_db = Database(file_path=args.grub_input)
+DATABASE_FILE = 'grub.plist'
+input_path = args.input_path if args.input_path else DATABASE_FILE
+
+grub_db = Database(input_path)
 if not args.output_path:
-    grub_db.save(args.grub_input + '.backup')
+    grub_db.save(input_path + '.backup')
 
 if args.edit_categories:
     ti = TextInterface()
@@ -415,4 +419,5 @@ elif args.edit_product_categories:
 if args.output_path:
     grub_db.save(args.output_path)
 else:
-    grub_db.save(args.grub_input)
+    grub_db.save(input_path)
+
