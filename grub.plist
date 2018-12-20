@@ -499,6 +499,12 @@
 			<string>cereal</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>d634ef87-57ce-48a7-a727-b47668ae15d9</string>
+			<key>PRODUCT_NAME</key>
+			<string>cheese, bocconcini</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
@@ -625,6 +631,12 @@
 			<string>ba13825c-f9e8-4512-9e6b-b4e8c5f7f1ed</string>
 			<key>PRODUCT_NAME</key>
 			<string>chilli powder</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>3bb5a6b4-41e1-48c7-91a8-3d23759fe872</string>
+			<key>PRODUCT_NAME</key>
+			<string>chilli, flakes</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -937,6 +949,12 @@
 			<string>09286208-accf-4c45-b80c-49056bc32c9b</string>
 			<key>PRODUCT_NAME</key>
 			<string>hazelnuts</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>3f6f687e-a9ac-4c50-99de-751d4a37d618</string>
+			<key>PRODUCT_NAME</key>
+			<string>herbs, fresh</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1998,6 +2016,12 @@
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
+			<string>53e83809-e53e-4c00-8a27-2fbef7412ed6</string>
+			<key>PRODUCT_NAME</key>
+			<string>walnuts</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
 			<string>ec191ada-cc36-49d5-b08f-9798bfd52ec9</string>
 			<key>PRODUCT_NAME</key>
 			<string>water</string>
@@ -2314,6 +2338,100 @@ Mix and serve with cheese</string>
 			<string>Easy Desserts (Pg 27)</string>
 			<key>RECIPE_NAME</key>
 			<string>Apple And Blueberry Tarts</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Asparagus trimmed.
+Tomatoes halved.
+Cucumber peeled into thin slices.
+Cheese balls halved.
+
+First, combine dressing ingredients in a jar and shake well.
+
+Plunge asparagus into a pot of boiling water for three minutes. Remove while still vibrant green and place into icy water to cool them quickly.
+
+Just before serving, assemble salad - into a large bowl place asparagus, tomatoes, cucumber and bocconcini. Toss with dressing. Season with salt and pepper.
+
+Serve on a large platter, as a starter or side dish.</string>
+			<key>RECIPE_ID</key>
+			<string>f6a45027-a4de-4f38-bdcf-5bf34877e90d</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.25</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>484ee3f3-4966-4f0c-83d5-4d384af4e1f4</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>b7925219-f278-41df-b80c-dcbe9d174eaa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>bunches</string>
+					<key>PRODUCT_ID</key>
+					<string>5038fd1d-ed98-4eb4-a6bd-c0ab010cca17</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>punnet</string>
+					<key>PRODUCT_ID</key>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>PRODUCT_ID</key>
+					<string>f324fbff-611d-467f-b1bf-27592875f223</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>200.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>d634ef87-57ce-48a7-a727-b47668ae15d9</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>3f6f687e-a9ac-4c50-99de-751d4a37d618</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>http://www.bite.co.nz/recipe/11691/Asparagus-and-bocconcini-ball-salad/</string>
+			<key>RECIPE_NAME</key>
+			<string>Asparagus And Bocconcini Ball Salad</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -3691,6 +3809,95 @@ Fill tortillas.</string>
 			<string>Food Issue 1 (Pg 42)</string>
 			<key>RECIPE_NAME</key>
 			<string>Broccoli Quiche</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Fill a medium-sized pot half way with water and add a pinch salt. Bring to boil, add broccoli and cook for a few minutes.
+
+Drain broccoli into colander and plunge into a bowl of ice water. This will stop the cooking process. Drain broccoli onto paper towels to get rid of excess water.
+
+Add to a large bowl with chickpeas, cumin, cottage cheese, coriander, parsley, chilli, lemon juice, a splash of good olive oil, salt and pepper. Gently combine with clean hands.  
+
+Cook's tip
+
+Eat this salad the day it is made. It is not designed to keep beyond that – it is best eaten fresh and with gusto. The success of this salad is also made possible by having the cottage cheese at room temperature when you fold it through the vegetables – it combines better and gives a creamier consistency. Even 15-20 minutes out of the fridge helps.</string>
+			<key>RECIPE_ID</key>
+			<string>b21a7ca8-e63c-40a7-9dfb-b45e6413d018</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>cd5fdc11-c755-4381-a772-4020107aa2eb</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tin</string>
+					<key>PRODUCT_ID</key>
+					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>200.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>be5c42cd-bd94-4c35-8644-c79dddf52063</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>17781163-16cc-43e3-b237-b43a3120cadb</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>ba902b5a-57d6-41b6-ae0a-5422cb1dbbae</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>3bb5a6b4-41e1-48c7-91a8-3d23759fe872</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>pfft</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>http://www.bite.co.nz/recipe/224/Broccoli-salad/</string>
+			<key>RECIPE_NAME</key>
+			<string>Broccoli Salad</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -10038,21 +10245,23 @@ Add pasta and cheese</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
-			<string>1. Heat the oil in a pan, and cook the red onion and garlic over a medium heat for a few minutes until transparent.
+			<string>Red onion, diced.
+Garlic, minced.
+Spinach, roughly chopped.
+Walnuts, coarsely chopped (optional).
+Egg, lightly beaten.
 
-2. Add the spinach, and cook for a further 1-2 minutes until wilted. Remove from the heat and leave to cool for a couple of minutes.
+Heat the oil in a pan, and cook the red onion and garlic over a medium heat for a few minutes until transparent. Add the spinach, and cook for a further 1-2 minutes until wilted. Remove from the heat and leave to cool for a couple of minutes.
 
-3. Add the drained chickpeas, ricotta cheese and the egg, and mix well. Season with a pinch of nutmeg and a generous amount of salt and pepper.
+Add the drained chickpeas, walnuts, ricotta cheese and the egg, and mix well. Season with a pinch of nutmeg and a generous amount of salt and pepper.
 
-4. Heat the oven to 190°C (Gas Mark 5 / 375°F).
+Heat the oven to 190C (Gas Mark 5 / 375F).
 
-5. Lay one sheet of filo on a lightly greased baking sheet, and give it a couple of sprays of oil. Add another sheet, spray again, and add a third sheet (you could use more than 3 if you like, but I think 3 works pretty well).
+Lay one sheet of filo on a lightly greased baking sheet, and give it a couple of sprays of oil. Add another sheet, spray again, and add a third sheet (you could use more than 3 if you like, but I think 3 works pretty well).
 
-6. Spoon your filling onto the pastry - since I made a large rectangular pie, I covered the whole sheet, just leaving an inch or so around each side. Spread the filling out into an even layer. Top with three more sheets of pastry, again spraying lightly with oil between each layer.
+Spoon your filling onto the pastry - since I made a large rectangular pie, I covered the whole sheet, just leaving an inch or so around each side. Spread the filling out into an even layer. Top with three more sheets of pastry, again spraying lightly with oil between each layer.
 
-7. Scrunch the excess pastry around each edge to seal the pie - I just loosely tucked it underneath. Make a couple of small slits in the top, and bake for around 40 minutes, until the pastry is golden brown.
-
-</string>
+Scrunch the excess pastry around each edge to seal the pie - I just loosely tucked it underneath. Make a couple of small slits in the top, and bake for around 40 minutes, until the pastry is golden brown.</string>
 			<key>RECIPE_ID</key>
 			<string>fc43ba9a-1898-473e-9bd1-243877c8da6d</string>
 			<key>RECIPE_INGREDIENTS</key>
@@ -10075,15 +10284,15 @@ Add pasta and cheese</string>
 					<key>INGREDIENT_AMOUNT</key>
 					<real>3.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>clove</string>
+					<string>cloves</string>
 					<key>PRODUCT_ID</key>
 					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>1.0</real>
+					<real>150.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>bag</string>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>56324f0d-080f-4e5d-a76d-86217d84e333</string>
 				</dict>
@@ -10094,6 +10303,14 @@ Add pasta and cheese</string>
 					<string>tin</string>
 					<key>PRODUCT_ID</key>
 					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>100.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>53e83809-e53e-4c00-8a27-2fbef7412ed6</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
@@ -10111,15 +10328,27 @@ Add pasta and cheese</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
-					<real>6.0</real>
+					<real>1.0</real>
 					<key>INGREDIENT_UNIT</key>
-					<string>sheet</string>
+					<string>pinch</string>
+					<key>PRODUCT_ID</key>
+					<string>c06b0ef4-0a25-41c9-a20e-9fd75ec27054</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>9bd04c63-a18f-400b-9538-a0df87f5d2a5</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>100.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
 					<key>PRODUCT_ID</key>
 					<string>e4811cec-fd8a-4546-8a34-81aa690b3ea3</string>
 				</dict>
 			</array>
 			<key>RECIPE_LOCATION</key>
-			<string>Pinterest</string>
+			<string>https://www.amuse-your-bouche.com/spinach-and-ricotta-strudel-with-chickpeas/</string>
 			<key>RECIPE_NAME</key>
 			<string>Spinach And Ricotta Strudel With Chickpeas</string>
 		</dict>
