@@ -367,6 +367,12 @@
 			<string>bread</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>1d3f0c88-68b6-4201-b10a-ddb0683e0b11</string>
+			<key>PRODUCT_NAME</key>
+			<string>bread, crusty</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
@@ -8608,6 +8614,10 @@ Can eat immediately, or refrigerate for 1-2 hours and serve cold.</string>
 					<string>tsp</string>
 					<key>PRODUCT_ID</key>
 					<string>a8129906-8622-45c6-becf-191c49ddb0bf</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>1d3f0c88-68b6-4201-b10a-ddb0683e0b11</string>
 				</dict>
 			</array>
 			<key>RECIPE_LOCATION</key>
