@@ -32,6 +32,7 @@
 				<string>c6a6dcf5-4eb1-44dc-b9c0-f2fd2393f351</string>
 				<string>6887e40c-fd8c-4367-8e5c-fe3a5c522404</string>
 				<string>098f62a6-7380-4a3d-bae0-8048ee0a30fb</string>
+				<string>10fd1f1c-cdcd-46e9-ad75-b08d8a6c2d8a</string>
 				<string>83d21129-0d51-4945-967b-d7d69bacfd6c</string>
 				<string>b048cc2f-429d-4364-a51d-1758d9207b26</string>
 				<string>b59718be-ed91-42a1-a6f2-17ce5f2670e3</string>
@@ -85,6 +86,7 @@
 				<string>7a0abe45-8917-4da8-86fd-f1c0d379f3a1</string>
 				<string>021232e5-6ef1-4e4c-ad74-f46d664dba1c</string>
 				<string>0c8bdc46-7e2a-46cf-8345-78f740252e31</string>
+				<string>10fd1f1c-cdcd-46e9-ad75-b08d8a6c2d8a</string>
 				<string>3b9f0718-c2b3-49ff-9679-b5bc0f0879a3</string>
 				<string>766ca49a-af00-4f55-979f-295ae78a1821</string>
 				<string>bf3c32c0-9429-4a44-9735-55a4032c30f0</string>
@@ -137,12 +139,30 @@
 			<string>70% chocolate</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>a25a1872-e197-4cd1-8bc3-eb48c3edf79f</string>
+			<key>PRODUCT_NAME</key>
+			<string>almonds</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>7b3bc234-7ff1-41d4-a43c-35b327683431</string>
+			<key>PRODUCT_NAME</key>
+			<string>almonds, sliced</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
 			<string>c114c635-acbc-49e5-a29f-75d3a35e5c35</string>
 			<key>PRODUCT_NAME</key>
 			<string>apples</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>146b9653-414c-4a41-aae3-00e5e2f13c01</string>
+			<key>PRODUCT_NAME</key>
+			<string>artichokes</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -175,6 +195,12 @@
 			<string>b8b4e8d1-201c-4d27-8f01-405fc0199823</string>
 			<key>PRODUCT_NAME</key>
 			<string>baby spinach</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>a66c4341-0ad0-4886-9dec-5f6f0814e046</string>
+			<key>PRODUCT_NAME</key>
+			<string>baguette</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -506,6 +532,12 @@
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
+			<string>fbf798df-8ac5-4d0d-b4f8-76a185e70f06</string>
+			<key>PRODUCT_NAME</key>
+			<string>cheese, blue</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
 			<string>d634ef87-57ce-48a7-a727-b47668ae15d9</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, bocconcini</string>
@@ -543,6 +575,12 @@
 			<string>cheese, feta</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>602adc4d-5c04-4c9d-a74b-8108f31fb2e4</string>
+			<key>PRODUCT_NAME</key>
+			<string>cheese, goats</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
@@ -565,6 +603,12 @@
 			<string>07b11707-db54-4a53-8fbc-8081b79a25f6</string>
 			<key>PRODUCT_NAME</key>
 			<string>cheese, mature cheddar</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>1330bfd2-e94c-4e80-8f3c-7f7934124e04</string>
+			<key>PRODUCT_NAME</key>
+			<string>cheese, mozzarella</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -741,6 +785,12 @@
 			<string>corn starch</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>1c96da96-3a6b-4782-9db3-588fe705f8ce</string>
+			<key>PRODUCT_NAME</key>
+			<string>corn, cobs</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>ace55488-0c55-4671-9ce4-b244dc02caf4</string>
 			<key>PRODUCT_ID</key>
@@ -755,6 +805,12 @@
 			<string>2e1afdce-b8fb-439f-88f7-884732497730</string>
 			<key>PRODUCT_NAME</key>
 			<string>corn, whole baby sweet</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>777d1f91-172f-48c9-b0db-1ef5119d953d</string>
+			<key>PRODUCT_NAME</key>
+			<string>couscous, israeli</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -867,6 +923,18 @@
 			<string>a5140480-d2a1-4327-9ae8-4ba1525e6882</string>
 			<key>PRODUCT_NAME</key>
 			<string>eta lite &amp; free french dressing</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>97a252bc-4491-4b67-8ad6-262a14c8c68d</string>
+			<key>PRODUCT_NAME</key>
+			<string>farro</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>2e3bcfa1-198b-42d3-8ee5-7647e6a3cebf</string>
+			<key>PRODUCT_NAME</key>
+			<string>flatbread</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1009,6 +1077,12 @@
 			<string>icing sugar</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>05726e3f-a03e-4fe5-8b92-fb87d586cc37</string>
+			<key>PRODUCT_NAME</key>
+			<string>jalapeno</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
@@ -1047,6 +1121,12 @@
 			<string>1606d6bb-b71e-4621-b75b-f71c675c8371</string>
 			<key>PRODUCT_NAME</key>
 			<string>kapiti vanilla yoghurt</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>2086aa4b-574b-4f24-a0e2-f90397eaf482</string>
+			<key>PRODUCT_NAME</key>
+			<string>kiwifruit</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1455,6 +1535,12 @@
 			<string>pasta, fettuccine</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>58cd4f68-d755-48c1-a48f-c65ce2355c26</string>
+			<key>PRODUCT_NAME</key>
+			<string>pasta, mushroom ravioli</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
@@ -1551,6 +1637,18 @@
 			<string>peas, frozen</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>cc6a8766-6259-4f3a-a1da-69e366bb86c9</string>
+			<key>PRODUCT_NAME</key>
+			<string>pepper, poblano</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>bdd0552d-3af8-46b7-acfd-da02f1fe8bd3</string>
+			<key>PRODUCT_NAME</key>
+			<string>pesto</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>79c26dd9-24d2-4f20-8140-802ecea82826</string>
 			<key>PRODUCT_ID</key>
@@ -1581,6 +1679,12 @@
 			<string>2cb89c82-9abf-4957-97fd-6e7a318403a9</string>
 			<key>PRODUCT_NAME</key>
 			<string>potato</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>68b4df92-2c81-4a1f-8a74-62551b3637e5</string>
+			<key>PRODUCT_NAME</key>
+			<string>potato, sweet</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1781,6 +1885,12 @@
 			<string>sausages</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>2c166dc2-eee8-4f3e-87d1-5f9ba3a9f52d</string>
+			<key>PRODUCT_NAME</key>
+			<string>seasoning, fry</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
@@ -1829,6 +1939,12 @@
 			<string>spinach, frozen</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>5b78f687-5644-4df7-964f-a0e26b2cbff4</string>
+			<key>PRODUCT_NAME</key>
+			<string>squash, yellow</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
@@ -1859,6 +1975,12 @@
 			<string>a206ee67-0b7d-4fef-9cbf-7c87f879c53f</string>
 			<key>PRODUCT_NAME</key>
 			<string>sugar, caster</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>5e2ee085-d920-411b-a8f7-5be9b41a6b63</string>
+			<key>PRODUCT_NAME</key>
+			<string>tahini</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1949,6 +2071,12 @@
 			<string>tortillas</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>86472eac-8e0b-4064-90b2-085ba11a9563</string>
+			<key>PRODUCT_NAME</key>
+			<string>tortillas, flour</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>ee220779-42b4-4e21-ab01-b690051615da</string>
 			<key>PRODUCT_ID</key>
@@ -1997,6 +2125,12 @@
 			<string>vegetables, frozen mixed</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>5a1b789e-8991-48d2-bfa0-1d3703bf40ea</string>
+			<key>PRODUCT_NAME</key>
+			<string>veggie chorizo crumbles</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>44bbbb28-09fa-4a95-b321-72968ec278ab</string>
 			<key>PRODUCT_ID</key>
@@ -2019,6 +2153,12 @@
 			<string>44bd803d-a470-4048-8482-a20e193615e2</string>
 			<key>PRODUCT_NAME</key>
 			<string>vinegar, red wine</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>dabfd4f3-28be-4fe7-a6c3-a3f86d504d97</string>
+			<key>PRODUCT_NAME</key>
+			<string>vinegar, white wine</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
@@ -2071,6 +2211,18 @@
 			<string>a84fcd68-b59c-4a00-8a3a-a88f37b4ff3f</string>
 			<key>PRODUCT_NAME</key>
 			<string>yoghurt, plain</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>f39db982-0061-4466-8a39-6b1bd751f031</string>
+			<key>PRODUCT_NAME</key>
+			<string>za'atar</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>ca249d0c-753a-41f6-944c-b624ccf7e981</string>
+			<key>PRODUCT_NAME</key>
+			<string>zaatar</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -4019,6 +4171,98 @@ Eat this salad the day it is made. It is not designed to keep beyond that – it
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Preheat oven to 400 degrees. Peel and quarter shallots, then place on a large piece of aluminum foil. Lift sides of foil and crimp to make a bowl. Toss in balsamic vinegar, a drizzle of olive oil, and a pinch of salt and pepper. Place on a baking sheet. Roast until shallots are soft and browned, 15-20 minutes.
+Wash and dry all produce. Bring 3 cups water and stock concentrates to a low simmer in a small pot. Mince or grate garlic. Halve lemon. Using a vegetable peeler, shave zucchini into ribbons, running blade down the length. Stop shaving once you get to the seedy core. Finely chop core.
+Melt 1 TBSP butter in a large, tallsided pan or medium pot over medium heat. Add garlic and zucchini core to pan. Cook, tossing, until softened, about 3 minutes. Add rice and cook, stirring, until grains are translucent, 1-2 minutes.
+Add stock to pan ½ cup at a time, stirring after each addition. Allow rice to absorb most of stock before adding more. Continue until grains are al dente and creamy, 25-30 minutes. Season with salt and pepper.
+While risotto cooks, heat a drizzle of olive oil in another large pan over medium heat. Add zucchini ribbons. Season with salt and pepper. Cook, tossing, until tender and softened, about 5 minutes. Add a squeeze of lemon and toss.
+Stir shallots and Parmesan into risotto. Season with salt and pepper. Divide risotto between plates and top with zucchini ribbons.</string>
+			<key>RECIPE_ID</key>
+			<string>c162a39c-8942-4b12-91e7-ee07e4532248</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>a1a0e660-984d-400a-a556-8a3843114b9e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>3.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>60ccb831-00d2-4d69-b97f-09acb08c6cc6</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>ac5dea01-5b13-4940-b290-e1ecdc3bdb86</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>clove</string>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>37988310-67f8-4723-9238-fe90d11c3353</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>90d6d382-767a-4172-99ee-7e49a3704eb8</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/caramelized-shallot-risotto-595673693bddb560b62fe272/</string>
+			<key>RECIPE_NAME</key>
+			<string>Caramelized Shallot Risotto</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>Heat oil, stir fry onion and garlic for 1 min
 
 Add ginger, saute 1 min
@@ -4273,6 +4517,109 @@ Serve with rice.</string>
 			<string>Vege MIM (Pg 58)</string>
 			<key>RECIPE_NAME</key>
 			<string>Cauliflower, Pea And Fried Tofu Curry</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>PREHEAT AND PREP: Wash and dry all produce. Adjust rack to middle position and preheat oven to 205’C. Cut corn kernels from cob. Finely dice tomato. Drain beans, reserving liquid. Halve, peel, and thinly slice shallot. Zest 0.5 tsp zest from lime, then cut into quarters. Roughly chop coriander. Thinly slice jalapeno, removing ribs and seeds first for less heat.
+PICKLE SHALLOT AND CHAR CORN: Toss shallot, vinegar and 0.5 tsp sugar in a small bowl. Season with salt and pepper. Set aside. Heat a drizzle of olive oil in a medium pan over high heat. Add corn and cook, tossing occasionally, until lightly charred, 3-4 minutes. Season with salt and pepper. Remove from pan and set aside.
+WARM BEANS: Heat a large drizzle of oil in a small pot over medium heat Add beans and half the fry seasoning. Cook until beans and slightly soft, 2-3 minutes. Add 0.25 cups bean liquid and a pinch of salt. Reduce heat to medium low and cook, stirring occasionally, until fully warmed through, 1-2 minutes. Mash with a potato masher or fork until mostly smooth.
+COAT CORN AND MAKE CREMA: Stir together corn, juice from one lime quarter, 1 TBSP sour cream (save the rest for the creama), cheese, and raining fry seasoning in a small bowl. Season with salt and pepper. In another small bowl, combine remaining sour cream, 1 TBSP coriander, lime zest, a squeeze of lime juice, and 1 TBSP water. Season with salt and pepper.
+ASSEMBLE TACOS: Divide tortillas between plates. Spread each with beans, then top with tomato, corn mixture and shallot. Drizzle with cream. Sprinkle with remaining coriander and jalapeno (to taste)</string>
+			<key>RECIPE_ID</key>
+			<string>2b5f2a3a-357e-4288-b3b3-1e35f44d9f7a</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>1c96da96-3a6b-4782-9db3-588fe705f8ce</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>488623b3-8936-45ff-8868-0359d98de691</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tins</string>
+					<key>PRODUCT_ID</key>
+					<string>d44c09af-9d4c-42d7-af73-a189b8c7c2d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>a1a0e660-984d-400a-a556-8a3843114b9e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>9c950777-6afb-42cc-9692-49accedb7b9a</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>15.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>05726e3f-a03e-4fe5-8b92-fb87d586cc37</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>10.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>dabfd4f3-28be-4fe7-a6c3-a3f86d504d97</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>12.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>small</string>
+					<key>PRODUCT_ID</key>
+					<string>86472eac-8e0b-4064-90b2-085ba11a9563</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>2c166dc2-eee8-4f3e-87d1-5f9ba3a9f52d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>120.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>dd3f85fd-8c27-4069-9adc-e5d7c2712ff9</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Hello Fresh</string>
+			<key>RECIPE_NAME</key>
+			<string>Cheesy Corn Tacos</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -5523,6 +5870,86 @@ bread and serve with mango chutney.
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>PREHEAT AND PREP: Wash and dry all produce. Preheat grill to high or oven to 260’C. Halve, peel and thinly slice onion. Strip thyme leaves from stems, discard stems.
+COOK AROMATICS: Melt 1 TBSP butter in a large pan over medium heat (use oven proof pan if you have one). Add thyme and onion. Cook until softened, 5-6 minutes. Season with salt and pepper. Pout in stock concentrate and 1 cup water and bring to a simmer.
+SIMMER PASTA: Once stock mixture is simmering, add ravioli to pan. Cover and cook 4 minutes. Uncover and increase heat to high. Continue cooking, spooning stock over ravioli, until ravioli are tender and stock has reduced, 5-6 minutes. Shake pan occasionally to keep ravioli from sticking.
+MAKE CRUST: Combine 0.5 cup breadcrumbs, parmesan, a drizzle of olive oil, and a pinch of salt and pepper in a small bowl.
+ADD SOUR CREAM AND SPINACH: Remove pan from heat. Carefully stir sour cream and spinach into pan until thoroughly combined and spinach is wilted. Season with salt and pepper. (TIP: Add up to 0.5 cup water if sauce seems very thick). If your pan is not overproof, transfer mixture to a baking dish at this point.
+BROIL AND FINISH: Sprinkle ravioli in pan (or dish) with crust mixture. Place under grill and grill until golden brown, 1-2 minutes. Divide between plates and serve.</string>
+			<key>RECIPE_ID</key>
+			<string>b4bc24c6-9413-4ddb-abb4-5ba5336e93f5</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>8e4b602e-5c16-4eb5-aaea-6e340f23ad76</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>10.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>176a1501-7bc3-4332-9513-a4030d60f4df</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>500.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>46dea5cf-dcd3-441f-94ab-8088622c3636</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>750ea4a8-f3ca-46fe-978d-37a43913acf3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>120.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>140.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>b8b4e8d1-201c-4d27-8f01-405fc0199823</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Hello Fresh</string>
+			<key>RECIPE_NAME</key>
+			<string>Easy-Peasy Ravioli Gratin</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>Process chickpeas and onion in FP
 
 Add remaining items except oil, shape
@@ -6134,6 +6561,106 @@ Serve with noodles</string>
 			<string>Printed Sheet</string>
 			<key>RECIPE_NAME</key>
 			<string>German Apple Cake</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Preheat oven to 450 degrees. Combine farro, stock concentrates, and 3½ cups water in a medium pot. Bring to a boil and cook until farro is tender, 30-35 minutes total. TIP: If water evaporates before farro is cooked, add a splash more.
+Wash and dry all produce. Trim and discard bottom woody ends of asparagus. Cut off fuzzy tips and set aside. Chop stalks into ½-inch pieces. Slice zucchini into thin rounds. Mince or grate garlic. Halve, peel, and finely dice onion. Zest, then halve lemon.
+Toss asparagus tips, zucchini, and a large drizzle of olive oil on a baking sheet. Season generously with salt and pepper. Roast in oven until nicely browned, 15-20 minutes, tossing halfway through.
+Meanwhile, heat a drizzle of olive oil in a large pan over medium-high heat. Add onion and cook, tossing frequently, until soft and translucent, 3-4 minutes. Add garlic and cook, tossing, until fragrant, another minute.
+Stir asparagus stalk pieces into pot with farro about 5 minutes before farro is done (grains should be just shy of al dente). Drain once both are tender, then add to pan with onion and garlic. Stir in juice of one lemon half, half the lemon zest, half the Parmesan, and 1 TBSP butter. Season with salt and pepper.
+Divide farro mixture between bowls. Top with zucchini and asparagus tips. Sprinkle with remaining lemon zest, walnuts, and remaining Parmesan. Cut any remaining lemon into wedges and serve on the side.</string>
+			<key>RECIPE_ID</key>
+			<string>54025a70-3e50-427b-b662-afaca990d623</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>97a252bc-4491-4b67-8ad6-262a14c8c68d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>340.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>5038fd1d-ed98-4eb4-a6bd-c0ab010cca17</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>clove</string>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>55.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>53e83809-e53e-4c00-8a27-2fbef7412ed6</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>3.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>37988310-67f8-4723-9238-fe90d11c3353</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>8e4b602e-5c16-4eb5-aaea-6e340f23ad76</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>90d6d382-767a-4172-99ee-7e49a3704eb8</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/gorgeous-greens-farro-bowl-5a296b06ae702a267d7cad32/</string>
+			<key>RECIPE_NAME</key>
+			<string>Gorgeous Greens Farro Bowl</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -7343,6 +7870,106 @@ Stir in cilantro and serve.</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Place 1 cup water and a pinch of salt in a small pot. Bring to a boil, then add quinoa. Lower heat, reduce to a simmer, and cover. Cook until tender, about 15 minutes, then transfer to a large bowl. Stir in 1 TBSP butter. Season with salt and pepper. Set aside.
+Meanwhile, heat ¼ cup oil in a large pan over medium-high heat. Cut sweet potato into ½-inch cubes. Drain artichokes, then pat dry with a paper towel. (TIP: Dry them well to reduce oil splatters when cooking). Halve tomatoes. Cut baguette into 1-inch cubes. Line a plate with paper towels.
+Once oil is hot, add sweet potato to pan. Cook until tender and crisped, turning to brown all over, 8-10 minutes. Remove from pan with a slotted spoon and set aside to drain on your lined plate. Season immediately with 1 tsp barbecue seasoning (we’ll use the rest later) and plenty of salt and pepper.
+Add artichokes to same pan. Cook until crisped, turning to brown all over, 4-6 minutes. Remove from pan with a slotted spoon and transfer to plate with sweet potato. Season immediately with another 1 tsp barbecue seasoning (we’ll use the rest in the next step) and plenty of salt and pepper. Carefully pour out oil in pan, then wipe out any charred bits with a paper towel.
+Return same pan to medium-high heat and add 1 TBSP butter and a large drizzle of olive oil. Once butter melts, add baguette cubes. Toast, tossing, until golden brown all over, 3-5 minutes. Season with salt and pepper. Meanwhile, in a small bowl, mix remaining barbecue seasoning, sour cream, 2 tsp olive oil, and 1 tsp water. If thick, add another 1 tsp water. Season with salt and pepper.
+Fluff quinoa in bowl with a fork, then add arugula and a drizzle of olive oil. Season with salt and pepper. Add half each of the sweet potato, artichokes, tomatoes, croutons, and feta cheese and toss to combine. Divide between bowls for serving, then top with remaining half of the ingredients. Drizzle with dressing.</string>
+			<key>RECIPE_ID</key>
+			<string>8f087398-3967-4924-b7f2-7129949bca83</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>3b3e5d1c-ed47-4549-9e43-411b759fa314</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>370.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>146b9653-414c-4a41-aae3-00e5e2f13c01</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>a66c4341-0ad0-4886-9dec-5f6f0814e046</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>aa03ea76-318e-4a8b-9ce9-0865139d1600</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>68b4df92-2c81-4a1f-8a74-62551b3637e5</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>punnet</string>
+					<key>PRODUCT_ID</key>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>bag</string>
+					<key>PRODUCT_ID</key>
+					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>90d6d382-767a-4172-99ee-7e49a3704eb8</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>e37ce90f-832a-452f-a3af-78aa4f39b77c</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>50.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/loaded-quinoa-bowls-5addf1ecae08b54fc11b20d2?locale=en-US</string>
+			<key>RECIPE_NAME</key>
+			<string>Loaded Quinoa Bowls</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>1. Heat pan, add oil, celery, capsicum, onion and garlic for 7 minutes. 
 
 2. Add bay leaf and thyme, cook for 2 minutes.
@@ -7521,6 +8148,110 @@ Stir in cilantro and serve.</string>
 			<string>jamieoliver.com</string>
 			<key>RECIPE_NAME</key>
 			<string>Margarita</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Preheat oven to 450 degrees. Mince or grate garlic. Trim and discard woody bottoms from asparagus, then cut into 3-inch pieces. Strip thyme leaves from stems. Discard stems; roughly chop leaves. Put stock concentrates and 1 cup water in a small pot and bring to a simmer.
+Toss garlic, asparagus, tomatoes, half the thyme, and a drizzle of olive oil on a baking sheet. Season with salt and pepper. Roast in oven until asparagus is tender and tomatoes have burst, about 20 minutes, tossing halfway through.
+Thinly slice scallions, keeping greens and whites separate. Melt **1 TBSP butter*** in a medium pot over medium heat. Add scallion whites and cook, tossing, until fragrant, 1-2 minutes.
+Add couscous and remaining thyme to pot with scallion whites and garlic. Cook, tossing, until grains are lightly toasted, about 1 minute.
+Pour simmering stock into pot with couscous. Reduce heat to low, cover, and simmer until tender, 8-10 minutes.**
+Fluff couscous with a fork. Season with salt and pepper. Divide between plates, then top with roasted veggies. Sprinkle with almonds, feta cheese, and scallion greens.</string>
+			<key>RECIPE_ID</key>
+			<string>a8d755a4-fe00-46e1-8a28-dcc1635a051a</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>clove</string>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>15.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>176a1501-7bc3-4332-9513-a4030d60f4df</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>777d1f91-172f-48c9-b0db-1ef5119d953d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>aa03ea76-318e-4a8b-9ce9-0865139d1600</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>450.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>5038fd1d-ed98-4eb4-a6bd-c0ab010cca17</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>1ffe3876-0649-44d3-b17c-eea8bbaa5597</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>55.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>7b3bc234-7ff1-41d4-a43c-35b327683431</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>90d6d382-767a-4172-99ee-7e49a3704eb8</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/mediterranean-baked-veggies-5964ec41c6243b72f3769e62/</string>
+			<key>RECIPE_NAME</key>
+			<string>Mediterranean Baked Veggies</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -8453,6 +9184,94 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Preheat broiler to high or oven to 500 degrees. Trim, then thinly slice mushrooms. Halve, peel, and thinly slice half the onion (use the rest as you like). Strip thyme leaves from stems; discard stems.
+Heat a drizzle of olive oil in a large pan over medium heat (use an ovenproof pan if you have one). Add mushrooms, onion, and thyme. Cook, tossing, until softened, 5-6 minutes. Season with salt and pepper. Stir in stock concentrate and 1½ cups water. Bring to a simmer.
+Add ravioli to pan in an even layer. Cover and cook 4 minutes. Uncover and cook, spooning stock over ravioli occasionally, until tender, 5-6 minutes. If liquid evaporates before ravioli are tender, add a splash of water to pan. TIP: Shake pan occasionally to keep ravioli from sticking.
+While ravioli cook, combine ¼ cup panko (we sent more), Parmesan, a drizzle of olive oil, and a pinch of salt and pepper in a small bowl.
+Add sour cream to pan and gently stir to coat ravioli and create a thick sauce. (TIP: If sauce seems dry, add a splash of water.) Season with salt and pepper. If your pan is not ovenproof, transfer mixture to a small baking dish at this point.
+Sprinkle crust mixture over ravioli. Broil or bake until crust is golden and crisp, 1-2 minutes. Divide between plates and serve.</string>
+			<key>RECIPE_ID</key>
+			<string>eeb7ff62-6b9d-4484-b3b0-70467ba1ae38</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>450.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>cd6fa82b-3876-4b76-a81b-63677ca1e9ea</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>7.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>176a1501-7bc3-4332-9513-a4030d60f4df</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>500.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>58cd4f68-d755-48c1-a48f-c65ce2355c26</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>8e4b602e-5c16-4eb5-aaea-6e340f23ad76</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>750ea4a8-f3ca-46fe-978d-37a43913acf3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/one-pan-mushroom-ravioli-gratin-59fa08ff043c3c1c08566522/</string>
+			<key>RECIPE_NAME</key>
+			<string>One-Pan Mushroom Ravioli Gratin</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>1. Mix rocket and spinach leaves, half the mint, orange slices and sliced red onion.
 
 2. Scatter with olives, drizzle with dressing
@@ -8527,6 +9346,87 @@ Fold empty half of omelette over filling, let set for about a minute and then se
 			<string></string>
 			<key>RECIPE_NAME</key>
 			<string>Orange, Feta &amp; Olive Salad</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>In a large bowl, toss the walnuts, salad greens, and oranges.
+In a large jar with a lid, mix the olive oil, orange juice, vinegar, mustard, oregano, and pepper. Seal jar, and shake to mix.
+Divide the salad greens mixture into individual servings. To serve, sprinkle with blue cheese, and drizzle with the dressing mixture.</string>
+			<key>RECIPE_ID</key>
+			<string>10fd1f1c-cdcd-46e9-ad75-b08d8a6c2d8a</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>60.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>53e83809-e53e-4c00-8a27-2fbef7412ed6</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>185.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>ad34e260-8c0a-43f8-adf1-9fc4d32306a3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>80.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>33e7394b-95f5-4c82-9696-c3a42949c825</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>ac5dea01-5b13-4940-b290-e1ecdc3bdb86</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>b7925219-f278-41df-b80c-dcbe9d174eaa</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>c5140462-eeaa-45d0-98e5-bb29c464ec39</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>9bd04c63-a18f-400b-9538-a0df87f5d2a5</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>fbf798df-8ac5-4d0d-b4f8-76a185e70f06</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.allrecipes.com/recipe/72876/orange-walnut-gorgonzola-and-mixed-greens-salad-with-fresh-citrus-vinaigrette/</string>
+			<key>RECIPE_NAME</key>
+			<string>Orange, Walnut, Blue Cheese And Mixed Greens Salad</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -9092,6 +9992,96 @@ Mix.</string>
 			<string>Sheet</string>
 			<key>RECIPE_NAME</key>
 			<string>Penne With Spinach, Feta And Olives</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Preheat broiler to high or oven to 500 degrees. Thinly slice garlic. Trim and discard bottom woody ends from asparagus, then cut stalks into 2-inch pieces.
+Heat a drizzle of olive oil in a large pan over medium heat (use an ovenproof pan if you have one). Add asparagus and cook, tossing, until slightly softened, 1-2 minutes. Add garlic and toss until fragrant, about 1 minute. Season with salt and pepper.
+Add 1 cup milk (we sent more), stock concentrate, and pesto to pan and stir to combine. Add tortelloni in a single layer. Bring mixture to a boil, then lower heat slightly. Let simmer, stirring occasionally, until sauce thickens and tortelloni are tender, 5-7 minutes. TIP: Add a splash of water if sauce seems dry.
+While tortelloni simmer, combine ¼ cup panko (we sent more), Parmesan, and a drizzle of olive oil in a small bowl. Season with salt and pepper.
+Remove pan from heat. (TIP: Transfer mixture to small baking dish at this point if your pan isn’t ovenproof.) Sprinkle crust mixture over tortelloni, covering them as evenly as possible.
+Place pan or dish under broiler (or in oven). Remove once crust is toasty and sauce is bubbly, 1-2 minutes. Divide tortelloni between bowls and serve.</string>
+			<key>RECIPE_ID</key>
+			<string>1da7909e-a722-4035-80eb-95f1835c1c73</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>clove</string>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>6835e25e-45d0-4065-8c7f-adb07ea46b78</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>110.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>bdd0552d-3af8-46b7-acfd-da02f1fe8bd3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>750ea4a8-f3ca-46fe-978d-37a43913acf3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>500.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>5038fd1d-ed98-4eb4-a6bd-c0ab010cca17</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>500.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>46dea5cf-dcd3-441f-94ab-8088622c3636</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/pesto-tortelloni-bake-5a2b082d30a03b05c9516492/</string>
+			<key>RECIPE_NAME</key>
+			<string>Pesto Tortelloni Bake</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -10477,6 +11467,206 @@ Place the tin on the preheated baking tray and bake for 10 mins, then reduce the
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Adjust rack to middle position and preheat oven to 400 degrees. Cut sweet potatoes into ½-inch cubes. Toss on a baking sheet with 1 TBSP olive oil and a pinch of salt and pepper. Roast in oven until tender and lightly browned, about 20 minutes.
+Meanwhile, halve, peel, and dice onion. Pick cilantro leaves from stems; discard stems. Mince or grate garlic. Drain and rinse half the beans from the box (use the rest as you like). Zest ½ tsp zest from lime, then cut into halves.
+Heat 1 TBSP olive oil in a large pan over medium heat. Add onion and cook, tossing occasionally, until softened, 5-6 minutes. Season with salt and pepper. Add garlic and beans to pan. Cook, tossing, until fragrant and warmed through, 3-4 minutes.
+Wrap tortillas in foil and place in oven to warm, about 5 minutes. (TIP: Alternatively, wrap tortillas in a damp paper towel and microwave on high until warm, about 30 seconds.) Toss sweet potatoes, honey, cumin, and juice from one lime half into pan with beans and cook until liquid is mostly evaporated, 2-3 minutes. Season with salt and pepper.
+Halve, pit, and peel avocado. Cut one half into thin slices. Roughly chop other half and place in a medium bowl along with sour cream, juice from remaining lime half, and lime zest. Mash with a fork until mostly smooth. Season with salt and pepper.
+Spread avocado crema onto tortillas, then top each with filling, avocado slices, and cilantro. TIP: Break out the hot sauce if you like it spicy.</string>
+			<key>RECIPE_ID</key>
+			<string>fa25b830-b7d7-422f-810a-bdcc0be1907f</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>f200ea5b-d1ee-4178-89c6-fedc54e34e80</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>10.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>380.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>d44c09af-9d4c-42d7-af73-a189b8c7c2d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>12.0</real>
+					<key>PRODUCT_ID</key>
+					<string>86472eac-8e0b-4064-90b2-085ba11a9563</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>20c198d4-0b82-4a34-842b-ac1a61f9e3f6</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>120.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>8e4b602e-5c16-4eb5-aaea-6e340f23ad76</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>clove</string>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>9c950777-6afb-42cc-9692-49accedb7b9a</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>30.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>0d586cc8-149b-4985-8731-29df3f3ba155</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/sweet-potato-and-black-bean-tacos-5abd494fae08b54b610ca122?locale=en-US</string>
+			<key>RECIPE_NAME</key>
+			<string>Sweet Potato And Black Bean Tacos</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Preheat oven to 205’C, peel kumara, cube, toss kumara and chickpeas on baking sheet, drizzle with olive oil, salt, pepper. Roast 20-25 minutes
+In medium pot bring 1.5 cups of water and 2 cups of stock to boil, add farro, cover, simmer for 25-30 minutes (drain excess)
+Halve orange and lemon
+In medium bowl whisk mustard, juice of half a lemon, juice of 1 oranges and large drizzle of olive oil
+Thinly slice avacado
+Toss farrow with half the dressing
+Divide farro between plates, toss arugula with dressing, layer on farro, arrange kumara, chickpeas, avacado or orange pieces
+Sprinkle with almonds and feta</string>
+			<key>RECIPE_ID</key>
+			<string>034addea-219e-4bf1-8e1e-cff3d8c497aa</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>ad34e260-8c0a-43f8-adf1-9fc4d32306a3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>f200ea5b-d1ee-4178-89c6-fedc54e34e80</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tins</string>
+					<key>PRODUCT_ID</key>
+					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>97a252bc-4491-4b67-8ad6-262a14c8c68d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>b7925219-f278-41df-b80c-dcbe9d174eaa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>0d586cc8-149b-4985-8731-29df3f3ba155</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>60.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>a25a1872-e197-4cd1-8bc3-eb48c3edf79f</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>block</string>
+					<key>PRODUCT_ID</key>
+					<string>aa03ea76-318e-4a8b-9ce9-0865139d1600</string>
+				</dict>
+				<dict>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Hello Fresh</string>
+			<key>RECIPE_NAME</key>
+			<string>Sweet Potato Sunshine Bowl</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>- Cook pasta, drain
 
 - In pan, cook ginger, garlic in oil for 15 sec. Stir in broccoli, mushrooms and sauce. Cook 5 min.
@@ -11803,6 +12993,293 @@ Add in all beans, corn, coriander and lime and cook until heated through.</strin
 			<string>Pinterest</string>
 			<key>RECIPE_NAME</key>
 			<string>Vegetarian Quinoa Chili</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>PREP: Wash and dry all produce. Halve, peel and thinly slice onion. Mince a few slices until you have 3 TBSP minced onion. Core and seed poblano, then thinly slice. Core and seed tomato, then cut into 1/4 inch cubes. Finely chop coriander. Zest a big pinch of zest from the lime, then cut lime into wedges.
+MAKE KIWI SALSA: Combine tomato, minced onion, kiwis, a squeeze of lime juice, and half the coriander in a small bowl. Season with salt, pepper and more lime juice (to taste). Set aside.
+COOK VEGES: Heat a large drizzle of oil in a large pan over medium-high heat. Add poblano and sliced onion. Season with salt and pepper. Cook, tossing, until softened and slightly charred, 3-5 minutes.
+WARM VEGGIE CRUMBLES: Add veggie crumbles and another drizzle of oil to pan and toss to combine. Season with salt and pepper. Cook until crumbles are warmed through and starting to brown, about 5 minutes. Reduce heat to low to keep warm, stirring occasionally.
+MAKE LIME CREMA: In another small bowl, combine lime zest, a squeeze of lime juice, and sour cream. Season with salt, pepper, and more lime juice (to taste). Wrap tortillas in a moist paper towel and microwave on high until warm, about 30 seconds.</string>
+			<key>RECIPE_ID</key>
+			<string>685e53ca-5496-42d2-81a7-1fe61b75702c</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>b97a5e76-3620-4917-943f-d5111f0c53b8</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>cc6a8766-6259-4f3a-a1da-69e366bb86c9</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>488623b3-8936-45ff-8868-0359d98de691</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>2086aa4b-574b-4f24-a0e2-f90397eaf482</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>15.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>33c183d8-0697-48a6-8592-961ba5e69d1e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>9c950777-6afb-42cc-9692-49accedb7b9a</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>450.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>5a1b789e-8991-48d2-bfa0-1d3703bf40ea</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>120.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>12.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>small</string>
+					<key>PRODUCT_ID</key>
+					<string>86472eac-8e0b-4064-90b2-085ba11a9563</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>Hello Fresh</string>
+			<key>RECIPE_NAME</key>
+			<string>Veggie Chorizo Tacos</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Adjust rack to upper position and preheat oven to 450 degrees. Halve squash lengthwise, then slice crosswise into thin half-moons. Trim, then thinly slice scallions. Halve lemon. Halve tomatoes lengthwise. Pick basil leaves from stems; discard stems.
+Heat a large pan over medium heat. Add pine nuts and toast, tossing frequently, until golden brown and fragrant, 3-4 minutes. (TIP: If nuts seem like they might burn, remove pan from heat for a few seconds.) Remove nuts from pan and set aside.
+Heat a drizzle of olive oil in same pan over medium-high heat. Add scallions and cook until fragrant, about 30 seconds. Add squash and cook until soft and lightly browned, 5-6 minutes, tossing. Season with salt and pepper.
+Place flatbreads on a baking sheet. Tear mozzarella into small pieces with your hands and scatter over flatbreads. Top with squash mixture. Bake in oven until cheese is melted and flatbreads are golden brown, about 10 minutes.
+Meanwhile, toss mixed greens, tomatoes, a squeeze of lemon, and a drizzle of olive oil in a medium bowl. Season with salt and pepper.
+Once flatbreads are done, scatter with basil, pine nuts, and chili flakes (to taste). Drizzle with honey. Cut into slices and serve with salad on the side.</string>
+			<key>RECIPE_ID</key>
+			<string>d53c3dda-ee6b-4b11-bc74-9e3ce4da8517</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>5b78f687-5644-4df7-964f-a0e26b2cbff4</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>15.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>15c0c104-3631-4dae-ae9a-801dba842f1f</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>2e3bcfa1-198b-42d3-8ee5-7647e6a3cebf</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>170.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>28.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>1ffe3876-0649-44d3-b17c-eea8bbaa5597</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>55.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>ede0f9bc-cf39-4236-a2b3-3cbcf4f685ef</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>1330bfd2-e94c-4e80-8f3c-7f7934124e04</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>3bb5a6b4-41e1-48c7-91a8-3d23759fe872</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/yellow-squash-flatbreads-5a8f0ee6ae08b52e57553e92/</string>
+			<key>RECIPE_NAME</key>
+			<string>Yellow Squash Flatbreads</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Adjust rack to upper position and preheat oven to 450 degrees. Peel and halve shallot. Mince one half; thinly slice other half.
+Stir together 3 cups water, farro, minced shallot, veggie stock concentrate, and a few large pinches of salt in a medium pot. Bring to a boil, then lower heat slightly and bring to a rapid simmer. Cook, uncovered, until tender, 30-35 minutes. Drain any excess water. Season with salt and pepper.
+Meanwhile, peel carrots. Slice half the carrots crosswise into ¼-inch-thick coins, then toss on a baking sheet with a drizzle of olive oil, 1½ tsp za’atar (we’ll use the rest later), and a large pinch of salt and pepper. Roast in oven until tender, 15-20 minutes. Shave remaining carrots lengthwise into ribbons using a vegetable peeler.
+On a small plate, mix remaining za’atar and 1½ tsp sesame seeds (save the rest for garnish). Gently press goat cheese rounds into mixture, coating all over. Set aside.
+Zest 1 tsp zest from lemon, then cut into halves. Squeeze 2 TBSP juice into a large bowl. Add zest, 1 TBSP olive oil, tahini, honey, and 1 TBSP warm water and whisk until combined. Season with salt and pepper. TIP: If the dressing is thick, add more warm water, 1 tsp at a time, until it reaches a drizzly consistency.
+Add arugula, drained farro, roasted carrots, carrot ribbons, sliced shallot (to taste), and remaining sesame seeds to bowl with dressing and toss to combine. Season with salt and pepper. Divide between bowls or plates, top with goat cheese, and serve.</string>
+			<key>RECIPE_ID</key>
+			<string>6af9275d-00de-48b4-b430-f6f0ef67f568</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>a1a0e660-984d-400a-a556-8a3843114b9e</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>3.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cups</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>ca249d0c-753a-41f6-944c-b624ccf7e981</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>115.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>602adc4d-5c04-4c9d-a74b-8108f31fb2e4</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>55.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>5e2ee085-d920-411b-a8f7-5be9b41a6b63</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>115.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>11f84a43-efa1-46e4-88a2-ace0a74d159b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>97a252bc-4491-4b67-8ad6-262a14c8c68d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>52027fbd-cdb5-477d-84a3-eff7caf92d8b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>9c811918-490f-4b6a-a59b-777ccc422ade</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>28.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>d6bb7c5a-5f84-47c4-a746-a5f6b58b0dfd</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/zaatar-crusted-goat-cheese-5abd47faae08b54a9864bbb2/</string>
+			<key>RECIPE_NAME</key>
+			<string>Za'atar-Crusted Goat Cheese</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
