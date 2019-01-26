@@ -47,6 +47,7 @@
 				<string>350f9205-23b6-4710-bcb5-051b49751811</string>
 				<string>4a41abdc-26dd-47e6-b7b2-916a0af6e9d8</string>
 				<string>3835044d-8aab-412f-9834-0620733d5212</string>
+				<string>c162a39c-8942-4b12-91e7-ee07e4532248</string>
 				<string>b4442c11-7485-4e6e-b195-da712361b563</string>
 				<string>538a3ab7-c743-497f-8b43-a8975bd0fc39</string>
 				<string>e7493e7c-5593-48a6-bd4e-f056abceecdf</string>
@@ -54,6 +55,8 @@
 				<string>b323a2a2-b5a9-4b59-86e3-11369c17ae96</string>
 				<string>5d4d9eab-9b4a-49ef-a628-a1157a803f68</string>
 				<string>2c4e45b2-7fb5-461d-8db0-98a902aa01af</string>
+				<string>b4bc24c6-9413-4ddb-abb4-5ba5336e93f5</string>
+				<string>54025a70-3e50-427b-b662-afaca990d623</string>
 				<string>7caecc7d-e346-464e-a5a2-804e0fab0b89</string>
 				<string>8bcde196-cc03-4a1b-80a6-60227077be85</string>
 				<string>c9495000-a751-46df-a5d1-d4aef6969298</string>
@@ -62,15 +65,20 @@
 				<string>2cdb6efc-7ac1-446b-96b1-6937e64998a4</string>
 				<string>c3f56d3b-0051-4eb0-9d0c-b0eda5af4e1a</string>
 				<string>fc777716-a7cf-4b15-9b92-5c6876f834d1</string>
+				<string>a8d755a4-fe00-46e1-8a28-dcc1635a051a</string>
 				<string>711601dd-c831-4fd1-8142-afff49341158</string>
 				<string>80d0780c-9e7f-42ab-8a0d-127ee0a77a20</string>
 				<string>2fb55412-e3d8-4af6-9169-901b49cea075</string>
+				<string>eeb7ff62-6b9d-4484-b3b0-70467ba1ae38</string>
 				<string>dd7ee4c9-6111-470d-9551-5dae94001028</string>
 				<string>079cf078-5045-40ad-af41-4bccaef0f59e</string>
 				<string>476503ff-b2f1-43bf-a3ef-2cc74fd0fbbf</string>
 				<string>74943d58-7938-48d1-a3a5-783f0496af56</string>
+				<string>1da7909e-a722-4035-80eb-95f1835c1c73</string>
 				<string>c6ef6d80-0dbc-498d-b79f-6ad91637fbd4</string>
+				<string>034addea-219e-4bf1-8e1e-cff3d8c497aa</string>
 				<string>0db9ba41-849a-41cf-9013-edcc28ac9fc0</string>
+				<string>67e6c8e0-8b60-4cad-b5c2-c5cda10dd090</string>
 				<string>dfd30b6a-64fc-4f0c-99bb-0cc83f39287d</string>
 				<string>a371b649-150f-40da-8ca7-b2145bf7cd0c</string>
 				<string>4a0b2b70-07c6-49e8-8e2d-515adc861488</string>
@@ -83,6 +91,7 @@
 			<key>CATEGORY_RECIPES</key>
 			<array>
 				<string>c15953c5-7b28-4d08-87cd-b4077f1476b2</string>
+				<string>7c6096c3-84e8-4c39-ac54-df29bb00c927</string>
 				<string>7a0abe45-8917-4da8-86fd-f1c0d379f3a1</string>
 				<string>021232e5-6ef1-4e4c-ad74-f46d664dba1c</string>
 				<string>0c8bdc46-7e2a-46cf-8345-78f740252e31</string>
@@ -103,11 +112,17 @@
 				<string>e2b9384c-0c66-4b8c-90ac-b4e1df791324</string>
 				<string>dfc3a776-6a43-49b2-8704-c46b067a1395</string>
 				<string>2eb1d1dc-a270-4a43-8f1d-0b6ec49549fd</string>
+				<string>2b5f2a3a-357e-4288-b3b3-1e35f44d9f7a</string>
 				<string>b323a2a2-b5a9-4b59-86e3-11369c17ae96</string>
+				<string>c5d3df9c-19b7-48e5-a2ab-b08a9b2af89a</string>
+				<string>a0dc847b-bb10-4b37-8d88-ac132e6c0f2b</string>
 				<string>e9ac11cd-c172-4004-a25d-5b0353e19c3e</string>
 				<string>63610304-6bfc-4272-b9ed-e6eafdd993b4</string>
+				<string>8f087398-3967-4924-b7f2-7129949bca83</string>
 				<string>711601dd-c831-4fd1-8142-afff49341158</string>
 				<string>946f837f-888b-4193-b7bc-fbd5df868944</string>
+				<string>a9684883-0481-4d6c-ad9e-7b8f99fac690</string>
+				<string>f67cf12e-5093-42b7-8025-cf2557a48ef7</string>
 				<string>0b2f1db2-cf62-4a50-95bd-923f3e68662a</string>
 				<string>61c78730-024f-4a90-ad56-01267359edf9</string>
 				<string>d61f528f-de05-416a-9e32-a19d408eab71</string>
@@ -115,8 +130,13 @@
 				<string>0eba8e0d-5b78-460e-a446-08c7fd175ce4</string>
 				<string>fc43ba9a-1898-473e-9bd1-243877c8da6d</string>
 				<string>8f6eab66-6e9d-4200-8507-baf175869dc9</string>
+				<string>fa25b830-b7d7-422f-810a-bdcc0be1907f</string>
 				<string>20c03c12-8c98-49b4-93d6-5a9b6d49428b</string>
 				<string>9804917f-3411-43f0-ab51-b9e6dc3635d9</string>
+				<string>685e53ca-5496-42d2-81a7-1fe61b75702c</string>
+				<string>d53c3dda-ee6b-4b11-bc74-9e3ce4da8517</string>
+				<string>6af9275d-00de-48b4-b430-f6f0ef67f568</string>
+				<string>42b7c501-586a-4a54-9c94-0e17c17e4bbb</string>
 			</array>
 		</dict>
 	</array>
@@ -423,6 +443,12 @@
 			<string>broccoli</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>dd4fbe41-5853-49d4-93f4-7565f9bb2388</string>
+			<key>PRODUCT_NAME</key>
+			<string>broccoli, baby</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>991cd561-1a5f-41ca-a51d-1eed50eef0e7</string>
 			<key>PRODUCT_ID</key>
@@ -581,6 +607,12 @@
 			<string>cheese, goats</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>2b161da1-4bcd-4206-814a-de04cdb1e730</string>
+			<key>PRODUCT_NAME</key>
+			<string>cheese, grilling</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>81c3b9ca-3e2d-4c44-a0d6-30d9dcc751c8</string>
 			<key>PRODUCT_ID</key>
@@ -687,6 +719,12 @@
 			<string>3bb5a6b4-41e1-48c7-91a8-3d23759fe872</string>
 			<key>PRODUCT_NAME</key>
 			<string>chilli, flakes</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>91aa18e9-2207-4e82-ad94-d602ccb13eb9</string>
+			<key>PRODUCT_NAME</key>
+			<string>chipotle, powder</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1001,6 +1039,12 @@
 			<string>ginger</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>26e152c2-569c-462e-b08e-2206429f41d7</string>
+			<key>PRODUCT_NAME</key>
+			<string>gnocchi</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
@@ -1231,6 +1275,12 @@
 			<string>ecca30b5-3e88-4d06-878a-4efd0ba133ea</string>
 			<key>PRODUCT_NAME</key>
 			<string>margarine</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>13cd0cfc-edd8-4bed-ae6a-c108dcaf7a21</string>
+			<key>PRODUCT_NAME</key>
+			<string>mayonnaise</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
@@ -1687,6 +1737,12 @@
 			<string>potato, sweet</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>3258ed53-80fc-4d98-a336-7be360cc9117</string>
+			<key>PRODUCT_NAME</key>
+			<string>potatoes, yukon gold</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>4aaa7e94-4282-40d8-83d8-41712fea1806</string>
 			<key>PRODUCT_ID</key>
@@ -1923,6 +1979,12 @@
 			<string>snow pea sprouts</string>
 		</dict>
 		<dict>
+			<key>PRODUCT_ID</key>
+			<string>53d166a0-8950-454a-9fc4-fac88ee4c610</string>
+			<key>PRODUCT_NAME</key>
+			<string>southwest spice blend</string>
+		</dict>
+		<dict>
 			<key>PRODUCT_CATEGORY_ID</key>
 			<string>b5fdbbd7-ed99-492e-91f5-1494efb8364b</string>
 			<key>PRODUCT_ID</key>
@@ -1975,6 +2037,12 @@
 			<string>a206ee67-0b7d-4fef-9cbf-7c87f879c53f</string>
 			<key>PRODUCT_NAME</key>
 			<string>sugar, caster</string>
+		</dict>
+		<dict>
+			<key>PRODUCT_ID</key>
+			<string>086ae7ee-e1ec-4c94-8aaf-adad29d88723</string>
+			<key>PRODUCT_NAME</key>
+			<string>sumac</string>
 		</dict>
 		<dict>
 			<key>PRODUCT_ID</key>
@@ -5678,6 +5746,93 @@ Divide ravioli mixture between plates, then garnish with remaining Parmesan and 
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Preheat oven to 425 degrees. Drain and rinse chickpeas, then pat dry with a paper towel. Transfer to a baking sheet, pushing them toward one side, and toss with Southwest spice, a drizzle of olive oil, and a pinch of salt and pepper. Roast in oven until crisp, 20-25 minutes (watch out—the chickpeas may pop).
+While chickpeas roast, core and seed bell pepper, then cut into ½-inchwide strips. Halve and peel onion, then cut into ½-inch-thick wedges. Finely dice a wedge or two until you have 3 TBSP diced onion. Trim, then thinly slice scallions, keeping greens and whites separate.
+After chickpeas have roasted 5-10 minutes, remove baking sheet from oven and toss bell pepper and onion wedges with a drizzle of olive oil on empty side of same sheet. (TIP: Use tongs to avoid burns.) Return sheet to oven and roast until veggies are tender and lightly browned, about 15 minutes.
+Zest lime until you have ½ tsp zest, then cut into quarters. Halve and pit avocado, then scoop flesh into a medium bowl. Add diced onion, juice from one lime quarter, and salt and pepper (to taste). Mash with a fork until mostly smooth. Stir in scallion whites and half the scallion greens.
+Stir lime zest, sour cream, and a squeeze of lime in a small bowl. Season with a pinch of salt. Wrap tortillas in foil and place in oven to warm for 5 minutes.
+Spread a layer of guacamole onto tortillas. Fill each with chickpeas and roasted veggies, then dollop with crema and garnish with remaining scallion greens. Serve with remaining lime quarters on the side for squeezing over.
+</string>
+			<key>RECIPE_ID</key>
+			<string>c5d3df9c-19b7-48e5-a2ab-b08a9b2af89a</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>760.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>ac5a31dc-81d1-4c13-adb0-122ead8ba7fa</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>4cadf393-461f-4380-b752-26d0abbc8ce7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>1ffe3876-0649-44d3-b17c-eea8bbaa5597</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>0d586cc8-149b-4985-8731-29df3f3ba155</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>12.0</real>
+					<key>PRODUCT_ID</key>
+					<string>86472eac-8e0b-4064-90b2-085ba11a9563</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>53d166a0-8950-454a-9fc4-fac88ee4c610</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>b97a5e76-3620-4917-943f-d5111f0c53b8</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>9c950777-6afb-42cc-9692-49accedb7b9a</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>120.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>ml</string>
+					<key>PRODUCT_ID</key>
+					<string>a2c694dd-f777-4754-b9e4-8eaa891f6d1d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/crispy-chickpea-tacos-59d68d60a2882a3dab512fd2/</string>
+			<key>RECIPE_NAME</key>
+			<string>Crispy Chickpea Tacos</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>1. Fry onion, capsicum &amp; zucchini in oil until tender.
 
 2. For each of the 4 tortillas: Put 0.25 of veg mix, 0.25 beans, scatter some cubed feta and diced tomato on half a tortilla.
@@ -7936,7 +8091,7 @@ Fluff quinoa in bowl with a fork, then add arugula and a drizzle of olive oil. S
 					<key>INGREDIENT_UNIT</key>
 					<string>bag</string>
 					<key>PRODUCT_ID</key>
-					<string>f3646e9f-ba21-434a-8934-c29f5e85b33b</string>
+					<string>11f84a43-efa1-46e4-88a2-ace0a74d159b</string>
 				</dict>
 				<dict>
 					<key>INGREDIENT_AMOUNT</key>
@@ -9908,6 +10063,126 @@ Mix.</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Drain artichokes, then halve lengthwise through stem ends. Pat dry between two paper towels.
+Thinly slice olives. Halve tomatoes lengthwise. Pick parsley leaves from stems. Mince or grate garlic. Peel potatoes, then cut into ½-inch cubes.
+Heat a thin layer of olive oil (we used 2 TBSP) in a large pan over medium-high heat. Add potatoes and cook, tossing occasionally, until browned and crispy all over, 8-10 minutes. Remove from pan with a slotted spoon and transfer to a paper-towel-lined plate. Season with salt and pepper. Set aside.
+Add artichokes to same pan. Cook, tossing occasionally, until browned and crisp on surface, 5-6 minutes. Remove from pan with a slotted spoon and transfer to another paper-towel-lined plate. Season with salt and pepper. Set aside.
+In a small bowl, combine mayonnaise, 1 TBSP white wine vinegar (we sent more), a pinch of garlic, and a pinch of chipotle powder. Season with salt, pepper, and more garlic and chipotle powder, as desired.
+Divide arugula between plates. Top with potatoes, artichokes, tomatoes, olives, feta, and almonds. Drizzle with aioli and garnish with parsley.</string>
+			<key>RECIPE_ID</key>
+			<string>a9684883-0481-4d6c-ad9e-7b8f99fac690</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>jars</string>
+					<key>PRODUCT_ID</key>
+					<string>146b9653-414c-4a41-aae3-00e5e2f13c01</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>13cd0cfc-edd8-4bed-ae6a-c108dcaf7a21</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>91aa18e9-2207-4e82-ad94-d602ccb13eb9</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>aa03ea76-318e-4a8b-9ce9-0865139d1600</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>50.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>5de54b1d-3cf6-431d-934e-51ec654368fb</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>15.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>ba902b5a-57d6-41b6-ae0a-5422cb1dbbae</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>680.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>3258ed53-80fc-4d98-a336-7be360cc9117</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>dabfd4f3-28be-4fe7-a6c3-a3f86d504d97</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>120.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>11f84a43-efa1-46e4-88a2-ace0a74d159b</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>55.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>7b3bc234-7ff1-41d4-a43c-35b327683431</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/patatas-bravas-and-crispy-artichokes-59f0d6ab043c3c167530b2d2/</string>
+			<key>RECIPE_NAME</key>
+			<string>Patatas Bravas And Crispy Artichokes</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>- Combine oil, vinegar and garlic
 
 - Add pasta, spinach, olives, capers and cheese
@@ -9992,6 +10267,81 @@ Mix.</string>
 			<string>Sheet</string>
 			<key>RECIPE_NAME</key>
 			<string>Penne With Spinach, Feta And Olives</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Preheat oven to 450 degrees. Trim and discard bottom inch of baby broccoli. Chop into bite-sized pieces. Halve zucchini lengthwise, then slice into thin half-moons. Mince garlic.
+Heat a large drizzle of olive oil in a large pan over high heat. Add zucchini and baby broccoli. Cook until crisp-tender and starting to brown, about 5-7 minutes. Season with salt and pepper. Add garlic and cook until fragrant, about 30 seconds.
+Thinly slice or tear mozzarella into small pieces. Finely chop sun-dried tomatoes.
+Place flatbread on a lightly oiled baking sheet. Spread each flatbread with pesto. Top with mozzarella, baby broccoli, zucchini, and sun-dried tomatoes.
+Bake flatbread until cheese is melted and starting to brown, about 5-7 minutes.
+Remove flatbread from oven and cut into slices.
+</string>
+			<key>RECIPE_ID</key>
+			<string>f67cf12e-5093-42b7-8025-cf2557a48ef7</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>37988310-67f8-4723-9238-fe90d11c3353</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>686fe6f7-e6f4-41ee-a695-5404aaa837c2</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>230.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>1330bfd2-e94c-4e80-8f3c-7f7934124e04</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>85.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>032c6a3f-123c-41bb-9176-ff1ea4e8c78d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>340.0</real>
+					<key>PRODUCT_ID</key>
+					<string>dd4fbe41-5853-49d4-93f4-7565f9bb2388</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>115.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>bdd0552d-3af8-46b7-acfd-da02f1fe8bd3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>4.0</real>
+					<key>PRODUCT_ID</key>
+					<string>2e3bcfa1-198b-42d3-8ee5-7647e6a3cebf</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/pesto-flatbread-w49-581c9e26c7262806b474e252/</string>
+			<key>RECIPE_NAME</key>
+			<string>Pesto Flatbread (Aka Posh Pizza)</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
@@ -11851,6 +12201,94 @@ Just before serving, stir in the lime juice, cilantro and green onion. </string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Bring a large pot of salted water to a boil. Trim, then thinly slice mushrooms. Cut green beans into 2-inch pieces. Roughly chop sun-dried tomatoes. Cut lemon into wedges.
+Heat a drizzle of olive oil in large pan over medium-high heat. Add mushrooms to pan and cook, tossing, until tender, 4-5 minutes. Season with salt and pepper. Remove from pan and set aside.
+Once water is boiling, add green beans to pot. Cook until just barely tender, 2-3 minutes. Remove from pot with a slotted spoon, place in a strainer, and rinse under very cold water (keep the pot of boiling water on stove for the gnocchi). Remove beans from strainer and set aside.
+Add gnocchi to same pot of boiling water. Cook, stirring occasionally, until just softened, 2-3 minutes, then drain, tossing gently in strainer to remove excess moisture.
+Melt 1 TBSP butter in pan used for mushrooms over medium-high heat. Add gnocchi to pan and cook, tossing, until lightly browned, 3-5 minutes.
+Add pesto, sun-dried tomatoes, green beans, half the Parmesan, and mushrooms to pan with gnocchi. Cook, tossing, until combined and warmed through, 1-2 minutes. Season with salt and pepper. Divide between bowls, then sprinkle with remaining Parmesan. Serve with lemon wedges for squeezing over.</string>
+			<key>RECIPE_ID</key>
+			<string>67e6c8e0-8b60-4cad-b5c2-c5cda10dd090</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>225.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>cd6fa82b-3876-4b76-a81b-63677ca1e9ea</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>85.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>032c6a3f-123c-41bb-9176-ff1ea4e8c78d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>500.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>26e152c2-569c-462e-b08e-2206429f41d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>0.5</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>21da64e5-ebe1-4e28-a060-4dd1b7869109</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>340.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>2c9c153f-5266-478f-acfd-ab174946e710</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>110.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>bdd0552d-3af8-46b7-acfd-da02f1fe8bd3</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>90d6d382-767a-4172-99ee-7e49a3704eb8</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/pan-seared-gnocchi-5a4e5faead1d6c465325a9b2/</string>
+			<key>RECIPE_NAME</key>
+			<string>Toasty Pesto Gnocchi</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
 			<string>Fry tofu slabs on medium heat for 4 mins each side.
 Onion goes in at the same time as the tofu.
 </string>
@@ -13279,7 +13717,107 @@ Add arugula, drained farro, roasted carrots, carrot ribbons, sliced shallot (to 
 			<key>RECIPE_LOCATION</key>
 			<string>https://www.hellofresh.com/recipes/zaatar-crusted-goat-cheese-5abd47faae08b54a9864bbb2/</string>
 			<key>RECIPE_NAME</key>
-			<string>Za'atar-Crusted Goat Cheese</string>
+			<string>Za'Atar-Crusted Goat Cheese</string>
+		</dict>
+		<dict>
+			<key>RECIPE_DIRECTIONS</key>
+			<string>Wash and dry all produce. Preheat broiler to high or oven to 500 degrees. Halve, peel, and cut onion into 1-inchthick wedges. Finely mince 1 wedge. Zest lemon until you have 1 tsp zest, then cut into wedges. Halve zucchini lengthwise. Slice each half into long, thin wedges. Halve tomatoes. Pick basil leaves from stems; discard stems. Thinly slice leaves.
+Heat a drizzle of olive oil in a small pot over medium-high heat. Add minced onion and couscous. Cook, tossing, until onion is softened and couscous is lightly toasted, 2-3 minutes. Pour in 1 cup water and stock concentrate. Bring to a boil, then lower heat, reduce to a simmer, and cover. Cook until tender, 10-12 minutes.
+Toss zucchini, onion wedges, sumac, and a large drizzle of olive oil on a baking sheet. Season with salt and pepper. Broil (or bake) until lightly charred, 10-15 minutes, tossing halfway through.
+Heat a drizzle of olive oil in a large pan over medium-high heat (use a nonstick pan if you have one). Take 4 oz grilling cheese (about half the package; we sent more than needed) and cut into 2 large slices. Place za’atar on a plate. Press cheese into za’atar to evenly coat all over. Add to pan and cook until browned, 2-3 minutes per side.
+Transfer couscous to a large bowl once it is tender. Stir in tomatoes, half the basil, a squeeze of lemon juice, and lemon zest. Season with salt and pepper.
+Divide couscous between plates. Top with zucchini, onion, and grilling cheese. Garnish with remaining basil and serve with lemon wedges on the side for squeezing over.</string>
+			<key>RECIPE_ID</key>
+			<string>42b7c501-586a-4a54-9c94-0e17c17e4bbb</string>
+			<key>RECIPE_INGREDIENTS</key>
+			<array>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>b97a5e76-3620-4917-943f-d5111f0c53b8</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>PRODUCT_ID</key>
+					<string>37988310-67f8-4723-9238-fe90d11c3353</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>14.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>15c0c104-3631-4dae-ae9a-801dba842f1f</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>369e14f7-b6fe-4d6a-8901-d39309481969</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>230.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>2b161da1-4bcd-4206-814a-de04cdb1e730</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>PRODUCT_ID</key>
+					<string>95153f34-9f08-4bd9-a105-3ec662229e35</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>230.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>g</string>
+					<key>PRODUCT_ID</key>
+					<string>74084484-a375-446b-9a86-880f365c43d7</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>1.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>cup</string>
+					<key>PRODUCT_ID</key>
+					<string>777d1f91-172f-48c9-b0db-1ef5119d953d</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>086ae7ee-e1ec-4c94-8aaf-adad29d88723</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>2.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tbsp</string>
+					<key>PRODUCT_ID</key>
+					<string>ca249d0c-753a-41f6-944c-b624ccf7e981</string>
+				</dict>
+				<dict>
+					<key>INGREDIENT_AMOUNT</key>
+					<real>8.0</real>
+					<key>INGREDIENT_UNIT</key>
+					<string>tsp</string>
+					<key>PRODUCT_ID</key>
+					<string>52b47e5b-0d2b-40c7-b7e7-4089bb9c0867</string>
+				</dict>
+			</array>
+			<key>RECIPE_LOCATION</key>
+			<string>https://www.hellofresh.com/recipes/zaatar-crusted-grilling-cheese-5a1f3b0dc94eac138c1b9d62/</string>
+			<key>RECIPE_NAME</key>
+			<string>Za'Atar-Crusted Grilling Cheese</string>
 		</dict>
 		<dict>
 			<key>RECIPE_DIRECTIONS</key>
